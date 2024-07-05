@@ -1,277 +1,425 @@
-Year,Status,No.,Electricity,Total
-2023,Public,1,Unavaiable,0
-2023,Private,1,Unavaiable,0
-2023,Public,2,Unavaiable,0
-2023,Private,2,Unavaiable,0
-2023,Private,3,Unavaiable,0
-2023,Public,3,Unavaiable,0
-2023,Public,4,Unavaiable,0
-2023,Private,4,Unavaiable,0
-2023,Private,5,Unavaiable,0
-2023,Public,5,Unavaiable,0
-2023,Private,6,Unavaiable,0
-2023,Public,6,Unavaiable,0
-2023,Private,7,Unavaiable,0
-2023,Public,7,Unavaiable,0
-2023,Private,8,Unavaiable,0
-2023,Private,9,Unavaiable,0
-2023,Public,9,Unavaiable,0
-2023,Public,10,Unavaiable,0
-2023,Private,10,Unavaiable,0
-2023,Private,11,Unavaiable,0
-2023,Public,11,Unavaiable,0
-2023,Private,12,Unavaiable,0
-2023,Public,12,Unavaiable,0
-2023,Public,13,Unavaiable,0
-2023,Private,13,Unavaiable,0
-2023,Public,14,Unavaiable,0
-2023,Private,14,Unavaiable,0
-2023,Private,15,Unavaiable,0
-2023,Public,15,Unavaiable,0
-2023,Private,16,Unavaiable,0
-2023,Public,16,Unavaiable,0
-2023,Private,17,Unavaiable,0
-2023,Public,17,Unavaiable,0
-2023,Private,18,Unavaiable,0
-2023,Public,18,Unavaiable,0
-2023,Private,19,Unavaiable,0
-2023,Public,19,Unavaiable,0
-2023,Public,20,Unavaiable,0
-2023,Private,20,Unavaiable,0
-2023,Public,21,Unavaiable,0
-2023,Private,21,Unavaiable,0
-2023,Private,22,Unavaiable,0
-2023,Public,22,Unavaiable,0
-2023,Public,23,Unavaiable,0
-2023,Private,23,Unavaiable,0
-2023,Private,24,Unavaiable,0
-2023,Public,24,Unavaiable,0
-2023,Private,25,Unavaiable,0
-2023,Public,25,Unavaiable,0
-2023,Private,26,Unavaiable,0
-2023,Public,26,Unavaiable,0
-2023,Private,27,Unavaiable,0
-2023,Public,27,Unavaiable,0
-2023,Public,28,Unavaiable,0
-2023,Private,28,Unavaiable,0
-2023,Private,29,Unavaiable,0
-2023,Public,29,Unavaiable,0
-2023,Private,30,Unavaiable,0
-2023,Public,30,Unavaiable,0
-2023,Private,31,Unavaiable,0
-2023,Public,31,Unavaiable,0
-2023,Private,32,Unavaiable,0
-2023,Public,32,Unavaiable,0
-2023,Public,33,Unavaiable,0
-2023,Private,33,Unavaiable,0
-2023,Public,34,Unavaiable,0
-2023,Private,34,Unavaiable,0
-2022,Public,1,Unavaiable,0
-2022,Private,1,Unavaiable,0
-2022,Public,2,Unavaiable,0
-2022,Public,3,Unavaiable,0
-2022,Private,3,Unavaiable,0
-2022,Public,4,Unavaiable,0
-2022,Private,4,Unavaiable,0
-2022,Private,5,Unavaiable,0
-2022,Public,5,Unavaiable,0
-2022,Public,6,Unavaiable,0
-2022,Public,7,Unavaiable,0
-2022,Private,8,Unavaiable,0
-2022,Public,9,Unavaiable,0
-2022,Private,10,Unavaiable,0
-2022,Public,10,Unavaiable,0
-2022,Private,11,Unavaiable,0
-2022,Private,12,Unavaiable,0
-2022,Public,12,Unavaiable,0
-2022,Public,13,Unavaiable,0
-2022,Private,13,Unavaiable,0
-2022,Private,14,Unavaiable,0
-2022,Public,14,Unavaiable,0
-2022,Private,15,Unavaiable,0
-2022,Public,15,Unavaiable,0
-2022,Private,16,Unavaiable,0
-2022,Public,16,Unavaiable,0
-2022,Public,17,Unavaiable,0
-2022,Private,17,Unavaiable,0
-2022,Public,18,Unavaiable,0
-2022,Private,18,Unavaiable,0
-2022,Private,19,Unavaiable,0
-2022,Public,19,Unavaiable,0
-2022,Public,20,Unavaiable,0
-2022,Public,21,Unavaiable,0
-2022,Private,21,Unavaiable,0
-2022,Private,22,Unavaiable,0
-2022,Public,22,Unavaiable,0
-2022,Private,23,Unavaiable,0
-2022,Public,23,Unavaiable,0
-2022,Public,24,Unavaiable,0
-2022,Private,24,Unavaiable,0
-2022,Public,25,Unavaiable,0
-2022,Private,25,Unavaiable,0
-2022,Public,26,Unavaiable,0
-2022,Private,26,Unavaiable,0
-2022,Private,27,Unavaiable,0
-2022,Public,27,Unavaiable,0
-2022,Public,28,Unavaiable,0
-2022,Private,28,Unavaiable,0
-2022,Private,29,Unavaiable,0
-2022,Public,29,Unavaiable,0
-2022,Public,30,Unavaiable,0
-2022,Private,30,Unavaiable,0
-2022,Private,31,Unavaiable,0
-2022,Public,31,Unavaiable,0
-2022,Private,32,Unavaiable,0
-2022,Public,32,Unavaiable,0
-2022,Public,32,Unavaiable,0
-2022,Public,33,Unavaiable,0
-2022,Private,33,Unavaiable,0
-2022,Public,34,Unavaiable,0
-2022,Private,34,Unavaiable,0
-2022,Private,21,Avaiable,0
-2022,Private,23,Avaiable,0
-2023,Private,23,Avaiable,0
-2022,Private,2,Unavaiable,2
-2022,Private,6,Unavaiable,2
-2022,Private,7,Unavaiable,5
-2022,Public,8,Unavaiable,2
-2023,Public,8,Unavaiable,1
-2022,Private,9,Unavaiable,1
-2022,Public,11,Unavaiable,1
-2022,Private,20,Unavaiable,1
-2022,Private,32,Unavaiable,1
-2022,Private,1,Avaiable,151
-2023,Private,1,Avaiable,73
-2022,Private,2,Avaiable,675
-2023,Private,2,Avaiable,331
-2022,Private,3,Avaiable,196
-2023,Private,3,Avaiable,103
-2023,Private,4,Avaiable,147
-2022,Private,4,Avaiable,298
-2023,Private,5,Avaiable,72
-2022,Private,5,Avaiable,140
-2022,Private,6,Avaiable,649
-2023,Private,6,Avaiable,331
-2023,Private,7,Avaiable,36
-2022,Private,7,Avaiable,74
-2022,Private,8,Avaiable,59
-2023,Private,8,Avaiable,31
-2023,Private,9,Avaiable,146
-2022,Private,9,Avaiable,261
-2022,Private,10,Avaiable,60
-2023,Private,10,Avaiable,30
-2022,Private,11,Avaiable,21
-2023,Private,11,Avaiable,12
-2023,Private,12,Avaiable,8
-2022,Private,12,Avaiable,11
-2022,Private,13,Avaiable,41
-2023,Private,13,Avaiable,23
-2022,Private,14,Avaiable,4
-2023,Private,14,Avaiable,2
-2022,Private,15,Avaiable,6
-2023,Private,15,Avaiable,3
-2023,Private,16,Avaiable,18
-2022,Private,16,Avaiable,33
-2022,Private,17,Avaiable,18
-2023,Private,17,Avaiable,11
-2022,Private,18,Avaiable,9
-2023,Private,18,Avaiable,5
-2022,Private,19,Avaiable,8
-2023,Private,19,Avaiable,4
-2023,Private,20,Avaiable,24
-2022,Private,20,Avaiable,48
-2023,Private,21,Avaiable,1
-2022,Private,22,Avaiable,54
-2023,Private,22,Avaiable,29
-2022,Private,24,Avaiable,31
-2023,Private,24,Avaiable,17
-2023,Private,25,Avaiable,71
-2022,Private,25,Avaiable,131
-2022,Private,26,Avaiable,24
-2023,Private,26,Avaiable,12
-2022,Private,27,Avaiable,123
-2023,Private,27,Avaiable,65
-2022,Private,28,Avaiable,10
-2023,Private,28,Avaiable,5
-2022,Private,29,Avaiable,9
-2023,Private,29,Avaiable,8
-2023,Private,30,Avaiable,2
-2022,Private,30,Avaiable,4
-2022,Private,31,Avaiable,64
-2023,Private,31,Avaiable,34
-2022,Private,32,Avaiable,10
-2022,Private,32,Avaiable,11
-2023,Private,32,Avaiable,11
-2022,Private,33,Avaiable,7
-2023,Private,33,Avaiable,2
-2022,Private,34,Avaiable,2
-2023,Private,34,Avaiable,3
-2022,Public,1,Avaiable,26
-2023,Public,1,Avaiable,13
-2022,Public,2,Avaiable,97
-2023,Public,2,Avaiable,56
-2022,Public,3,Avaiable,17
-2023,Public,3,Avaiable,9
-2023,Public,4,Avaiable,41
-2022,Public,4,Avaiable,79
-2022,Public,5,Avaiable,18
-2023,Public,5,Avaiable,9
-2022,Public,6,Avaiable,145
-2023,Public,6,Avaiable,71
-2022,Public,7,Avaiable,58
-2023,Public,7,Avaiable,30
-2022,Public,8,Avaiable,56
-2023,Public,8,Avaiable,28
-2022,Public,9,Avaiable,58
-2023,Public,9,Avaiable,29
-2022,Public,10,Avaiable,34
-2023,Public,10,Avaiable,18
-2022,Public,11,Avaiable,19
-2023,Public,11,Avaiable,10
-2022,Public,12,Avaiable,27
-2023,Public,12,Avaiable,16
-2023,Public,13,Avaiable,16
-2022,Public,13,Avaiable,31
-2022,Public,14,Avaiable,14
-2023,Public,14,Avaiable,7
-2022,Public,15,Avaiable,29
-2023,Public,15,Avaiable,15
-2022,Public,16,Avaiable,26
-2023,Public,16,Avaiable,13
-2022,Public,17,Avaiable,28
-2023,Public,17,Avaiable,15
-2023,Public,18,Avaiable,20
-2022,Public,18,Avaiable,40
-2022,Public,19,Avaiable,42
-2023,Public,19,Avaiable,22
-2023,Public,20,Avaiable,11
-2022,Public,20,Avaiable,22
-2022,Public,21,Avaiable,10
-2023,Public,21,Avaiable,6
-2022,Public,22,Avaiable,12
-2023,Public,22,Avaiable,6
-2023,Public,23,Avaiable,8
-2022,Public,23,Avaiable,16
-2022,Public,24,Avaiable,32
-2023,Public,24,Avaiable,16
-2023,Public,25,Avaiable,23
-2022,Public,25,Avaiable,46
-2022,Public,26,Avaiable,26
-2023,Public,26,Avaiable,13
-2023,Public,27,Avaiable,17
-2022,Public,27,Avaiable,34
-2022,Public,28,Avaiable,20
-2023,Public,28,Avaiable,11
-2022,Public,29,Avaiable,33
-2023,Public,29,Avaiable,17
-2022,Public,30,Avaiable,24
-2023,Public,30,Avaiable,12
-2022,Public,31,Avaiable,36
-2023,Public,31,Avaiable,19
-2022,Public,32,Avaiable,32
-2022,Public,32,Avaiable,30
-2023,Public,32,Avaiable,35
-2022,Public,33,Avaiable,14
-2023,Public,33,Avaiable,5
-2022,Public,34,Avaiable,8
-2023,Public,34,Avaiable,6
+Year,Status,No.,Province,Electricity,Total
+2023,Public,1,DKI Jakarta,Unavaiable,0
+2023,Private,1,DKI Jakarta,Unavaiable,0
+2023,Public,2,Jawa Barat,Unavaiable,0
+2023,Private,2,Jawa Barat,Unavaiable,0
+2023,Private,3,Banten,Unavaiable,0
+2023,Public,3,Banten,Unavaiable,0
+2023,Public,4,Jawa Tengah,Unavaiable,0
+2023,Private,4,Jawa Tengah,Unavaiable,0
+2023,Private,5,DI Yogyakarta,Unavaiable,0
+2023,Public,5,DI Yogyakarta,Unavaiable,0
+2023,Private,6,Jawa Timur,Unavaiable,0
+2023,Public,6,Jawa Timur,Unavaiable,0
+2023,Private,7,Aceh,Unavaiable,0
+2023,Public,7,Aceh,Unavaiable,0
+2023,Private,8,Sumatera Utara,Unavaiable,0
+2023,Private,9,Sumatera Barat,Unavaiable,0
+2023,Public,9,Sumatera Barat,Unavaiable,0
+2023,Public,10,Riau,Unavaiable,0
+2023,Private,10,Riau,Unavaiable,0
+2023,Private,11,Kepulauan Riau,Unavaiable,0
+2023,Public,11,Kepulauan Riau,Unavaiable,0
+2023,Private,12,Jambi,Unavaiable,0
+2023,Public,12,Jambi,Unavaiable,0
+2023,Public,13,Sumatera Selatan,Unavaiable,0
+2023,Private,13,Sumatera Selatan,Unavaiable,0
+2023,Public,14,Kep. Bangka Belitung,Unavaiable,0
+2023,Private,14,Kep. Bangka Belitung,Unavaiable,0
+2023,Private,15,Bengkulu,Unavaiable,0
+2023,Public,15,Bengkulu,Unavaiable,0
+2023,Private,16,Lampung,Unavaiable,0
+2023,Public,16,Lampung,Unavaiable,0
+2023,Private,17,Kalimantan Barat,Unavaiable,0
+2023,Public,17,Kalimantan Barat,Unavaiable,0
+2023,Private,18,Kalimantan Tengah,Unavaiable,0
+2023,Public,18,Kalimantan Tengah,Unavaiable,0
+2023,Private,19,Kalimantan Selatan,Unavaiable,0
+2023,Public,19,Kalimantan Selatan,Unavaiable,0
+2023,Public,20,Kalimantan Timur,Unavaiable,0
+2023,Private,20,Kalimantan Timur,Unavaiable,0
+2023,Public,21,Kalimantan Utara,Unavaiable,0
+2023,Private,21,Kalimantan Utara,Unavaiable,0
+2023,Private,22,Sulawesi Utara,Unavaiable,0
+2023,Public,22,Sulawesi Utara,Unavaiable,0
+2023,Public,23,Gorontalo,Unavaiable,0
+2023,Private,23,Gorontalo,Unavaiable,0
+2023,Private,24,Sulawesi Tengah,Unavaiable,0
+2023,Public,24,Sulawesi Tengah,Unavaiable,0
+2023,Private,25,Sulawesi Selatan,Unavaiable,0
+2023,Public,25,Sulawesi Selatan,Unavaiable,0
+2023,Private,26,Sulawesi Barat,Unavaiable,0
+2023,Public,26,Sulawesi Barat,Unavaiable,0
+2023,Private,27,Sulawesi Tenggara,Unavaiable,0
+2023,Public,27,Sulawesi Tenggara,Unavaiable,0
+2023,Public,28,Maluku,Unavaiable,0
+2023,Private,28,Maluku,Unavaiable,0
+2023,Private,29,Maluku Utara,Unavaiable,0
+2023,Public,29,Maluku Utara,Unavaiable,0
+2023,Private,30,Bali,Unavaiable,0
+2023,Public,30,Bali,Unavaiable,0
+2023,Private,31,Nusa Tenggara Barat,Unavaiable,0
+2023,Public,31,Nusa Tenggara Barat,Unavaiable,0
+2023,Private,32,Nusa Tenggara Timur,Unavaiable,0
+2023,Public,32,Nusa Tenggara Timur,Unavaiable,0
+2023,Public,33,Papua,Unavaiable,0
+2023,Private,33,Papua,Unavaiable,0
+2023,Public,34,Papua Barat,Unavaiable,0
+2023,Private,34,Papua Barat,Unavaiable,0
+2023,Private,35,Papua Selatan,Unavaiable,0
+2023,Public,35,Papua Selatan,Unavaiable,0
+2023,Private,36,Papua Tengah,Unavaiable,0
+2023,Public,36,Papua Tengah,Unavaiable,0
+2023,Private,37,Papua Pegunungan,Unavaiable,0
+2023,Public,37,Papua Pegunungan,Unavaiable,0
+2023,Private,38,Papua Barat Daya,Unavaiable,0
+2023,Public,38,Papua Barat Daya,Unavaiable,0
+2022,Public,1,DKI Jakarta,Unavaiable,0
+2022,Private,1,DKI Jakarta,Unavaiable,0
+2022,Private,2,Jawa Barat,Unavaiable,0
+2022,Public,2,Jawa Barat,Unavaiable,0
+2022,Public,3,Banten,Unavaiable,0
+2022,Private,3,Banten,Unavaiable,0
+2022,Public,4,Jawa Tengah,Unavaiable,0
+2022,Private,4,Jawa Tengah,Unavaiable,0
+2022,Private,5,DI Yogyakarta,Unavaiable,0
+2022,Public,5,DI Yogyakarta,Unavaiable,0
+2022,Private,6,Jawa Timur,Unavaiable,0
+2022,Public,6,Jawa Timur,Unavaiable,0
+2022,Public,7,Aceh,Unavaiable,0
+2022,Private,8,Sumatera Utara,Unavaiable,0
+2022,Public,9,Sumatera Barat,Unavaiable,0
+2022,Public,10,Riau,Unavaiable,0
+2022,Private,10,Riau,Unavaiable,0
+2022,Private,11,Kepulauan Riau,Unavaiable,0
+2022,Public,11,Kepulauan Riau,Unavaiable,0
+2022,Private,12,Jambi,Unavaiable,0
+2022,Public,12,Jambi,Unavaiable,0
+2022,Public,13,Sumatera Selatan,Unavaiable,0
+2022,Private,13,Sumatera Selatan,Unavaiable,0
+2022,Public,14,Bangka Belitung,Unavaiable,0
+2022,Private,14,Bangka Belitung,Unavaiable,0
+2022,Private,15,Bengkulu,Unavaiable,0
+2022,Public,15,Bengkulu,Unavaiable,0
+2022,Private,16,Lampung,Unavaiable,0
+2022,Public,16,Lampung,Unavaiable,0
+2022,Public,17,Kalimantan Barat,Unavaiable,0
+2022,Private,17,Kalimantan Barat,Unavaiable,0
+2022,Public,18,Kalimantan Tengah,Unavaiable,0
+2022,Private,18,Kalimantan Tengah,Unavaiable,0
+2022,Private,19,Kalimantan Selatan,Unavaiable,0
+2022,Public,19,Kalimantan Selatan,Unavaiable,0
+2022,Private,20,Kalimantan Timur,Unavaiable,0
+2022,Public,20,Kalimantan Timur,Unavaiable,0
+2022,Public,21,Kalimantan Utara,Unavaiable,0
+2022,Private,21,Kalimantan Utara,Unavaiable,0
+2022,Private,22,Sulawesi Utara,Unavaiable,0
+2022,Public,22,Sulawesi Utara,Unavaiable,0
+2022,Private,23,Gorontalo,Unavaiable,0
+2022,Public,23,Gorontalo,Unavaiable,0
+2022,Public,24,Sulawesi Tengah,Unavaiable,0
+2022,Private,24,Sulawesi Tengah,Unavaiable,0
+2022,Private,25,Sulawesi Selatan,Unavaiable,0
+2022,Public,25,Sulawesi Selatan,Unavaiable,0
+2022,Public,26,Sulawesi Barat,Unavaiable,0
+2022,Private,26,Sulawesi Barat,Unavaiable,0
+2022,Public,27,Sulawesi Tenggara,Unavaiable,0
+2022,Private,27,Sulawesi Tenggara,Unavaiable,0
+2022,Private,28,Maluku,Unavaiable,0
+2022,Public,28,Maluku,Unavaiable,0
+2022,Private,29,Maluku Utara,Unavaiable,0
+2022,Public,29,Maluku Utara,Unavaiable,0
+2022,Public,30,Bali,Unavaiable,0
+2022,Private,30,Bali,Unavaiable,0
+2022,Private,31,Nusa Tenggara Bara,Unavaiable,0
+2022,Public,31,Nusa Tenggara Bara,Unavaiable,0
+2022,Private,32,Nusa Tenggara Tim,Unavaiable,0
+2022,Public,32,Nusa Tenggara Tim,Unavaiable,0
+2022,Public,33,Papua,Unavaiable,0
+2022,Private,33,Papua,Unavaiable,0
+2022,Private,34,Papua Barat,Unavaiable,0
+2022,Public,34,Papua Barat,Unavaiable,0
+2021,Public,1,DKI Jakarta,Unavaiable,0
+2021,Private,1,DKI Jakarta,Unavaiable,0
+2021,Public,2,Jawa Barat,Unavaiable,0
+2021,Public,3,Banten,Unavaiable,0
+2021,Private,3,Banten,Unavaiable,0
+2021,Public,4,Jawa Tengah,Unavaiable,0
+2021,Private,4,Jawa Tengah,Unavaiable,0
+2021,Private,5,DI Yogyakarta,Unavaiable,0
+2021,Public,5,DI Yogyakarta,Unavaiable,0
+2021,Public,6,Jawa Timur,Unavaiable,0
+2021,Public,7,Aceh,Unavaiable,0
+2021,Private,8,Sumatera Utara,Unavaiable,0
+2021,Public,9,Sumatera Barat,Unavaiable,0
+2021,Private,9,Sumatera Barat,Unavaiable,0
+2021,Private,10,Riau,Unavaiable,0
+2021,Public,10,Riau,Unavaiable,0
+2021,Private,11,Kepulauan Riau,Unavaiable,0
+2021,Private,12,Jambi,Unavaiable,0
+2021,Public,12,Jambi,Unavaiable,0
+2021,Public,13,Sumatera Selatan,Unavaiable,0
+2021,Private,13,Sumatera Selatan,Unavaiable,0
+2021,Private,14,Bangka Belitung,Unavaiable,0
+2021,Public,14,Bangka Belitung,Unavaiable,0
+2021,Private,15,Bengkulu,Unavaiable,0
+2021,Public,15,Bengkulu,Unavaiable,0
+2021,Private,16,Lampung,Unavaiable,0
+2021,Public,16,Lampung,Unavaiable,0
+2021,Public,17,Kalimantan Barat,Unavaiable,0
+2021,Private,17,Kalimantan Barat,Unavaiable,0
+2021,Private,18,Kalimantan Tengah,Unavaiable,0
+2021,Public,18,Kalimantan Tengah,Unavaiable,0
+2021,Public,19,Kalimantan Selatan,Unavaiable,0
+2021,Private,19,Kalimantan Selatan,Unavaiable,0
+2021,Public,20,Kalimantan Timur,Unavaiable,0
+2021,Public,21,Kalimantan Utara,Unavaiable,0
+2021,Private,21,Kalimantan Utara,Unavaiable,0
+2021,Private,22,Sulawesi Utara,Unavaiable,0
+2021,Public,22,Sulawesi Utara,Unavaiable,0
+2021,Private,23,Gorontalo,Unavaiable,0
+2021,Public,23,Gorontalo,Unavaiable,0
+2021,Public,24,Sulawesi Tengah,Unavaiable,0
+2021,Private,24,Sulawesi Tengah,Unavaiable,0
+2021,Public,25,Sulawesi Selatan,Unavaiable,0
+2021,Private,25,Sulawesi Selatan,Unavaiable,0
+2021,Public,26,Sulawesi Barat,Unavaiable,0
+2021,Private,26,Sulawesi Barat,Unavaiable,0
+2021,Private,27,Sulawesi Tenggara,Unavaiable,0
+2021,Public,27,Sulawesi Tenggara,Unavaiable,0
+2021,Public,28,Maluku,Unavaiable,0
+2021,Private,28,Maluku,Unavaiable,0
+2021,Private,29,Maluku Utara,Unavaiable,0
+2021,Public,29,Maluku Utara,Unavaiable,0
+2021,Public,30,Bali,Unavaiable,0
+2021,Private,30,Bali,Unavaiable,0
+2021,Private,31,Nusa Tenggara Bara,Unavaiable,0
+2021,Public,31,Nusa Tenggara Bara,Unavaiable,0
+2021,Public,32,Nusa Tenggara Timu,Unavaiable,0
+2021,Private,33,Papua,Unavaiable,0
+2021,Public,33,Papua,Unavaiable,0
+2021,Public,34,Papua Barat,Unavaiable,0
+2021,Private,34,Papua Barat,Unavaiable,0
+2021,Private,21,Kalimantan Utara,Avaiable,0
+2022,Private,21,Kalimantan Utara,Avaiable,0
+2021,Private,23,Gorontalo,Avaiable,0
+2023,Private,23,Gorontalo,Avaiable,0
+2022,Private,23,Gorontalo,Avaiable,0
+2023,Public,34,Papua Barat,Avaiable,0
+2023,Private,35,Papua Selatan,Avaiable,0
+2023,Private,37,Papua Pegunungan,Avaiable,0
+2023,Public,37,Papua Pegunungan,Avaiable,0
+2023,Private,38,Papua Barat Daya,Avaiable,0
+2021,Private,2,Jawa Barat,Unavaiable,2
+2021,Private,6,Jawa Timur,Unavaiable,2
+2021,Private,7,Aceh,Unavaiable,4
+2022,Private,7,Aceh,Unavaiable,1
+2022,Public,8,Sumatera Utara,Unavaiable,1
+2023,Public,8,Sumatera Utara,Unavaiable,1
+2021,Public,8,Sumatera Utara,Unavaiable,1
+2022,Private,9,Sumatera Barat,Unavaiable,1
+2021,Public,11,Kepulauan Riau,Unavaiable,1
+2021,Private,20,Kalimantan Timur,Unavaiable,1
+2021,Private,32,Nusa Tenggara Timu,Unavaiable,1
+2022,Private,1,DKI Jakarta,Avaiable,76
+2022,Public,1,DKI Jakarta,Avaiable,13
+2022,Public,2,Jawa Barat,Avaiable,51
+2022,Private,2,Jawa Barat,Avaiable,338
+2022,Public,3,Banten,Avaiable,9
+2022,Private,3,Banten,Avaiable,100
+2022,Private,4,Jawa Tengah,Avaiable,148
+2022,Public,4,Jawa Tengah,Avaiable,40
+2022,Public,5,DI Yogyakarta,Avaiable,9
+2022,Private,5,DI Yogyakarta,Avaiable,70
+2022,Private,6,Jawa Timur,Avaiable,325
+2022,Public,6,Jawa Timur,Avaiable,73
+2022,Public,7,Aceh,Avaiable,28
+2022,Private,7,Aceh,Avaiable,36
+2022,Public,8,Sumatera Utara,Avaiable,28
+2022,Private,8,Sumatera Utara,Avaiable,30
+2022,Public,9,Sumatera Barat,Avaiable,29
+2022,Private,9,Sumatera Barat,Avaiable,135
+2022,Private,10,Riau,Avaiable,30
+2022,Public,10,Riau,Avaiable,17
+2022,Public,11,Kepulauan Riau,Avaiable,10
+2022,Private,11,Kepulauan Riau,Avaiable,11
+2022,Private,12,Jambi,Avaiable,6
+2022,Public,12,Jambi,Avaiable,14
+2022,Public,13,Sumatera Selatan,Avaiable,16
+2022,Private,13,Sumatera Selatan,Avaiable,22
+2022,Public,14,Bangka Belitung,Avaiable,7
+2022,Private,14,Bangka Belitung,Avaiable,2
+2022,Public,15,Bengkulu,Avaiable,15
+2022,Private,15,Bengkulu,Avaiable,3
+2022,Private,16,Lampung,Avaiable,17
+2022,Public,16,Lampung,Avaiable,13
+2022,Public,17,Kalimantan Barat,Avaiable,14
+2022,Private,17,Kalimantan Barat,Avaiable,9
+2022,Public,18,Kalimantan Tengah,Avaiable,21
+2022,Private,18,Kalimantan Tengah,Avaiable,4
+2022,Private,19,Kalimantan Selatan,Avaiable,4
+2022,Public,19,Kalimantan Selatan,Avaiable,21
+2022,Public,20,Kalimantan Timur,Avaiable,11
+2022,Private,20,Kalimantan Timur,Avaiable,23
+2022,Public,21,Kalimantan Utara,Avaiable,5
+2022,Private,22,Sulawesi Utara,Avaiable,28
+2022,Public,22,Sulawesi Utara,Avaiable,6
+2022,Public,23,Gorontalo,Avaiable,8
+2022,Private,24,Sulawesi Tengah,Avaiable,17
+2022,Public,24,Sulawesi Tengah,Avaiable,16
+2022,Public,25,Sulawesi Selatan,Avaiable,23
+2022,Private,25,Sulawesi Selatan,Avaiable,68
+2022,Public,26,Sulawesi Barat,Avaiable,13
+2022,Private,26,Sulawesi Barat,Avaiable,12
+2022,Public,27,Sulawesi Tenggara,Avaiable,17
+2022,Private,27,Sulawesi Tenggara,Avaiable,62
+2022,Private,28,Maluku,Avaiable,5
+2022,Public,28,Maluku,Avaiable,11
+2022,Private,29,Maluku Utara,Avaiable,5
+2022,Public,29,Maluku Utara,Avaiable,17
+2022,Public,30,Bali,Avaiable,12
+2022,Private,30,Bali,Avaiable,2
+2022,Private,31,Nusa Tenggara Bara,Avaiable,32
+2022,Public,31,Nusa Tenggara Bara,Avaiable,18
+2022,Public,32,Nusa Tenggara Tim,Avaiable,32
+2022,Private,32,Nusa Tenggara Tim,Avaiable,11
+2022,Private,33,Papua,Avaiable,4
+2022,Public,33,Papua,Avaiable,7
+2022,Public,34,Papua Barat,Avaiable,4
+2022,Private,34,Papua Barat,Avaiable,1
+2021,Private,1,DKI Jakarta,Avaiable,75
+2021,Public,1,DKI Jakarta,Avaiable,13
+2021,Public,2,Jawa Barat,Avaiable,46
+2021,Private,2,Jawa Barat,Avaiable,337
+2021,Public,3,Banten,Avaiable,8
+2021,Private,3,Banten,Avaiable,96
+2021,Private,4,Jawa Tengah,Avaiable,150
+2021,Public,4,Jawa Tengah,Avaiable,39
+2021,Private,5,DI Yogyakarta,Avaiable,70
+2021,Public,5,DI Yogyakarta,Avaiable,9
+2021,Private,6,Jawa Timur,Avaiable,324
+2021,Public,6,Jawa Timur,Avaiable,72
+2021,Private,7,Aceh,Avaiable,38
+2021,Public,7,Aceh,Avaiable,30
+2021,Public,8,Sumatera Utara,Avaiable,28
+2021,Private,8,Sumatera Utara,Avaiable,29
+2021,Private,9,Sumatera Barat,Avaiable,126
+2021,Public,9,Sumatera Barat,Avaiable,29
+2021,Public,10,Riau,Avaiable,17
+2021,Private,10,Riau,Avaiable,30
+2021,Private,11,Kepulauan Riau,Avaiable,10
+2021,Public,11,Kepulauan Riau,Avaiable,9
+2021,Public,12,Jambi,Avaiable,13
+2021,Private,12,Jambi,Avaiable,5
+2021,Private,13,Sumatera Selatan,Avaiable,19
+2021,Public,13,Sumatera Selatan,Avaiable,15
+2021,Public,14,Bangka Belitung,Avaiable,7
+2021,Private,14,Bangka Belitung,Avaiable,2
+2021,Public,15,Bengkulu,Avaiable,14
+2021,Private,15,Bengkulu,Avaiable,3
+2021,Public,16,Lampung,Avaiable,13
+2021,Private,16,Lampung,Avaiable,16
+2021,Private,17,Kalimantan Barat,Avaiable,9
+2021,Public,17,Kalimantan Barat,Avaiable,14
+2021,Private,18,Kalimantan Tengah,Avaiable,5
+2021,Public,18,Kalimantan Tengah,Avaiable,19
+2021,Private,19,Kalimantan Selatan,Avaiable,4
+2021,Public,19,Kalimantan Selatan,Avaiable,21
+2021,Public,20,Kalimantan Timur,Avaiable,11
+2021,Private,20,Kalimantan Timur,Avaiable,25
+2021,Public,21,Kalimantan Utara,Avaiable,5
+2021,Private,22,Sulawesi Utara,Avaiable,26
+2021,Public,22,Sulawesi Utara,Avaiable,6
+2021,Public,23,Gorontalo,Avaiable,8
+2021,Private,24,Sulawesi Tengah,Avaiable,14
+2021,Public,24,Sulawesi Tengah,Avaiable,16
+2021,Public,25,Sulawesi Selatan,Avaiable,23
+2021,Private,25,Sulawesi Selatan,Avaiable,63
+2021,Public,26,Sulawesi Barat,Avaiable,13
+2021,Private,26,Sulawesi Barat,Avaiable,12
+2021,Private,27,Sulawesi Tenggara,Avaiable,61
+2021,Public,27,Sulawesi Tenggara,Avaiable,17
+2021,Public,28,Maluku,Avaiable,9
+2021,Private,28,Maluku,Avaiable,5
+2021,Public,29,Maluku Utara,Avaiable,16
+2021,Private,29,Maluku Utara,Avaiable,4
+2021,Public,30,Bali,Avaiable,12
+2021,Private,30,Bali,Avaiable,2
+2021,Private,31,Nusa Tenggara Bara,Avaiable,32
+2021,Public,31,Nusa Tenggara Bara,Avaiable,18
+2021,Public,32,Nusa Tenggara Timu,Avaiable,30
+2021,Private,32,Nusa Tenggara Timu,Avaiable,10
+2021,Public,33,Papua,Avaiable,7
+2021,Private,33,Papua,Avaiable,3
+2021,Public,34,Papua Barat,Avaiable,4
+2021,Private,34,Papua Barat,Avaiable,1
+2023,Private,1,DKI Jakarta,Avaiable,73
+2023,Public,1,DKI Jakarta,Avaiable,13
+2023,Public,2,Jawa Barat,Avaiable,56
+2023,Private,2,Jawa Barat,Avaiable,331
+2023,Public,3,Banten,Avaiable,9
+2023,Private,3,Banten,Avaiable,103
+2023,Public,4,Jawa Tengah,Avaiable,41
+2023,Private,4,Jawa Tengah,Avaiable,147
+2023,Private,5,DI Yogyakarta,Avaiable,72
+2023,Public,5,DI Yogyakarta,Avaiable,9
+2023,Private,6,Jawa Timur,Avaiable,331
+2023,Public,6,Jawa Timur,Avaiable,71
+2023,Public,7,Aceh,Avaiable,30
+2023,Private,7,Aceh,Avaiable,36
+2023,Public,8,Sumatera Utara,Avaiable,28
+2023,Private,8,Sumatera Utara,Avaiable,31
+2023,Private,9,Sumatera Barat,Avaiable,146
+2023,Public,9,Sumatera Barat,Avaiable,29
+2023,Public,10,Riau,Avaiable,18
+2023,Private,10,Riau,Avaiable,30
+2023,Public,11,Kepulauan Riau,Avaiable,10
+2023,Private,11,Kepulauan Riau,Avaiable,12
+2023,Private,12,Jambi,Avaiable,8
+2023,Public,12,Jambi,Avaiable,16
+2023,Public,13,Sumatera Selatan,Avaiable,16
+2023,Private,13,Sumatera Selatan,Avaiable,23
+2023,Public,14,Kep. Bangka Belitung,Avaiable,7
+2023,Private,14,Kep. Bangka Belitung,Avaiable,2
+2023,Private,15,Bengkulu,Avaiable,3
+2023,Public,15,Bengkulu,Avaiable,15
+2023,Private,16,Lampung,Avaiable,18
+2023,Public,16,Lampung,Avaiable,13
+2023,Private,17,Kalimantan Barat,Avaiable,11
+2023,Public,17,Kalimantan Barat,Avaiable,15
+2023,Public,18,Kalimantan Tengah,Avaiable,20
+2023,Private,18,Kalimantan Tengah,Avaiable,5
+2023,Public,19,Kalimantan Selatan,Avaiable,22
+2023,Private,19,Kalimantan Selatan,Avaiable,4
+2023,Private,20,Kalimantan Timur,Avaiable,24
+2023,Public,20,Kalimantan Timur,Avaiable,11
+2023,Private,21,Kalimantan Utara,Avaiable,1
+2023,Public,21,Kalimantan Utara,Avaiable,6
+2023,Public,22,Sulawesi Utara,Avaiable,6
+2023,Private,22,Sulawesi Utara,Avaiable,29
+2023,Public,23,Gorontalo,Avaiable,8
+2023,Private,24,Sulawesi Tengah,Avaiable,17
+2023,Public,24,Sulawesi Tengah,Avaiable,16
+2023,Public,25,Sulawesi Selatan,Avaiable,23
+2023,Private,25,Sulawesi Selatan,Avaiable,71
+2023,Private,26,Sulawesi Barat,Avaiable,12
+2023,Public,26,Sulawesi Barat,Avaiable,13
+2023,Public,27,Sulawesi Tenggara,Avaiable,17
+2023,Private,27,Sulawesi Tenggara,Avaiable,65
+2023,Private,28,Maluku,Avaiable,5
+2023,Public,28,Maluku,Avaiable,11
+2023,Private,29,Maluku Utara,Avaiable,8
+2023,Public,29,Maluku Utara,Avaiable,17
+2023,Private,30,Bali,Avaiable,2
+2023,Public,30,Bali,Avaiable,12
+2023,Private,31,Nusa Tenggara Barat,Avaiable,34
+2023,Public,31,Nusa Tenggara Barat,Avaiable,19
+2023,Public,32,Nusa Tenggara Timur,Avaiable,35
+2023,Private,32,Nusa Tenggara Timur,Avaiable,11
+2023,Public,33,Papua,Avaiable,5
+2023,Private,33,Papua,Avaiable,2
+2023,Private,34,Papua Barat,Avaiable,1
+2023,Public,35,Papua Selatan,Avaiable,1
+2023,Private,36,Papua Tengah,Avaiable,2
+2023,Public,36,Papua Tengah,Avaiable,1
+2023,Public,38,Papua Barat Daya,Avaiable,4
