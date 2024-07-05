@@ -1,273 +1,433 @@
-Year,No.,Teacher Edu,Total
-2023,1,Public < Bachelor,3
-2023,1,Public ? Bachelor,610
-2023,1,Private < Bachelor,32
-2023,1,Private ? Bachelor,620
-2023,2,Public < Bachelor,4
-2023,2,Public ? Bachelor,1467
-2023,2,Private < Bachelor,83
-2023,2,Private ? Bachelor,2674
-2023,3,Public < Bachelor,0
-2023,3,Public ? Bachelor,349
-2023,3,Private < Bachelor,55
-2023,3,Private ? Bachelor,748
-2023,4,Public < Bachelor,8
-2023,4,Public ? Bachelor,1278
-2023,4,Private < Bachelor,81
-2023,4,Private ? Bachelor,1343
-2023,5,Public < Bachelor,3
-2023,5,Public ? Bachelor,346
-2023,5,Private < Bachelor,20
-2023,5,Private ? Bachelor,696
-2023,6,Public < Bachelor,16
-2023,6,Public ? Bachelor,1066
-2023,6,Private < Bachelor,84
-2023,6,Private ? Bachelor,2550
-2023,7,Public < Bachelor,9
-2023,7,Public ? Bachelor,714
-2023,7,Private < Bachelor,10
-2023,7,Private ? Bachelor,372
-2023,8,Public < Bachelor,15
-2023,8,Public ? Bachelor,514
-2023,8,Private < Bachelor,14
-2023,8,Private ? Bachelor,283
-2023,9,Public < Bachelor,12
-2023,9,Public ? Bachelor,489
-2023,9,Private < Bachelor,50
-2023,9,Private ? Bachelor,949
-2023,10,Public < Bachelor,5
-2023,10,Public ? Bachelor,336
-2023,10,Private < Bachelor,30
-2023,10,Private ? Bachelor,192
-2023,11,Public < Bachelor,0
-2023,11,Public ? Bachelor,145
-2023,11,Private < Bachelor,9
-2023,11,Private ? Bachelor,107
-2023,12,Public < Bachelor,8
-2023,12,Public ? Bachelor,372
-2023,12,Private < Bachelor,4
-2023,12,Private ? Bachelor,53
-2023,13,Public < Bachelor,2
-2023,13,Public ? Bachelor,287
-2023,13,Private < Bachelor,19
-2023,13,Private ? Bachelor,174
-2023,14,Public < Bachelor,6
-2023,14,Public ? Bachelor,141
-2023,14,Private < Bachelor,0
-2023,14,Private ? Bachelor,23
-2023,15,Public < Bachelor,7
-2023,15,Public ? Bachelor,272
-2023,15,Private < Bachelor,1
-2023,15,Private ? Bachelor,43
-2023,16,Public < Bachelor,4
-2023,16,Public ? Bachelor,221
-2023,16,Private < Bachelor,17
-2023,16,Private ? Bachelor,133
-2023,17,Public < Bachelor,5
-2023,17,Public ? Bachelor,131
-2023,17,Private < Bachelor,11
-2023,17,Private ? Bachelor,98
-2023,18,Public < Bachelor,7
-2023,18,Public ? Bachelor,304
-2023,18,Private < Bachelor,2
-2023,18,Private ? Bachelor,29
-2023,19,Public < Bachelor,3
-2023,19,Public ? Bachelor,660
-2023,19,Private < Bachelor,1
-2023,19,Private ? Bachelor,39
-2023,20,Public < Bachelor,3
-2023,20,Public ? Bachelor,258
-2023,20,Private < Bachelor,3
-2023,20,Private ? Bachelor,145
-2023,21,Public < Bachelor,0
-2023,21,Public ? Bachelor,87
-2023,21,Private < Bachelor,0
-2023,21,Private ? Bachelor,3
-2023,22,Public < Bachelor,2
-2023,22,Public ? Bachelor,96
-2023,22,Private < Bachelor,17
-2023,22,Private ? Bachelor,176
-2023,23,Public < Bachelor,8
-2023,23,Public ? Bachelor,205
-2023,23,Private < Bachelor,0
-2023,23,Private ? Bachelor,0
-2023,24,Public < Bachelor,12
-2023,24,Public ? Bachelor,136
-2023,24,Private < Bachelor,9
-2023,24,Private ? Bachelor,105
-2023,25,Public < Bachelor,14
-2023,25,Public ? Bachelor,580
-2023,25,Private < Bachelor,58
-2023,25,Private ? Bachelor,471
-2023,26,Public < Bachelor,7
-2023,26,Public ? Bachelor,199
-2023,26,Private < Bachelor,2
-2023,26,Private ? Bachelor,54
-2023,27,Public < Bachelor,12
-2023,27,Public ? Bachelor,168
-2023,27,Private < Bachelor,47
-2023,27,Private ? Bachelor,382
-2023,28,Public < Bachelor,10
-2023,28,Public ? Bachelor,119
-2023,28,Private < Bachelor,6
-2023,28,Private ? Bachelor,31
-2023,29,Public < Bachelor,11
-2023,29,Public ? Bachelor,180
-2023,29,Private < Bachelor,2
-2023,29,Private ? Bachelor,21
-2023,30,Public < Bachelor,5
-2023,30,Public ? Bachelor,340
-2023,30,Private < Bachelor,3
-2023,30,Private ? Bachelor,18
-2023,31,Public < Bachelor,11
-2023,31,Public ? Bachelor,417
-2023,31,Private < Bachelor,15
-2023,31,Private ? Bachelor,297
-2023,32,Public < Bachelor,29
-2023,32,Public ? Bachelor,580
-2023,32,Private < Bachelor,11
-2023,32,Private ? Bachelor,100
-2023,33,Public < Bachelor,1
-2023,33,Public ? Bachelor,55
-2023,33,Private < Bachelor,1
-2023,33,Private ? Bachelor,9
-2023,34,Public < Bachelor,6
-2023,34,Public ? Bachelor,47
-2023,34,Private < Bachelor,0
-2023,34,Private ? Bachelor,25
-2022,1,Public < Bachelor,29
-2022,1,Public ? Bachelor,1131
-2022,1,Private < Bachelor,228
-2022,1,Private ? Bachelor,1227
-2022,2,Public < Bachelor,120
-2022,2,Public ? Bachelor,2431
-2022,2,Private < Bachelor,535
-2022,2,Private ? Bachelor,5415
-2022,3,Public < Bachelor,44
-2022,3,Public ? Bachelor,670
-2022,3,Private < Bachelor,260
-2022,3,Private ? Bachelor,1309
-2022,4,Public < Bachelor,147
-2022,4,Public ? Bachelor,2297
-2022,4,Private < Bachelor,360
-2022,4,Private ? Bachelor,2824
-2022,5,Public < Bachelor,35
-2022,5,Public ? Bachelor,683
-2022,5,Private < Bachelor,101
-2022,5,Private ? Bachelor,1425
-2022,6,Public < Bachelor,132
-2022,6,Public ? Bachelor,1963
-2022,6,Private < Bachelor,572
-2022,6,Private ? Bachelor,4844
-2022,7,Public < Bachelor,49
-2022,7,Public ? Bachelor,1177
-2022,7,Private < Bachelor,54
-2022,7,Private ? Bachelor,842
-2022,8,Public < Bachelor,87
-2022,8,Public ? Bachelor,908
-2022,8,Private < Bachelor,78
-2022,8,Private ? Bachelor,531
-2022,9,Public < Bachelor,93
-2022,9,Public ? Bachelor,876
-2022,9,Private < Bachelor,196
-2022,9,Private ? Bachelor,1819
-2022,10,Public < Bachelor,35
-2022,10,Public ? Bachelor,606
-2022,10,Private < Bachelor,121
-2022,10,Private ? Bachelor,400
-2022,11,Public < Bachelor,9
-2022,11,Public ? Bachelor,264
-2022,11,Private < Bachelor,55
-2022,11,Private ? Bachelor,166
-2022,12,Public < Bachelor,55
-2022,12,Public ? Bachelor,650
-2022,12,Private < Bachelor,12
-2022,12,Private ? Bachelor,86
-2022,13,Public < Bachelor,42
-2022,13,Public ? Bachelor,452
-2022,13,Private < Bachelor,56
-2022,13,Private ? Bachelor,400
-2022,14,Public < Bachelor,40
-2022,14,Public ? Bachelor,252
-2022,14,Private < Bachelor,8
-2022,14,Private ? Bachelor,36
-2022,15,Public < Bachelor,38
-2022,15,Public ? Bachelor,493
-2022,15,Private < Bachelor,7
-2022,15,Private ? Bachelor,80
-2022,16,Public < Bachelor,85
-2022,16,Public ? Bachelor,440
-2022,16,Private < Bachelor,80
-2022,16,Private ? Bachelor,287
-2022,17,Public < Bachelor,39
-2022,17,Public ? Bachelor,226
-2022,17,Private < Bachelor,27
-2022,17,Private ? Bachelor,177
-2022,18,Public < Bachelor,52
-2022,18,Public ? Bachelor,577
-2022,18,Private < Bachelor,11
-2022,18,Private ? Bachelor,64
-2022,19,Public < Bachelor,81
-2022,19,Public ? Bachelor,1164
-2022,19,Private < Bachelor,10
-2022,19,Private ? Bachelor,78
-2022,20,Public < Bachelor,34
-2022,20,Public ? Bachelor,467
-2022,20,Private < Bachelor,44
-2022,20,Private ? Bachelor,303
-2022,21,Public < Bachelor,5
-2022,21,Public ? Bachelor,165
-2022,21,Private < Bachelor,0
-2022,21,Private ? Bachelor,0
-2022,22,Public < Bachelor,12
-2022,22,Public ? Bachelor,174
-2022,22,Private < Bachelor,75
-2022,22,Private ? Bachelor,352
-2022,23,Public < Bachelor,67
-2022,23,Public ? Bachelor,389
-2022,23,Private < Bachelor,0
-2022,23,Private ? Bachelor,0
-2022,24,Public < Bachelor,66
-2022,24,Public ? Bachelor,276
-2022,24,Private < Bachelor,35
-2022,24,Private ? Bachelor,163
-2022,25,Public < Bachelor,90
-2022,25,Public ? Bachelor,1058
-2022,25,Private < Bachelor,212
-2022,25,Private ? Bachelor,1057
-2022,26,Public < Bachelor,55
-2022,26,Public ? Bachelor,381
-2022,26,Private < Bachelor,23
-2022,26,Private ? Bachelor,112
-2022,27,Public < Bachelor,56
-2022,27,Public ? Bachelor,259
-2022,27,Private < Bachelor,207
-2022,27,Private ? Bachelor,843
-2022,28,Public < Bachelor,38
-2022,28,Public ? Bachelor,213
-2022,28,Private < Bachelor,22
-2022,28,Private ? Bachelor,66
-2022,29,Public < Bachelor,53
-2022,29,Public ? Bachelor,379
-2022,29,Private < Bachelor,9
-2022,29,Private ? Bachelor,54
-2022,30,Public < Bachelor,54
-2022,30,Public ? Bachelor,659
-2022,30,Private < Bachelor,9
-2022,30,Private ? Bachelor,36
-2022,31,Public < Bachelor,78
-2022,31,Public ? Bachelor,675
-2022,31,Private < Bachelor,81
-2022,31,Private ? Bachelor,731
-2022,32,Public < Bachelor,173
-2022,32,Public ? Bachelor,1013
-2022,32,Private < Bachelor,61
-2022,32,Private ? Bachelor,174
-2022,33,Public < Bachelor,15
-2022,33,Public ? Bachelor,176
-2022,33,Private < Bachelor,11
-2022,33,Private ? Bachelor,41
-2022,34,Public < Bachelor,5
-2022,34,Public ? Bachelor,51
-2022,34,Private < Bachelor,1
-2022,34,Private ? Bachelor,16
+Year,No.,Province,Teacher Edu,Value
+2023,1,DKI Jakarta,Public < Bachelor,3
+2023,1,DKI Jakarta,Public ? Bachelor,610
+2023,1,DKI Jakarta,Private < Bachelor,32
+2023,1,DKI Jakarta,Private ? Bachelor,620
+2023,2,Jawa Barat,Public < Bachelor,4
+2023,2,Jawa Barat,Public ? Bachelor,1467
+2023,2,Jawa Barat,Private < Bachelor,83
+2023,2,Jawa Barat,Private ? Bachelor,2674
+2023,3,Banten,Public < Bachelor,0
+2023,3,Banten,Public ? Bachelor,349
+2023,3,Banten,Private < Bachelor,55
+2023,3,Banten,Private ? Bachelor,748
+2023,4,Jawa Tengah,Public < Bachelor,8
+2023,4,Jawa Tengah,Public ? Bachelor,1278
+2023,4,Jawa Tengah,Private < Bachelor,81
+2023,4,Jawa Tengah,Private ? Bachelor,1343
+2023,5,DI Yogyakarta,Public < Bachelor,3
+2023,5,DI Yogyakarta,Public ? Bachelor,346
+2023,5,DI Yogyakarta,Private < Bachelor,20
+2023,5,DI Yogyakarta,Private ? Bachelor,696
+2023,6,Jawa Timur,Public < Bachelor,16
+2023,6,Jawa Timur,Public ? Bachelor,1066
+2023,6,Jawa Timur,Private < Bachelor,84
+2023,6,Jawa Timur,Private ? Bachelor,2550
+2023,7,Aceh,Public < Bachelor,9
+2023,7,Aceh,Public ? Bachelor,714
+2023,7,Aceh,Private < Bachelor,10
+2023,7,Aceh,Private ? Bachelor,372
+2023,8,Sumatera Utara,Public < Bachelor,15
+2023,8,Sumatera Utara,Public ? Bachelor,514
+2023,8,Sumatera Utara,Private < Bachelor,14
+2023,8,Sumatera Utara,Private ? Bachelor,283
+2023,9,Sumatera Barat,Public < Bachelor,12
+2023,9,Sumatera Barat,Public ? Bachelor,489
+2023,9,Sumatera Barat,Private < Bachelor,50
+2023,9,Sumatera Barat,Private ? Bachelor,949
+2023,10,Riau,Public < Bachelor,5
+2023,10,Riau,Public ? Bachelor,336
+2023,10,Riau,Private < Bachelor,30
+2023,10,Riau,Private ? Bachelor,192
+2023,11,Kepulauan Riau,Public < Bachelor,0
+2023,11,Kepulauan Riau,Public ? Bachelor,145
+2023,11,Kepulauan Riau,Private < Bachelor,9
+2023,11,Kepulauan Riau,Private ? Bachelor,107
+2023,12,Jambi,Public < Bachelor,8
+2023,12,Jambi,Public ? Bachelor,372
+2023,12,Jambi,Private < Bachelor,4
+2023,12,Jambi,Private ? Bachelor,53
+2023,13,Sumatera Selatan,Public < Bachelor,2
+2023,13,Sumatera Selatan,Public ? Bachelor,287
+2023,13,Sumatera Selatan,Private < Bachelor,19
+2023,13,Sumatera Selatan,Private ? Bachelor,174
+2023,14,Kep. Bangka Belitung,Public < Bachelor,6
+2023,14,Kep. Bangka Belitung,Public ? Bachelor,141
+2023,14,Kep. Bangka Belitung,Private < Bachelor,0
+2023,14,Kep. Bangka Belitung,Private ? Bachelor,23
+2023,15,Bengkulu,Public < Bachelor,7
+2023,15,Bengkulu,Public ? Bachelor,272
+2023,15,Bengkulu,Private < Bachelor,1
+2023,15,Bengkulu,Private ? Bachelor,43
+2023,16,Lampung,Public < Bachelor,4
+2023,16,Lampung,Public ? Bachelor,221
+2023,16,Lampung,Private < Bachelor,17
+2023,16,Lampung,Private ? Bachelor,133
+2023,17,Kalimantan Barat,Public < Bachelor,5
+2023,17,Kalimantan Barat,Public ? Bachelor,131
+2023,17,Kalimantan Barat,Private < Bachelor,11
+2023,17,Kalimantan Barat,Private ? Bachelor,98
+2023,18,Kalimantan Tengah,Public < Bachelor,7
+2023,18,Kalimantan Tengah,Public ? Bachelor,304
+2023,18,Kalimantan Tengah,Private < Bachelor,2
+2023,18,Kalimantan Tengah,Private ? Bachelor,29
+2023,19,Kalimantan Selatan,Public < Bachelor,3
+2023,19,Kalimantan Selatan,Public ? Bachelor,660
+2023,19,Kalimantan Selatan,Private < Bachelor,1
+2023,19,Kalimantan Selatan,Private ? Bachelor,39
+2023,20,Kalimantan Timur,Public < Bachelor,3
+2023,20,Kalimantan Timur,Public ? Bachelor,258
+2023,20,Kalimantan Timur,Private < Bachelor,3
+2023,20,Kalimantan Timur,Private ? Bachelor,145
+2023,21,Kalimantan Utara,Public < Bachelor,0
+2023,21,Kalimantan Utara,Public ? Bachelor,87
+2023,21,Kalimantan Utara,Private < Bachelor,0
+2023,21,Kalimantan Utara,Private ? Bachelor,3
+2023,22,Sulawesi Utara,Public < Bachelor,2
+2023,22,Sulawesi Utara,Public ? Bachelor,96
+2023,22,Sulawesi Utara,Private < Bachelor,17
+2023,22,Sulawesi Utara,Private ? Bachelor,176
+2023,23,Gorontalo,Public < Bachelor,8
+2023,23,Gorontalo,Public ? Bachelor,205
+2023,23,Gorontalo,Private < Bachelor,0
+2023,23,Gorontalo,Private ? Bachelor,0
+2023,24,Sulawesi Tengah,Public < Bachelor,12
+2023,24,Sulawesi Tengah,Public ? Bachelor,136
+2023,24,Sulawesi Tengah,Private < Bachelor,9
+2023,24,Sulawesi Tengah,Private ? Bachelor,105
+2023,25,Sulawesi Selatan,Public < Bachelor,14
+2023,25,Sulawesi Selatan,Public ? Bachelor,580
+2023,25,Sulawesi Selatan,Private < Bachelor,58
+2023,25,Sulawesi Selatan,Private ? Bachelor,471
+2023,26,Sulawesi Barat,Public < Bachelor,7
+2023,26,Sulawesi Barat,Public ? Bachelor,199
+2023,26,Sulawesi Barat,Private < Bachelor,2
+2023,26,Sulawesi Barat,Private ? Bachelor,54
+2023,27,Sulawesi Tenggara,Public < Bachelor,12
+2023,27,Sulawesi Tenggara,Public ? Bachelor,168
+2023,27,Sulawesi Tenggara,Private < Bachelor,47
+2023,27,Sulawesi Tenggara,Private ? Bachelor,382
+2023,28,Maluku,Public < Bachelor,10
+2023,28,Maluku,Public ? Bachelor,119
+2023,28,Maluku,Private < Bachelor,6
+2023,28,Maluku,Private ? Bachelor,31
+2023,29,Maluku Utara,Public < Bachelor,11
+2023,29,Maluku Utara,Public ? Bachelor,180
+2023,29,Maluku Utara,Private < Bachelor,2
+2023,29,Maluku Utara,Private ? Bachelor,21
+2023,30,Bali,Public < Bachelor,5
+2023,30,Bali,Public ? Bachelor,340
+2023,30,Bali,Private < Bachelor,3
+2023,30,Bali,Private ? Bachelor,18
+2023,31,Nusa Tenggara Barat,Public < Bachelor,11
+2023,31,Nusa Tenggara Barat,Public ? Bachelor,417
+2023,31,Nusa Tenggara Barat,Private < Bachelor,15
+2023,31,Nusa Tenggara Barat,Private ? Bachelor,297
+2023,32,Nusa Tenggara Timur,Public < Bachelor,29
+2023,32,Nusa Tenggara Timur,Public ? Bachelor,580
+2023,32,Nusa Tenggara Timur,Private < Bachelor,11
+2023,32,Nusa Tenggara Timur,Private ? Bachelor,100
+2023,33,Papua,Public < Bachelor,1
+2023,33,Papua,Public ? Bachelor,55
+2023,33,Papua,Private < Bachelor,1
+2023,33,Papua,Private ? Bachelor,9
+2023,34,Papua Barat,Public < Bachelor,0
+2023,34,Papua Barat,Public ? Bachelor,0
+2023,34,Papua Barat,Private < Bachelor,0
+2023,34,Papua Barat,Private ? Bachelor,8
+2023,35,Papua Selatan,Public < Bachelor,5
+2023,35,Papua Selatan,Public ? Bachelor,22
+2023,35,Papua Selatan,Private < Bachelor,0
+2023,35,Papua Selatan,Private ? Bachelor,0
+2023,36,Papua Tengah,Public < Bachelor,0
+2023,36,Papua Tengah,Public ? Bachelor,10
+2023,36,Papua Tengah,Private < Bachelor,0
+2023,36,Papua Tengah,Private ? Bachelor,17
+2023,37,Papua Pegunungan,Public < Bachelor,0
+2023,37,Papua Pegunungan,Public ? Bachelor,0
+2023,37,Papua Pegunungan,Private < Bachelor,0
+2023,37,Papua Pegunungan,Private ? Bachelor,0
+2023,38,Papua Barat Daya,Public < Bachelor,1
+2023,38,Papua Barat Daya,Public ? Bachelor,15
+2023,38,Papua Barat Daya,Private < Bachelor,0
+2023,38,Papua Barat Daya,Private ? Bachelor,0
+2022,1,DKI Jakarta,Public < Bachelor,1
+2022,1,DKI Jakarta,Public ? Bachelor,570
+2022,1,DKI Jakarta,Private < Bachelor,32
+2022,1,DKI Jakarta,Private ? Bachelor,683
+2021,1,DKI Jakarta,Public < Bachelor,28
+2021,1,DKI Jakarta,Public ? Bachelor,561
+2021,1,DKI Jakarta,Private < Bachelor,196
+2021,1,DKI Jakarta,Private ? Bachelor,544
+2022,10,Riau,Public < Bachelor,4
+2022,10,Riau,Public ? Bachelor,339
+2022,10,Riau,Private < Bachelor,36
+2022,10,Riau,Private ? Bachelor,229
+2021,10,Riau,Public < Bachelor,31
+2021,10,Riau,Public ? Bachelor,267
+2021,10,Riau,Private < Bachelor,85
+2021,10,Riau,Private ? Bachelor,171
+2022,11,Kepulauan Riau,Public < Bachelor,0
+2022,11,Kepulauan Riau,Public ? Bachelor,129
+2022,11,Kepulauan Riau,Private < Bachelor,12
+2022,11,Kepulauan Riau,Private ? Bachelor,103
+2021,11,Kepulauan Riau,Public < Bachelor,9
+2021,11,Kepulauan Riau,Public ? Bachelor,135
+2021,11,Kepulauan Riau,Private < Bachelor,43
+2021,11,Kepulauan Riau,Private ? Bachelor,63
+2022,12,Jambi,Public < Bachelor,11
+2022,12,Jambi,Public ? Bachelor,348
+2022,12,Jambi,Private < Bachelor,4
+2022,12,Jambi,Private ? Bachelor,47
+2021,12,Jambi,Public < Bachelor,44
+2021,12,Jambi,Public ? Bachelor,302
+2021,12,Jambi,Private < Bachelor,8
+2021,12,Jambi,Private ? Bachelor,39
+2022,13,Sumatera Selatan,Public < Bachelor,7
+2022,13,Sumatera Selatan,Public ? Bachelor,257
+2022,13,Sumatera Selatan,Private < Bachelor,17
+2022,13,Sumatera Selatan,Private ? Bachelor,223
+2021,13,Sumatera Selatan,Public < Bachelor,35
+2021,13,Sumatera Selatan,Public ? Bachelor,195
+2021,13,Sumatera Selatan,Private < Bachelor,39
+2021,13,Sumatera Selatan,Private ? Bachelor,177
+2022,14,Bangka Belitung,Public < Bachelor,7
+2022,14,Bangka Belitung,Public ? Bachelor,137
+2022,14,Bangka Belitung,Private < Bachelor,0
+2022,14,Bangka Belitung,Private ? Bachelor,21
+2021,14,Bangka Belitung,Public < Bachelor,33
+2021,14,Bangka Belitung,Public ? Bachelor,115
+2021,14,Bangka Belitung,Private < Bachelor,8
+2021,14,Bangka Belitung,Private ? Bachelor,15
+2022,15,Bengkulu,Public < Bachelor,10
+2022,15,Bengkulu,Public ? Bachelor,266
+2022,15,Bengkulu,Private < Bachelor,2
+2022,15,Bengkulu,Private ? Bachelor,41
+2021,15,Bengkulu,Public < Bachelor,28
+2021,15,Bengkulu,Public ? Bachelor,227
+2021,15,Bengkulu,Private < Bachelor,5
+2021,15,Bengkulu,Private ? Bachelor,39
+2022,16,Lampung,Public < Bachelor,19
+2022,16,Lampung,Public ? Bachelor,237
+2022,16,Lampung,Private < Bachelor,28
+2022,16,Lampung,Private ? Bachelor,155
+2021,16,Lampung,Public < Bachelor,66
+2021,16,Lampung,Public ? Bachelor,203
+2021,16,Lampung,Private < Bachelor,52
+2021,16,Lampung,Private ? Bachelor,132
+2022,17,Kalimantan Barat,Public < Bachelor,5
+2022,17,Kalimantan Barat,Public ? Bachelor,132
+2022,17,Kalimantan Barat,Private < Bachelor,7
+2022,17,Kalimantan Barat,Private ? Bachelor,94
+2021,17,Kalimantan Barat,Public < Bachelor,34
+2021,17,Kalimantan Barat,Public ? Bachelor,94
+2021,17,Kalimantan Barat,Private < Bachelor,20
+2021,17,Kalimantan Barat,Private ? Bachelor,83
+2022,18,Kalimantan Tengah,Public < Bachelor,8
+2022,18,Kalimantan Tengah,Public ? Bachelor,322
+2022,18,Kalimantan Tengah,Private < Bachelor,3
+2022,18,Kalimantan Tengah,Private ? Bachelor,26
+2021,18,Kalimantan Tengah,Public < Bachelor,44
+2021,18,Kalimantan Tengah,Public ? Bachelor,255
+2021,18,Kalimantan Tengah,Private < Bachelor,8
+2021,18,Kalimantan Tengah,Private ? Bachelor,38
+2022,19,Kalimantan Selatan,Public < Bachelor,4
+2022,19,Kalimantan Selatan,Public ? Bachelor,626
+2022,19,Kalimantan Selatan,Private < Bachelor,1
+2022,19,Kalimantan Selatan,Private ? Bachelor,44
+2021,19,Kalimantan Selatan,Public < Bachelor,77
+2021,19,Kalimantan Selatan,Public ? Bachelor,538
+2021,19,Kalimantan Selatan,Private < Bachelor,9
+2021,19,Kalimantan Selatan,Private ? Bachelor,34
+2022,2,Jawa Barat,Public < Bachelor,8
+2022,2,Jawa Barat,Public ? Bachelor,1326
+2022,2,Jawa Barat,Private < Bachelor,93
+2022,2,Jawa Barat,Private ? Bachelor,2815
+2021,2,Jawa Barat,Public < Bachelor,112
+2021,2,Jawa Barat,Public ? Bachelor,1105
+2021,2,Jawa Barat,Private < Bachelor,442
+2021,2,Jawa Barat,Private ? Bachelor,2600
+2022,20,Kalimantan Timur,Public < Bachelor,4
+2022,20,Kalimantan Timur,Public ? Bachelor,242
+2022,20,Kalimantan Timur,Private < Bachelor,5
+2022,20,Kalimantan Timur,Private ? Bachelor,158
+2021,20,Kalimantan Timur,Public < Bachelor,30
+2021,20,Kalimantan Timur,Public ? Bachelor,225
+2021,20,Kalimantan Timur,Private < Bachelor,39
+2021,20,Kalimantan Timur,Private ? Bachelor,145
+2022,21,Kalimantan Utara,Public < Bachelor,0
+2022,21,Kalimantan Utara,Public ? Bachelor,89
+2022,21,Kalimantan Utara,Private < Bachelor,0
+2022,21,Kalimantan Utara,Private ? Bachelor,0
+2021,21,Kalimantan Utara,Public < Bachelor,5
+2021,21,Kalimantan Utara,Public ? Bachelor,76
+2021,21,Kalimantan Utara,Private < Bachelor,0
+2021,21,Kalimantan Utara,Private ? Bachelor,0
+2022,22,Sulawesi Utara,Public < Bachelor,1
+2022,22,Sulawesi Utara,Public ? Bachelor,98
+2022,22,Sulawesi Utara,Private < Bachelor,22
+2022,22,Sulawesi Utara,Private ? Bachelor,187
+2021,22,Sulawesi Utara,Public < Bachelor,11
+2021,22,Sulawesi Utara,Public ? Bachelor,76
+2021,22,Sulawesi Utara,Private < Bachelor,53
+2021,22,Sulawesi Utara,Private ? Bachelor,165
+2022,23,Gorontalo,Public < Bachelor,8
+2022,23,Gorontalo,Public ? Bachelor,221
+2022,23,Gorontalo,Private < Bachelor,0
+2022,23,Gorontalo,Private ? Bachelor,0
+2021,23,Gorontalo,Public < Bachelor,59
+2021,23,Gorontalo,Public ? Bachelor,168
+2021,23,Gorontalo,Private < Bachelor,0
+2021,23,Gorontalo,Private ? Bachelor,0
+2022,24,Sulawesi Tengah,Public < Bachelor,17
+2022,24,Sulawesi Tengah,Public ? Bachelor,152
+2022,24,Sulawesi Tengah,Private < Bachelor,7
+2022,24,Sulawesi Tengah,Private ? Bachelor,104
+2021,24,Sulawesi Tengah,Public < Bachelor,49
+2021,24,Sulawesi Tengah,Public ? Bachelor,124
+2021,24,Sulawesi Tengah,Private < Bachelor,28
+2021,24,Sulawesi Tengah,Private ? Bachelor,59
+2022,25,Sulawesi Selatan,Public < Bachelor,16
+2022,25,Sulawesi Selatan,Public ? Bachelor,572
+2022,25,Sulawesi Selatan,Private < Bachelor,60
+2022,25,Sulawesi Selatan,Private ? Bachelor,565
+2021,25,Sulawesi Selatan,Public < Bachelor,74
+2021,25,Sulawesi Selatan,Public ? Bachelor,486
+2021,25,Sulawesi Selatan,Private < Bachelor,152
+2021,25,Sulawesi Selatan,Private ? Bachelor,492
+2022,26,Sulawesi Barat,Public < Bachelor,8
+2022,26,Sulawesi Barat,Public ? Bachelor,205
+2022,26,Sulawesi Barat,Private < Bachelor,6
+2022,26,Sulawesi Barat,Private ? Bachelor,62
+2021,26,Sulawesi Barat,Public < Bachelor,47
+2021,26,Sulawesi Barat,Public ? Bachelor,176
+2021,26,Sulawesi Barat,Private < Bachelor,17
+2021,26,Sulawesi Barat,Private ? Bachelor,50
+2022,27,Sulawesi Tenggara,Public < Bachelor,14
+2022,27,Sulawesi Tenggara,Public ? Bachelor,156
+2022,27,Sulawesi Tenggara,Private < Bachelor,58
+2022,27,Sulawesi Tenggara,Private ? Bachelor,480
+2021,27,Sulawesi Tenggara,Public < Bachelor,42
+2021,27,Sulawesi Tenggara,Public ? Bachelor,103
+2021,27,Sulawesi Tenggara,Private < Bachelor,149
+2021,27,Sulawesi Tenggara,Private ? Bachelor,363
+2022,28,Maluku,Public < Bachelor,10
+2022,28,Maluku,Public ? Bachelor,117
+2022,28,Maluku,Private < Bachelor,7
+2022,28,Maluku,Private ? Bachelor,37
+2021,28,Maluku,Public < Bachelor,28
+2021,28,Maluku,Public ? Bachelor,96
+2021,28,Maluku,Private < Bachelor,15
+2021,28,Maluku,Private ? Bachelor,29
+2022,29,Maluku Utara,Public < Bachelor,12
+2022,29,Maluku Utara,Public ? Bachelor,205
+2022,29,Maluku Utara,Private < Bachelor,3
+2022,29,Maluku Utara,Private ? Bachelor,30
+2021,29,Maluku Utara,Public < Bachelor,41
+2021,29,Maluku Utara,Public ? Bachelor,174
+2021,29,Maluku Utara,Private < Bachelor,6
+2021,29,Maluku Utara,Private ? Bachelor,24
+2022,3,Banten,Public < Bachelor,2
+2022,3,Banten,Public ? Bachelor,361
+2022,3,Banten,Private < Bachelor,59
+2022,3,Banten,Private ? Bachelor,713
+2021,3,Banten,Public < Bachelor,42
+2021,3,Banten,Public ? Bachelor,309
+2021,3,Banten,Private < Bachelor,201
+2021,3,Banten,Private ? Bachelor,596
+2022,30,Bali,Public < Bachelor,6
+2022,30,Bali,Public ? Bachelor,345
+2022,30,Bali,Private < Bachelor,4
+2022,30,Bali,Private ? Bachelor,18
+2021,30,Bali,Public < Bachelor,48
+2021,30,Bali,Public ? Bachelor,314
+2021,30,Bali,Private < Bachelor,5
+2021,30,Bali,Private ? Bachelor,18
+2022,31,Nusa Tenggara Barat,Public < Bachelor,14
+2022,31,Nusa Tenggara Barat,Public ? Bachelor,390
+2022,31,Nusa Tenggara Barat,Private < Bachelor,22
+2022,31,Nusa Tenggara Barat,Private ? Bachelor,381
+2021,31,Nusa Tenggara Barat,Public < Bachelor,64
+2021,31,Nusa Tenggara Barat,Public ? Bachelor,285
+2021,31,Nusa Tenggara Barat,Private < Bachelor,59
+2021,31,Nusa Tenggara Barat,Private ? Bachelor,350
+2022,32,Nusa Tenggara Timur,Public < Bachelor,33
+2022,32,Nusa Tenggara Timur,Public ? Bachelor,563
+2022,32,Nusa Tenggara Timur,Private < Bachelor,13
+2022,32,Nusa Tenggara Timur,Private ? Bachelor,105
+2021,32,Nusa Tenggara Timur,Public < Bachelor,140
+2021,32,Nusa Tenggara Timur,Public ? Bachelor,450
+2021,32,Nusa Tenggara Timur,Private < Bachelor,48
+2021,32,Nusa Tenggara Timur,Private ? Bachelor,69
+2022,33,Papua,Public < Bachelor,5
+2022,33,Papua,Public ? Bachelor,90
+2022,33,Papua,Private < Bachelor,2
+2022,33,Papua,Private ? Bachelor,28
+2021,33,Papua,Public < Bachelor,10
+2021,33,Papua,Public ? Bachelor,86
+2021,33,Papua,Private < Bachelor,9
+2021,33,Papua,Private ? Bachelor,13
+2022,34,Papua Barat,Public < Bachelor,1
+2022,34,Papua Barat,Public ? Bachelor,25
+2022,34,Papua Barat,Private < Bachelor,0
+2022,34,Papua Barat,Private ? Bachelor,8
+2021,34,Papua Barat,Public < Bachelor,4
+2021,34,Papua Barat,Public ? Bachelor,26
+2021,34,Papua Barat,Private < Bachelor,1
+2021,34,Papua Barat,Private ? Bachelor,8
+2022,4,Jawa Tengah,Public < Bachelor,8
+2022,4,Jawa Tengah,Public ? Bachelor,1247
+2022,4,Jawa Tengah,Private < Bachelor,84
+2022,4,Jawa Tengah,Private ? Bachelor,1438
+2021,4,Jawa Tengah,Public < Bachelor,139
+2021,4,Jawa Tengah,Public ? Bachelor,1050
+2021,4,Jawa Tengah,Private < Bachelor,276
+2021,4,Jawa Tengah,Private ? Bachelor,1386
+2022,5,DI Yogyakarta,Public < Bachelor,3
+2022,5,DI Yogyakarta,Public ? Bachelor,349
+2022,5,DI Yogyakarta,Private < Bachelor,17
+2022,5,DI Yogyakarta,Private ? Bachelor,731
+2021,5,DI Yogyakarta,Public < Bachelor,32
+2021,5,DI Yogyakarta,Public ? Bachelor,334
+2021,5,DI Yogyakarta,Private < Bachelor,84
+2021,5,DI Yogyakarta,Private ? Bachelor,694
+2022,6,Jawa Timur,Public < Bachelor,16
+2022,6,Jawa Timur,Public ? Bachelor,1073
+2022,6,Jawa Timur,Private < Bachelor,88
+2022,6,Jawa Timur,Private ? Bachelor,2607
+2021,6,Jawa Timur,Public < Bachelor,116
+2021,6,Jawa Timur,Public ? Bachelor,890
+2021,6,Jawa Timur,Private < Bachelor,484
+2021,6,Jawa Timur,Private ? Bachelor,2237
+2022,7,Aceh,Public < Bachelor,14
+2022,7,Aceh,Public ? Bachelor,642
+2022,7,Aceh,Private < Bachelor,10
+2022,7,Aceh,Private ? Bachelor,434
+2021,7,Aceh,Public < Bachelor,35
+2021,7,Aceh,Public ? Bachelor,535
+2021,7,Aceh,Private < Bachelor,44
+2021,7,Aceh,Private ? Bachelor,408
+2022,8,Sumatera Utara,Public < Bachelor,13
+2022,8,Sumatera Utara,Public ? Bachelor,494
+2022,8,Sumatera Utara,Private < Bachelor,23
+2022,8,Sumatera Utara,Private ? Bachelor,294
+2021,8,Sumatera Utara,Public < Bachelor,74
+2021,8,Sumatera Utara,Public ? Bachelor,414
+2021,8,Sumatera Utara,Private < Bachelor,55
+2021,8,Sumatera Utara,Private ? Bachelor,237
+2022,9,Sumatera Barat,Public < Bachelor,17
+2022,9,Sumatera Barat,Public ? Bachelor,472
+2022,9,Sumatera Barat,Private < Bachelor,58
+2022,9,Sumatera Barat,Private ? Bachelor,998
+2021,9,Sumatera Barat,Public < Bachelor,76
+2021,9,Sumatera Barat,Public ? Bachelor,404
+2021,9,Sumatera Barat,Private < Bachelor,138
+2021,9,Sumatera Barat,Private ? Bachelor,821
+2022,,Indonesia,Public < Bachelor,306
+2022,,Indonesia,Public ? Bachelor,12797
+2022,,Indonesia,Private < Bachelor,783
+2022,,Indonesia,Private ? Bachelor,13859
+2021,,Indonesia,Public < Bachelor,1707
+2021,,Indonesia,Public ? Bachelor,10798
+2021,,Indonesia,Private < Bachelor,2778
+2021,,Indonesia,Private ? Bachelor,12099
