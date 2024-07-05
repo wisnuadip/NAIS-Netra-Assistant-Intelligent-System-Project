@@ -1,205 +1,305 @@
-Year,Status,Gender,No.,Certified,Total
-2023,Public,Male,1,Certified,101
-2023,Public,Female,1,Not Yet Certified,428
-2023,Public,Male,1,Not Yet Certified,84
-2023,Public,Male,2,Certified,204
-2023,Public,Female,2,Not Yet Certified,993
-2023,Public,Male,2,Not Yet Certified,274
-2023,Public,Male,3,Certified,74
-2023,Public,Female,3,Not Yet Certified,242
-2023,Public,Male,3,Not Yet Certified,33
-2023,Public,Male,4,Certified,189
-2023,Public,Female,4,Not Yet Certified,925
-2023,Public,Male,4,Not Yet Certified,172
-2023,Public,Male,5,Certified,91
-2023,Public,Female,5,Not Yet Certified,238
-2023,Public,Male,5,Not Yet Certified,20
-2023,Public,Male,6,Certified,138
-2023,Public,Female,6,Not Yet Certified,787
-2023,Public,Male,6,Not Yet Certified,157
-2023,Public,Male,7,Certified,60
-2023,Public,Female,7,Not Yet Certified,555
-2023,Public,Male,7,Not Yet Certified,108
-2023,Public,Male,8,Certified,32
-2023,Public,Female,8,Not Yet Certified,413
-2023,Public,Male,8,Not Yet Certified,84
-2023,Public,Male,9,Certified,38
-2023,Public,Female,9,Not Yet Certified,407
-2023,Public,Male,9,Not Yet Certified,56
-2023,Public,Male,10,Certified,32
-2023,Public,Female,10,Not Yet Certified,253
-2023,Public,Male,10,Not Yet Certified,56
-2023,Public,Male,11,Certified,7
-2023,Public,Female,11,Not Yet Certified,115
-2023,Public,Male,11,Not Yet Certified,23
-2023,Public,Male,12,Certified,21
-2023,Public,Female,12,Not Yet Certified,291
-2023,Public,Male,12,Not Yet Certified,68
-2023,Public,Male,13,Certified,28
-2023,Public,Female,13,Not Yet Certified,225
-2023,Public,Male,13,Not Yet Certified,36
-2023,Public,Male,14,Certified,11
-2023,Public,Female,14,Not Yet Certified,112
-2023,Public,Male,14,Not Yet Certified,24
-2023,Public,Male,15,Certified,17
-2023,Public,Female,15,Not Yet Certified,213
-2023,Public,Male,15,Not Yet Certified,49
-2023,Public,Male,16,Certified,16
-2023,Public,Female,16,Not Yet Certified,163
-2023,Public,Male,16,Not Yet Certified,46
-2023,Public,Male,17,Certified,13
-2023,Public,Female,17,Not Yet Certified,98
-2023,Public,Male,17,Not Yet Certified,25
-2023,Public,Male,18,Certified,21
-2023,Public,Female,18,Not Yet Certified,233
-2023,Public,Male,18,Not Yet Certified,57
-2023,Public,Male,19,Certified,67
-2023,Public,Female,19,Not Yet Certified,444
-2023,Public,Male,19,Not Yet Certified,152
-2023,Public,Male,20,Certified,27
-2023,Public,Female,20,Not Yet Certified,186
-2023,Public,Male,20,Not Yet Certified,48
-2023,Public,Male,21,Certified,9
-2023,Public,Female,21,Not Yet Certified,56
-2023,Public,Male,21,Not Yet Certified,22
-2023,Public,Male,22,Certified,7
-2023,Public,Female,22,Not Yet Certified,68
-2023,Public,Male,22,Not Yet Certified,23
-2023,Public,Male,23,Certified,7
-2023,Public,Female,23,Not Yet Certified,154
-2023,Public,Male,23,Not Yet Certified,52
-2023,Public,Male,24,Certified,5
-2023,Public,Female,24,Not Yet Certified,118
-2023,Public,Male,24,Not Yet Certified,25
-2023,Public,Male,25,Certified,66
-2023,Public,Female,25,Not Yet Certified,456
-2023,Public,Male,25,Not Yet Certified,72
-2023,Public,Male,26,Certified,15
-2023,Public,Female,26,Not Yet Certified,150
-2023,Public,Male,26,Not Yet Certified,41
-2023,Public,Male,27,Certified,14
-2023,Public,Female,27,Not Yet Certified,135
-2023,Public,Male,27,Not Yet Certified,31
-2023,Public,Male,28,Certified,3
-2023,Public,Female,28,Not Yet Certified,109
-2023,Public,Male,28,Not Yet Certified,17
-2023,Public,Male,29,Certified,6
-2023,Public,Female,29,Not Yet Certified,146
-2023,Public,Male,29,Not Yet Certified,39
-2023,Public,Male,30,Certified,65
-2023,Public,Female,30,Not Yet Certified,210
-2023,Public,Male,30,Not Yet Certified,70
-2023,Public,Male,31,Certified,54
-2023,Public,Female,31,Not Yet Certified,289
-2023,Public,Male,31,Not Yet Certified,85
-2023,Public,Male,32,Certified,22
-2023,Public,Female,32,Not Yet Certified,431
-2023,Public,Male,32,Not Yet Certified,156
-2023,Public,Male,33,Certified,7
-2023,Public,Female,33,Not Yet Certified,36
-2023,Public,Male,33,Not Yet Certified,13
-2023,Public,Male,34,Certified,5
-2023,Public,Female,34,Not Yet Certified,40
-2023,Public,Male,34,Not Yet Certified,8
-2023,Private,Male,1,Certified,67
-2023,Private,Female,1,Not Yet Certified,496
-2023,Private,Male,1,Not Yet Certified,89
-2023,Private,Male,2,Certified,253
-2023,Private,Female,2,Not Yet Certified,2026
-2023,Private,Male,2,Not Yet Certified,478
-2023,Private,Male,3,Certified,19
-2023,Private,Female,3,Not Yet Certified,621
-2023,Private,Male,3,Not Yet Certified,163
-2023,Private,Male,4,Certified,127
-2023,Private,Female,4,Not Yet Certified,1039
-2023,Private,Male,4,Not Yet Certified,258
-2023,Private,Male,5,Certified,79
-2023,Private,Female,5,Not Yet Certified,546
-2023,Private,Male,5,Not Yet Certified,91
-2023,Private,Male,6,Certified,152
-2023,Private,Female,6,Not Yet Certified,2061
-2023,Private,Male,6,Not Yet Certified,421
-2023,Private,Male,7,Certified,2
-2023,Private,Female,7,Not Yet Certified,333
-2023,Private,Male,7,Not Yet Certified,47
-2023,Private,Male,8,Certified,11
-2023,Private,Female,8,Not Yet Certified,251
-2023,Private,Male,8,Not Yet Certified,35
-2023,Private,Male,9,Certified,18
-2023,Private,Female,9,Not Yet Certified,894
-2023,Private,Male,9,Not Yet Certified,87
-2023,Private,Male,10,Certified,6
-2023,Private,Female,10,Not Yet Certified,182
-2023,Private,Male,10,Not Yet Certified,34
-2023,Private,Male,11,Certified,0
-2023,Private,Female,11,Not Yet Certified,102
-2023,Private,Male,11,Not Yet Certified,14
-2023,Private,Male,12,Certified,0
-2023,Private,Female,12,Not Yet Certified,52
-2023,Private,Male,12,Not Yet Certified,5
-2023,Private,Male,13,Certified,2
-2023,Private,Female,13,Not Yet Certified,171
-2023,Private,Male,13,Not Yet Certified,20
-2023,Private,Male,14,Certified,0
-2023,Private,Female,14,Not Yet Certified,21
-2023,Private,Male,14,Not Yet Certified,2
-2023,Private,Male,15,Certified,0
-2023,Private,Female,15,Not Yet Certified,34
-2023,Private,Male,15,Not Yet Certified,10
-2023,Private,Male,16,Certified,6
-2023,Private,Female,16,Not Yet Certified,116
-2023,Private,Male,16,Not Yet Certified,28
-2023,Private,Male,17,Certified,6
-2023,Private,Female,17,Not Yet Certified,85
-2023,Private,Male,17,Not Yet Certified,18
-2023,Private,Male,18,Certified,0
-2023,Private,Female,18,Not Yet Certified,23
-2023,Private,Male,18,Not Yet Certified,8
-2023,Private,Male,19,Certified,0
-2023,Private,Female,19,Not Yet Certified,37
-2023,Private,Male,19,Not Yet Certified,3
-2023,Private,Male,20,Certified,7
-2023,Private,Female,20,Not Yet Certified,119
-2023,Private,Male,20,Not Yet Certified,22
-2023,Private,Male,21,Certified,0
-2023,Private,Female,21,Not Yet Certified,3
-2023,Private,Male,21,Not Yet Certified,0
-2023,Private,Male,22,Certified,16
-2023,Private,Female,22,Not Yet Certified,150
-2023,Private,Male,22,Not Yet Certified,27
-2023,Private,Male,23,Certified,0
-2023,Private,Female,23,Not Yet Certified,0
-2023,Private,Male,23,Not Yet Certified,0
-2023,Private,Male,24,Certified,1
-2023,Private,Female,24,Not Yet Certified,84
-2023,Private,Male,24,Not Yet Certified,29
-2023,Private,Male,25,Certified,21
-2023,Private,Female,25,Not Yet Certified,408
-2023,Private,Male,25,Not Yet Certified,100
-2023,Private,Male,26,Certified,0
-2023,Private,Female,26,Not Yet Certified,37
-2023,Private,Male,26,Not Yet Certified,19
-2023,Private,Male,27,Certified,10
-2023,Private,Female,27,Not Yet Certified,325
-2023,Private,Male,27,Not Yet Certified,94
-2023,Private,Male,28,Certified,0
-2023,Private,Female,28,Not Yet Certified,32
-2023,Private,Male,28,Not Yet Certified,5
-2023,Private,Male,29,Certified,1
-2023,Private,Female,29,Not Yet Certified,18
-2023,Private,Male,29,Not Yet Certified,4
-2023,Private,Male,30,Certified,1
-2023,Private,Female,30,Not Yet Certified,12
-2023,Private,Male,30,Not Yet Certified,8
-2023,Private,Male,31,Certified,7
-2023,Private,Female,31,Not Yet Certified,215
-2023,Private,Male,31,Not Yet Certified,90
-2023,Private,Male,32,Certified,8
-2023,Private,Female,32,Not Yet Certified,79
-2023,Private,Male,32,Not Yet Certified,24
-2023,Private,Male,33,Certified,0
-2023,Private,Female,33,Not Yet Certified,9
-2023,Private,Male,33,Not Yet Certified,1
-2023,Private,Male,34,Certified,0
-2023,Private,Female,34,Not Yet Certified,18
-2023,Private,Male,34,Not Yet Certified,7
+Year,Status,Gender,No.,Province,Certified,Value
+2023,Public,Male,1,DKI Jakarta,Certified,101
+2023,Public,Female,1,DKI Jakarta,Certified,270
+2023,Public,Male,1,DKI Jakarta,Not Yet Certified,84
+2023,Public,Female,1,DKI Jakarta,Not Yet Certified,158
+2023,Public,Male,2,Jawa Barat,Certified,204
+2023,Public,Female,2,Jawa Barat,Certified,546
+2023,Public,Male,2,Jawa Barat,Not Yet Certified,274
+2023,Public,Female,2,Jawa Barat,Not Yet Certified,447
+2023,Public,Male,3,Banten,Certified,74
+2023,Public,Female,3,Banten,Certified,188
+2023,Public,Male,3,Banten,Not Yet Certified,33
+2023,Public,Female,3,Banten,Not Yet Certified,54
+2023,Public,Male,4,Jawa Tengah,Certified,189
+2023,Public,Female,4,Jawa Tengah,Certified,572
+2023,Public,Male,4,Jawa Tengah,Not Yet Certified,172
+2023,Public,Female,4,Jawa Tengah,Not Yet Certified,353
+2023,Public,Male,5,DI Yogyakarta,Certified,91
+2023,Public,Female,5,DI Yogyakarta,Certified,205
+2023,Public,Male,5,DI Yogyakarta,Not Yet Certified,20
+2023,Public,Female,5,DI Yogyakarta,Not Yet Certified,33
+2023,Public,Male,6,Jawa Timur,Certified,138
+2023,Public,Female,6,Jawa Timur,Certified,487
+2023,Public,Male,6,Jawa Timur,Not Yet Certified,157
+2023,Public,Female,6,Jawa Timur,Not Yet Certified,300
+2023,Public,Male,7,Aceh,Certified,60
+2023,Public,Female,7,Aceh,Certified,192
+2023,Public,Male,7,Aceh,Not Yet Certified,108
+2023,Public,Female,7,Aceh,Not Yet Certified,363
+2023,Public,Male,8,Sumatera Utara,Certified,32
+2023,Public,Female,8,Sumatera Utara,Certified,147
+2023,Public,Male,8,Sumatera Utara,Not Yet Certified,84
+2023,Public,Female,8,Sumatera Utara,Not Yet Certified,266
+2023,Public,Male,9,Sumatera Barat,Certified,38
+2023,Public,Female,9,Sumatera Barat,Certified,228
+2023,Public,Male,9,Sumatera Barat,Not Yet Certified,56
+2023,Public,Female,9,Sumatera Barat,Not Yet Certified,179
+2023,Public,Male,10,Riau,Certified,32
+2023,Public,Female,10,Riau,Certified,96
+2023,Public,Male,10,Riau,Not Yet Certified,56
+2023,Public,Female,10,Riau,Not Yet Certified,157
+2023,Public,Male,11,Kepulauan Riau,Certified,7
+2023,Public,Female,11,Kepulauan Riau,Certified,34
+2023,Public,Male,11,Kepulauan Riau,Not Yet Certified,23
+2023,Public,Female,11,Kepulauan Riau,Not Yet Certified,81
+2023,Public,Male,12,Jambi,Certified,21
+2023,Public,Female,12,Jambi,Certified,69
+2023,Public,Male,12,Jambi,Not Yet Certified,68
+2023,Public,Female,12,Jambi,Not Yet Certified,222
+2023,Public,Male,13,Sumatera Selatan,Certified,28
+2023,Public,Female,13,Sumatera Selatan,Certified,78
+2023,Public,Male,13,Sumatera Selatan,Not Yet Certified,36
+2023,Public,Female,13,Sumatera Selatan,Not Yet Certified,147
+2023,Public,Male,14,Kep. Bangka Belitung,Certified,11
+2023,Public,Female,14,Kep. Bangka Belitung,Certified,51
+2023,Public,Male,14,Kep. Bangka Belitung,Not Yet Certified,24
+2023,Public,Female,14,Kep. Bangka Belitung,Not Yet Certified,61
+2023,Public,Male,15,Bengkulu,Certified,17
+2023,Public,Female,15,Bengkulu,Certified,54
+2023,Public,Male,15,Bengkulu,Not Yet Certified,49
+2023,Public,Female,15,Bengkulu,Not Yet Certified,159
+2023,Public,Male,16,Lampung,Certified,16
+2023,Public,Female,16,Lampung,Certified,75
+2023,Public,Male,16,Lampung,Not Yet Certified,46
+2023,Public,Female,16,Lampung,Not Yet Certified,88
+2023,Public,Male,17,Kalimantan Barat,Certified,13
+2023,Public,Female,17,Kalimantan Barat,Certified,22
+2023,Public,Male,17,Kalimantan Barat,Not Yet Certified,25
+2023,Public,Female,17,Kalimantan Barat,Not Yet Certified,76
+2023,Public,Male,18,Kalimantan Tengah,Certified,21
+2023,Public,Female,18,Kalimantan Tengah,Certified,39
+2023,Public,Male,18,Kalimantan Tengah,Not Yet Certified,57
+2023,Public,Female,18,Kalimantan Tengah,Not Yet Certified,194
+2023,Public,Male,19,Kalimantan Selatan,Certified,67
+2023,Public,Female,19,Kalimantan Selatan,Certified,169
+2023,Public,Male,19,Kalimantan Selatan,Not Yet Certified,152
+2023,Public,Female,19,Kalimantan Selatan,Not Yet Certified,275
+2023,Public,Male,20,Kalimantan Timur,Certified,27
+2023,Public,Female,20,Kalimantan Timur,Certified,71
+2023,Public,Male,20,Kalimantan Timur,Not Yet Certified,48
+2023,Public,Female,20,Kalimantan Timur,Not Yet Certified,115
+2023,Public,Male,21,Kalimantan Utara,Certified,9
+2023,Public,Female,21,Kalimantan Utara,Certified,16
+2023,Public,Male,21,Kalimantan Utara,Not Yet Certified,22
+2023,Public,Female,21,Kalimantan Utara,Not Yet Certified,40
+2023,Public,Male,22,Sulawesi Utara,Certified,7
+2023,Public,Female,22,Sulawesi Utara,Certified,23
+2023,Public,Male,22,Sulawesi Utara,Not Yet Certified,23
+2023,Public,Female,22,Sulawesi Utara,Not Yet Certified,45
+2023,Public,Male,23,Gorontalo,Certified,7
+2023,Public,Female,23,Gorontalo,Certified,35
+2023,Public,Male,23,Gorontalo,Not Yet Certified,52
+2023,Public,Female,23,Gorontalo,Not Yet Certified,119
+2023,Public,Male,24,Sulawesi Tengah,Certified,5
+2023,Public,Female,24,Sulawesi Tengah,Certified,38
+2023,Public,Male,24,Sulawesi Tengah,Not Yet Certified,25
+2023,Public,Female,24,Sulawesi Tengah,Not Yet Certified,80
+2023,Public,Male,25,Sulawesi Selatan,Certified,66
+2023,Public,Female,25,Sulawesi Selatan,Certified,262
+2023,Public,Male,25,Sulawesi Selatan,Not Yet Certified,72
+2023,Public,Female,25,Sulawesi Selatan,Not Yet Certified,194
+2023,Public,Male,26,Sulawesi Barat,Certified,15
+2023,Public,Female,26,Sulawesi Barat,Certified,39
+2023,Public,Male,26,Sulawesi Barat,Not Yet Certified,41
+2023,Public,Female,26,Sulawesi Barat,Not Yet Certified,111
+2023,Public,Male,27,Sulawesi Tenggara,Certified,14
+2023,Public,Female,27,Sulawesi Tenggara,Certified,32
+2023,Public,Male,27,Sulawesi Tenggara,Not Yet Certified,31
+2023,Public,Female,27,Sulawesi Tenggara,Not Yet Certified,103
+2023,Public,Male,28,Maluku,Certified,3
+2023,Public,Female,28,Maluku,Certified,12
+2023,Public,Male,28,Maluku,Not Yet Certified,17
+2023,Public,Female,28,Maluku,Not Yet Certified,97
+2023,Public,Male,29,Maluku Utara,Certified,6
+2023,Public,Female,29,Maluku Utara,Certified,17
+2023,Public,Male,29,Maluku Utara,Not Yet Certified,39
+2023,Public,Female,29,Maluku Utara,Not Yet Certified,129
+2023,Public,Male,30,Bali,Certified,65
+2023,Public,Female,30,Bali,Certified,114
+2023,Public,Male,30,Bali,Not Yet Certified,70
+2023,Public,Female,30,Bali,Not Yet Certified,96
+2023,Public,Male,31,Nusa Tenggara Barat,Certified,54
+2023,Public,Female,31,Nusa Tenggara Barat,Certified,109
+2023,Public,Male,31,Nusa Tenggara Barat,Not Yet Certified,85
+2023,Public,Female,31,Nusa Tenggara Barat,Not Yet Certified,180
+2023,Public,Male,32,Nusa Tenggara Timur,Certified,22
+2023,Public,Female,32,Nusa Tenggara Timur,Certified,79
+2023,Public,Male,32,Nusa Tenggara Timur,Not Yet Certified,156
+2023,Public,Female,32,Nusa Tenggara Timur,Not Yet Certified,352
+2023,Public,Male,33,Papua,Certified,7
+2023,Public,Female,33,Papua,Certified,20
+2023,Public,Male,33,Papua,Not Yet Certified,13
+2023,Public,Female,33,Papua,Not Yet Certified,16
+2023,Public,Male,34,Papua Barat,Certified,0
+2023,Public,Female,34,Papua Barat,Certified,0
+2023,Public,Male,34,Papua Barat,Not Yet Certified,0
+2023,Public,Female,34,Papua Barat,Not Yet Certified,0
+2023,Public,Male,34,Papua Barat,Certified,5
+2023,Public,Female,34,Papua Barat,Certified,8
+2023,Public,Male,34,Papua Barat,Not Yet Certified,3
+2023,Public,Female,34,Papua Barat,Not Yet Certified,11
+2023,Public,Male,34,Papua Barat,Certified,0
+2023,Public,Female,34,Papua Barat,Certified,0
+2023,Public,Male,34,Papua Barat,Not Yet Certified,2
+2023,Public,Female,34,Papua Barat,Not Yet Certified,8
+2023,Public,Male,34,Papua Barat,Certified,0
+2023,Public,Female,34,Papua Barat,Certified,0
+2023,Public,Male,34,Papua Barat,Not Yet Certified,0
+2023,Public,Female,34,Papua Barat,Not Yet Certified,0
+2023,Public,Male,34,Papua Barat,Certified,0
+2023,Public,Female,34,Papua Barat,Certified,4
+2023,Public,Male,34,Papua Barat,Not Yet Certified,3
+2023,Public,Female,34,Papua Barat,Not Yet Certified,9
+2023,Private,Male,1,DKI Jakarta,Certified,67
+2023,Private,Female,1,DKI Jakarta,Certified,194
+2023,Private,Male,1,DKI Jakarta,Not Yet Certified,89
+2023,Private,Female,1,DKI Jakarta,Not Yet Certified,302
+2023,Private,Male,2,Jawa Barat,Certified,253
+2023,Private,Female,2,Jawa Barat,Certified,832
+2023,Private,Male,2,Jawa Barat,Not Yet Certified,478
+2023,Private,Female,2,Jawa Barat,Not Yet Certified,1194
+2023,Private,Male,3,Banten,Certified,19
+2023,Private,Female,3,Banten,Certified,97
+2023,Private,Male,3,Banten,Not Yet Certified,163
+2023,Private,Female,3,Banten,Not Yet Certified,524
+2023,Private,Male,4,Jawa Tengah,Certified,127
+2023,Private,Female,4,Jawa Tengah,Certified,331
+2023,Private,Male,4,Jawa Tengah,Not Yet Certified,258
+2023,Private,Female,4,Jawa Tengah,Not Yet Certified,708
+2023,Private,Male,5,DI Yogyakarta,Certified,79
+2023,Private,Female,5,DI Yogyakarta,Certified,284
+2023,Private,Male,5,DI Yogyakarta,Not Yet Certified,91
+2023,Private,Female,5,DI Yogyakarta,Not Yet Certified,262
+2023,Private,Male,6,Jawa Timur,Certified,152
+2023,Private,Female,6,Jawa Timur,Certified,697
+2023,Private,Male,6,Jawa Timur,Not Yet Certified,421
+2023,Private,Female,6,Jawa Timur,Not Yet Certified,1364
+2023,Private,Male,7,Aceh,Certified,2
+2023,Private,Female,7,Aceh,Certified,33
+2023,Private,Male,7,Aceh,Not Yet Certified,47
+2023,Private,Female,7,Aceh,Not Yet Certified,300
+2023,Private,Male,8,Sumatera Utara,Certified,11
+2023,Private,Female,8,Sumatera Utara,Certified,66
+2023,Private,Male,8,Sumatera Utara,Not Yet Certified,35
+2023,Private,Female,8,Sumatera Utara,Not Yet Certified,185
+2023,Private,Male,9,Sumatera Barat,Certified,18
+2023,Private,Female,9,Sumatera Barat,Certified,216
+2023,Private,Male,9,Sumatera Barat,Not Yet Certified,87
+2023,Private,Female,9,Sumatera Barat,Not Yet Certified,678
+2023,Private,Male,10,Riau,Certified,6
+2023,Private,Female,10,Riau,Certified,12
+2023,Private,Male,10,Riau,Not Yet Certified,34
+2023,Private,Female,10,Riau,Not Yet Certified,170
+2023,Private,Male,11,Kepulauan Riau,Certified,0
+2023,Private,Female,11,Kepulauan Riau,Certified,11
+2023,Private,Male,11,Kepulauan Riau,Not Yet Certified,14
+2023,Private,Female,11,Kepulauan Riau,Not Yet Certified,91
+2023,Private,Male,12,Jambi,Certified,0
+2023,Private,Female,12,Jambi,Certified,1
+2023,Private,Male,12,Jambi,Not Yet Certified,5
+2023,Private,Female,12,Jambi,Not Yet Certified,51
+2023,Private,Male,13,Sumatera Selatan,Certified,2
+2023,Private,Female,13,Sumatera Selatan,Certified,5
+2023,Private,Male,13,Sumatera Selatan,Not Yet Certified,20
+2023,Private,Female,13,Sumatera Selatan,Not Yet Certified,166
+2023,Private,Male,14,Kep. Bangka Belitung,Certified,0
+2023,Private,Female,14,Kep. Bangka Belitung,Certified,0
+2023,Private,Male,14,Kep. Bangka Belitung,Not Yet Certified,2
+2023,Private,Female,14,Kep. Bangka Belitung,Not Yet Certified,21
+2023,Private,Male,15,Bengkulu,Certified,0
+2023,Private,Female,15,Bengkulu,Certified,1
+2023,Private,Male,15,Bengkulu,Not Yet Certified,10
+2023,Private,Female,15,Bengkulu,Not Yet Certified,33
+2023,Private,Male,16,Lampung,Certified,6
+2023,Private,Female,16,Lampung,Certified,25
+2023,Private,Male,16,Lampung,Not Yet Certified,28
+2023,Private,Female,16,Lampung,Not Yet Certified,91
+2023,Private,Male,17,Kalimantan Barat,Certified,6
+2023,Private,Female,17,Kalimantan Barat,Certified,7
+2023,Private,Male,17,Kalimantan Barat,Not Yet Certified,18
+2023,Private,Female,17,Kalimantan Barat,Not Yet Certified,78
+2023,Private,Male,18,Kalimantan Tengah,Certified,0
+2023,Private,Female,18,Kalimantan Tengah,Certified,1
+2023,Private,Male,18,Kalimantan Tengah,Not Yet Certified,8
+2023,Private,Female,18,Kalimantan Tengah,Not Yet Certified,22
+2023,Private,Male,19,Kalimantan Selatan,Certified,0
+2023,Private,Female,19,Kalimantan Selatan,Certified,1
+2023,Private,Male,19,Kalimantan Selatan,Not Yet Certified,3
+2023,Private,Female,19,Kalimantan Selatan,Not Yet Certified,36
+2023,Private,Male,20,Kalimantan Timur,Certified,7
+2023,Private,Female,20,Kalimantan Timur,Certified,17
+2023,Private,Male,20,Kalimantan Timur,Not Yet Certified,22
+2023,Private,Female,20,Kalimantan Timur,Not Yet Certified,102
+2023,Private,Male,21,Kalimantan Utara,Certified,0
+2023,Private,Female,21,Kalimantan Utara,Certified,0
+2023,Private,Male,21,Kalimantan Utara,Not Yet Certified,0
+2023,Private,Female,21,Kalimantan Utara,Not Yet Certified,3
+2023,Private,Male,22,Sulawesi Utara,Certified,16
+2023,Private,Female,22,Sulawesi Utara,Certified,41
+2023,Private,Male,22,Sulawesi Utara,Not Yet Certified,27
+2023,Private,Female,22,Sulawesi Utara,Not Yet Certified,109
+2023,Private,Male,23,Gorontalo,Certified,0
+2023,Private,Female,23,Gorontalo,Certified,0
+2023,Private,Male,23,Gorontalo,Not Yet Certified,0
+2023,Private,Female,23,Gorontalo,Not Yet Certified,0
+2023,Private,Male,24,Sulawesi Tengah,Certified,1
+2023,Private,Female,24,Sulawesi Tengah,Certified,10
+2023,Private,Male,24,Sulawesi Tengah,Not Yet Certified,29
+2023,Private,Female,24,Sulawesi Tengah,Not Yet Certified,74
+2023,Private,Male,25,Sulawesi Selatan,Certified,21
+2023,Private,Female,25,Sulawesi Selatan,Certified,68
+2023,Private,Male,25,Sulawesi Selatan,Not Yet Certified,100
+2023,Private,Female,25,Sulawesi Selatan,Not Yet Certified,340
+2023,Private,Male,26,Sulawesi Barat,Certified,0
+2023,Private,Female,26,Sulawesi Barat,Certified,1
+2023,Private,Male,26,Sulawesi Barat,Not Yet Certified,19
+2023,Private,Female,26,Sulawesi Barat,Not Yet Certified,36
+2023,Private,Male,27,Sulawesi Tenggara,Certified,10
+2023,Private,Female,27,Sulawesi Tenggara,Certified,29
+2023,Private,Male,27,Sulawesi Tenggara,Not Yet Certified,94
+2023,Private,Female,27,Sulawesi Tenggara,Not Yet Certified,296
+2023,Private,Male,28,Maluku,Certified,0
+2023,Private,Female,28,Maluku,Certified,3
+2023,Private,Male,28,Maluku,Not Yet Certified,5
+2023,Private,Female,28,Maluku,Not Yet Certified,29
+2023,Private,Male,29,Maluku Utara,Certified,1
+2023,Private,Female,29,Maluku Utara,Certified,1
+2023,Private,Male,29,Maluku Utara,Not Yet Certified,4
+2023,Private,Female,29,Maluku Utara,Not Yet Certified,17
+2023,Private,Male,30,Bali,Certified,1
+2023,Private,Female,30,Bali,Certified,3
+2023,Private,Male,30,Bali,Not Yet Certified,8
+2023,Private,Female,30,Bali,Not Yet Certified,9
+2023,Private,Male,31,Nusa Tenggara Barat,Certified,7
+2023,Private,Female,31,Nusa Tenggara Barat,Certified,8
+2023,Private,Male,31,Nusa Tenggara Barat,Not Yet Certified,90
+2023,Private,Female,31,Nusa Tenggara Barat,Not Yet Certified,207
+2023,Private,Male,32,Nusa Tenggara Timur,Certified,8
+2023,Private,Female,32,Nusa Tenggara Timur,Certified,5
+2023,Private,Male,32,Nusa Tenggara Timur,Not Yet Certified,24
+2023,Private,Female,32,Nusa Tenggara Timur,Not Yet Certified,74
+2023,Private,Male,33,Papua,Certified,0
+2023,Private,Female,33,Papua,Certified,0
+2023,Private,Male,33,Papua,Not Yet Certified,1
+2023,Private,Female,33,Papua,Not Yet Certified,9
+2023,Private,Male,34,Papua Barat,Certified,0
+2023,Private,Female,34,Papua Barat,Certified,2
+2023,Private,Male,34,Papua Barat,Not Yet Certified,2
+2023,Private,Female,34,Papua Barat,Not Yet Certified,4
+2023,Private,Male,34,Papua Barat,Certified,0
+2023,Private,Female,34,Papua Barat,Certified,0
+2023,Private,Male,34,Papua Barat,Not Yet Certified,0
+2023,Private,Female,34,Papua Barat,Not Yet Certified,0
+2023,Private,Male,34,Papua Barat,Certified,0
+2023,Private,Female,34,Papua Barat,Certified,4
+2023,Private,Male,34,Papua Barat,Not Yet Certified,5
+2023,Private,Female,34,Papua Barat,Not Yet Certified,8
+2023,Private,Male,34,Papua Barat,Certified,0
+2023,Private,Female,34,Papua Barat,Certified,0
+2023,Private,Male,34,Papua Barat,Not Yet Certified,0
+2023,Private,Female,34,Papua Barat,Not Yet Certified,0
+2023,Private,Male,34,Papua Barat,Certified,0
+2023,Private,Female,34,Papua Barat,Certified,0
+2023,Private,Male,34,Papua Barat,Not Yet Certified,0
+2023,Private,Female,34,Papua Barat,Not Yet Certified,0
