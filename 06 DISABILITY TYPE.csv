@@ -1,1021 +1,1061 @@
-Year,Status,No.,Disability Type,Total
-2023,Private,1,Blind,36
-2023,Public,1,Blind,102
-2023,Private,2,Blind,379
-2023,Public,2,Blind,322
-2023,Private,3,Blind,103
-2023,Public,3,Blind,48
-2023,Private,4,Blind,159
-2023,Public,4,Blind,314
-2023,Private,5,Blind,74
-2023,Public,5,Blind,34
-2023,Private,6,Blind,520
-2023,Public,6,Blind,272
-2023,Private,7,Blind,64
-2023,Public,7,Blind,92
-2023,Private,8,Blind,101
-2023,Public,8,Blind,56
-2023,Private,9,Blind,48
-2023,Public,9,Blind,55
-2023,Private,10,Blind,23
-2023,Public,10,Blind,52
-2023,Private,11,Blind,16
-2023,Public,11,Blind,33
-2023,Private,12,Blind,5
-2023,Public,12,Blind,38
-2023,Private,13,Blind,29
-2023,Public,13,Blind,20
-2023,Private,14,Blind,1
-2023,Public,14,Blind,30
-2023,Private,15,Blind,8
-2023,Public,15,Blind,21
-2023,Private,16,Blind,30
-2023,Public,16,Blind,20
-2023,Private,17,Blind,3
-2023,Public,17,Blind,46
-2023,Private,18,Blind,0
-2023,Public,18,Blind,22
-2023,Private,19,Blind,0
-2023,Public,19,Blind,57
-2023,Private,20,Blind,4
-2023,Public,20,Blind,48
-2023,Private,21,Blind,0
-2023,Public,21,Blind,8
-2023,Private,22,Blind,24
-2023,Public,22,Blind,16
-2023,Private,23,Blind,0
-2023,Public,23,Blind,35
-2023,Private,24,Blind,24
-2023,Public,24,Blind,28
-2023,Private,25,Blind,162
-2023,Public,25,Blind,51
-2023,Private,26,Blind,8
-2023,Public,26,Blind,18
-2023,Private,27,Blind,64
-2023,Public,27,Blind,20
-2023,Private,28,Blind,4
-2023,Public,28,Blind,16
-2023,Private,29,Blind,3
-2023,Public,29,Blind,18
-2023,Private,30,Blind,0
-2023,Public,30,Blind,87
-2023,Private,31,Blind,123
-2023,Public,31,Blind,66
-2023,Private,32,Blind,36
-2023,Public,32,Blind,70
-2023,Private,33,Blind,3
-2023,Public,33,Blind,15
-2023,Private,34,Blind,72
-2023,Public,34,Blind,14
-2023,Private,1,Deaf,741
-2023,Public,1,Deaf,558
-2023,Private,2,Deaf,3084
-2023,Public,2,Deaf,1422
-2023,Private,3,Deaf,687
-2023,Public,3,Deaf,314
-2023,Private,4,Deaf,1859
-2023,Public,4,Deaf,1964
-2023,Private,5,Deaf,282
-2023,Public,5,Deaf,214
-2023,Private,6,Deaf,2699
-2023,Public,6,Deaf,1192
-2023,Private,7,Deaf,299
-2023,Public,7,Deaf,460
-2023,Private,8,Deaf,618
-2023,Public,8,Deaf,696
-2023,Private,9,Deaf,362
-2023,Public,9,Deaf,329
-2023,Private,10,Deaf,259
-2023,Public,10,Deaf,401
-2023,Private,11,Deaf,110
-2023,Public,11,Deaf,177
-2023,Private,12,Deaf,41
-2023,Public,12,Deaf,417
-2023,Private,13,Deaf,198
-2023,Public,13,Deaf,329
-2023,Private,14,Deaf,32
-2023,Public,14,Deaf,148
-2023,Private,15,Deaf,20
-2023,Public,15,Deaf,189
-2023,Private,16,Deaf,97
-2023,Public,16,Deaf,389
-2023,Private,17,Deaf,150
-2023,Public,17,Deaf,217
-2023,Private,18,Deaf,11
-2023,Public,18,Deaf,198
-2023,Private,19,Deaf,21
-2023,Public,19,Deaf,507
-2023,Private,20,Deaf,70
-2023,Public,20,Deaf,351
-2023,Private,21,Deaf,0
-2023,Public,21,Deaf,70
-2023,Private,22,Deaf,174
-2023,Public,22,Deaf,77
-2023,Private,23,Deaf,0
-2023,Public,23,Deaf,205
-2023,Private,24,Deaf,82
-2023,Public,24,Deaf,169
-2023,Private,25,Deaf,518
-2023,Public,25,Deaf,418
-2023,Private,26,Deaf,98
-2023,Public,26,Deaf,142
-2023,Private,27,Deaf,315
-2023,Public,27,Deaf,104
-2023,Private,28,Deaf,34
-2023,Public,28,Deaf,67
-2023,Private,29,Deaf,20
-2023,Public,29,Deaf,102
-2023,Private,30,Deaf,0
-2023,Public,30,Deaf,567
-2023,Private,31,Deaf,359
-2023,Public,31,Deaf,451
-2023,Private,32,Deaf,123
-2023,Public,32,Deaf,260
-2023,Private,33,Deaf,12
-2023,Public,33,Deaf,66
-2023,Private,34,Deaf,226
-2023,Public,34,Deaf,86
-2023,Private,1,Mentally Retarded,1915
-2023,Public,1,Mentally Retarded,1594
-2023,Private,2,Mentally Retarded,12625
-2023,Public,2,Mentally Retarded,4389
-2023,Private,3,Mentally Retarded,2384
-2023,Public,3,Mentally Retarded,812
-2023,Private,4,Mentally Retarded,6308
-2023,Public,4,Mentally Retarded,6353
-2023,Private,5,Mentally Retarded,2056
-2023,Public,5,Mentally Retarded,891
-2023,Private,6,Mentally Retarded,8569
-2023,Public,6,Mentally Retarded,3439
-2023,Private,7,Mentally Retarded,1009
-2023,Public,7,Mentally Retarded,1486
-2023,Private,8,Mentally Retarded,1175
-2023,Public,8,Mentally Retarded,1665
-2023,Private,9,Mentally Retarded,2741
-2023,Public,9,Mentally Retarded,1338
-2023,Private,10,Mentally Retarded,789
-2023,Public,10,Mentally Retarded,986
-2023,Private,11,Mentally Retarded,247
-2023,Public,11,Mentally Retarded,464
-2023,Private,12,Mentally Retarded,129
-2023,Public,12,Mentally Retarded,1114
-2023,Private,13,Mentally Retarded,594
-2023,Public,13,Mentally Retarded,1059
-2023,Private,14,Mentally Retarded,123
-2023,Public,14,Mentally Retarded,583
-2023,Private,15,Mentally Retarded,99
-2023,Public,15,Mentally Retarded,778
-2023,Private,16,Mentally Retarded,449
-2023,Public,16,Mentally Retarded,742
-2023,Private,17,Mentally Retarded,288
-2023,Public,17,Mentally Retarded,480
-2023,Private,18,Mentally Retarded,36
-2023,Public,18,Mentally Retarded,523
-2023,Private,19,Mentally Retarded,44
-2023,Public,19,Mentally Retarded,1204
-2023,Private,20,Mentally Retarded,408
-2023,Public,20,Mentally Retarded,762
-2023,Private,21,Mentally Retarded,2
-2023,Public,21,Mentally Retarded,294
-2023,Private,22,Mentally Retarded,586
-2023,Public,22,Mentally Retarded,178
-2023,Private,23,Mentally Retarded,0
-2023,Public,23,Mentally Retarded,581
-2023,Private,24,Mentally Retarded,316
-2023,Public,24,Mentally Retarded,480
-2023,Private,25,Mentally Retarded,1350
-2023,Public,25,Mentally Retarded,1005
-2023,Private,26,Mentally Retarded,221
-2023,Public,26,Mentally Retarded,225
-2023,Private,27,Mentally Retarded,738
-2023,Public,27,Mentally Retarded,289
-2023,Private,28,Mentally Retarded,162
-2023,Public,28,Mentally Retarded,330
-2023,Private,29,Mentally Retarded,93
-2023,Public,29,Mentally Retarded,441
-2023,Private,30,Mentally Retarded,112
-2023,Public,30,Mentally Retarded,1289
-2023,Private,31,Mentally Retarded,683
-2023,Public,31,Mentally Retarded,1244
-2023,Private,32,Mentally Retarded,374
-2023,Public,32,Mentally Retarded,1619
-2023,Private,33,Mentally Retarded,35
-2023,Public,33,Mentally Retarded,189
-2023,Private,34,Mentally Retarded,408
-2023,Public,34,Mentally Retarded,207
-2023,Private,1,Physically Handicapped,70
-2023,Public,1,Physically Handicapped,21
-2023,Private,2,Physically Handicapped,608
-2023,Public,2,Physically Handicapped,423
-2023,Private,3,Physically Handicapped,227
-2023,Public,3,Physically Handicapped,45
-2023,Private,4,Physically Handicapped,269
-2023,Public,4,Physically Handicapped,448
-2023,Private,5,Physically Handicapped,113
-2023,Public,5,Physically Handicapped,51
-2023,Private,6,Physically Handicapped,608
-2023,Public,6,Physically Handicapped,252
-2023,Private,7,Physically Handicapped,129
-2023,Public,7,Physically Handicapped,195
-2023,Private,8,Physically Handicapped,56
-2023,Public,8,Physically Handicapped,88
-2023,Private,9,Physically Handicapped,107
-2023,Public,9,Physically Handicapped,51
-2023,Private,10,Physically Handicapped,49
-2023,Public,10,Physically Handicapped,77
-2023,Private,11,Physically Handicapped,12
-2023,Public,11,Physically Handicapped,33
-2023,Private,12,Physically Handicapped,40
-2023,Public,12,Physically Handicapped,106
-2023,Private,13,Physically Handicapped,31
-2023,Public,13,Physically Handicapped,52
-2023,Private,14,Physically Handicapped,19
-2023,Public,14,Physically Handicapped,62
-2023,Private,15,Physically Handicapped,1
-2023,Public,15,Physically Handicapped,45
-2023,Private,16,Physically Handicapped,14
-2023,Public,16,Physically Handicapped,13
-2023,Private,17,Physically Handicapped,5
-2023,Public,17,Physically Handicapped,42
-2023,Private,18,Physically Handicapped,3
-2023,Public,18,Physically Handicapped,62
-2023,Private,19,Physically Handicapped,11
-2023,Public,19,Physically Handicapped,84
-2023,Private,20,Physically Handicapped,23
-2023,Public,20,Physically Handicapped,68
-2023,Private,21,Physically Handicapped,0
-2023,Public,21,Physically Handicapped,15
-2023,Private,22,Physically Handicapped,74
-2023,Public,22,Physically Handicapped,19
-2023,Private,23,Physically Handicapped,0
-2023,Public,23,Physically Handicapped,128
-2023,Private,24,Physically Handicapped,43
-2023,Public,24,Physically Handicapped,81
-2023,Private,25,Physically Handicapped,159
-2023,Public,25,Physically Handicapped,95
-2023,Private,26,Physically Handicapped,65
-2023,Public,26,Physically Handicapped,63
-2023,Private,27,Physically Handicapped,142
-2023,Public,27,Physically Handicapped,55
-2023,Private,28,Physically Handicapped,8
-2023,Public,28,Physically Handicapped,43
-2023,Private,29,Physically Handicapped,14
-2023,Public,29,Physically Handicapped,56
-2023,Private,30,Physically Handicapped,17
-2023,Public,30,Physically Handicapped,43
-2023,Private,31,Physically Handicapped,242
-2023,Public,31,Physically Handicapped,193
-2023,Private,32,Physically Handicapped,33
-2023,Public,32,Physically Handicapped,151
-2023,Private,33,Physically Handicapped,5
-2023,Public,33,Physically Handicapped,20
-2023,Private,34,Physically Handicapped,28
-2023,Public,34,Physically Handicapped,24
-2023,Private,1,Others,707
-2023,Public,1,Others,457
-2023,Private,2,Others,3880
-2023,Public,2,Others,1343
-2023,Private,3,Others,1726
-2023,Public,3,Others,326
-2023,Private,4,Others,2027
-2023,Public,4,Others,1271
-2023,Private,5,Others,1058
-2023,Public,5,Others,256
-2023,Private,6,Others,3637
-2023,Public,6,Others,867
-2023,Private,7,Others,461
-2023,Public,7,Others,613
-2023,Private,8,Others,651
-2023,Public,8,Others,631
-2023,Private,9,Others,1853
-2023,Public,9,Others,432
-2023,Private,10,Others,662
-2023,Public,10,Others,418
-2023,Private,11,Others,247
-2023,Public,11,Others,298
-2023,Private,12,Others,146
-2023,Public,12,Others,336
-2023,Private,13,Others,368
-2023,Public,13,Others,383
-2023,Private,14,Others,44
-2023,Public,14,Others,275
-2023,Private,15,Others,84
-2023,Public,15,Others,202
-2023,Private,16,Others,233
-2023,Public,16,Others,200
-2023,Private,17,Others,389
-2023,Public,17,Others,355
-2023,Private,18,Others,133
-2023,Public,18,Others,385
-2023,Private,19,Others,78
-2023,Public,19,Others,814
-2023,Private,20,Others,533
-2023,Public,20,Others,569
-2023,Private,21,Others,11
-2023,Public,21,Others,211
-2023,Private,22,Others,430
-2023,Public,22,Others,65
-2023,Private,23,Others,0
-2023,Public,23,Others,111
-2023,Private,24,Others,204
-2023,Public,24,Others,166
-2023,Private,25,Others,666
-2023,Public,25,Others,385
-2023,Private,26,Others,60
-2023,Public,26,Others,189
-2023,Private,27,Others,666
-2023,Public,27,Others,246
-2023,Private,28,Others,35
-2023,Public,28,Others,152
-2023,Private,29,Others,19
-2023,Public,29,Others,133
-2023,Private,30,Others,18
-2023,Public,30,Others,354
-2023,Private,31,Others,401
-2023,Public,31,Others,372
-2023,Private,32,Others,120
-2023,Public,32,Others,406
-2023,Private,33,Others,8
-2023,Public,33,Others,107
-2023,Private,34,Others,109
-2023,Public,34,Others,143
-2022,Private,1,Deaf,795
-2022,Public,1,Deaf,672
-2022,Private,2,Deaf,3301
-2022,Public,2,Deaf,1
-2022,Private,3,Deaf,751
-2022,Public,3,Deaf,314
-2022,Private,4,Deaf,1837
-2022,Public,4,Deaf,2
-2022,Private,5,Deaf,422
-2022,Public,5,Deaf,257
-2022,Private,6,Deaf,2746
-2022,Public,6,Deaf,1
-2022,Private,7,Deaf,295
-2022,Public,7,Deaf,449
-2022,Private,8,Deaf,585
-2022,Public,8,Deaf,683
-2022,Private,9,Deaf,442
-2022,Public,9,Deaf,326
-2022,Private,10,Deaf,288
-2022,Public,10,Deaf,360
-2022,Private,11,Deaf,109
-2022,Public,11,Deaf,171
-2022,Private,12,Deaf,41
-2022,Public,12,Deaf,406
-2022,Private,13,Deaf,183
-2022,Public,13,Deaf,331
-2022,Private,14,Deaf,34
-2022,Public,14,Deaf,158
-2022,Private,15,Deaf,11
-2022,Public,15,Deaf,185
-2022,Private,16,Deaf,110
-2022,Public,16,Deaf,406
-2022,Private,17,Deaf,140
-2022,Public,17,Deaf,210
-2022,Private,18,Deaf,12
-2022,Public,18,Deaf,204
-2022,Private,19,Deaf,17
-2022,Public,19,Deaf,501
-2022,Private,20,Deaf,75
-2022,Public,20,Deaf,359
-2022,Private,21,Deaf,0
-2022,Public,21,Deaf,73
-2022,Private,22,Deaf,193
-2022,Public,22,Deaf,71
-2022,Private,23,Deaf,0
-2022,Public,23,Deaf,213
-2022,Private,24,Deaf,87
-2022,Public,24,Deaf,175
-2022,Private,25,Deaf,570
-2022,Public,25,Deaf,431
-2022,Private,26,Deaf,110
-2022,Public,26,Deaf,149
-2022,Private,27,Deaf,325
-2022,Public,27,Deaf,94
-2022,Private,28,Deaf,40
-2022,Public,28,Deaf,74
-2022,Private,29,Deaf,17
-2022,Public,29,Deaf,94
-2022,Private,30,Deaf,1
-2022,Public,30,Deaf,584
-2022,Private,31,Deaf,371
-2022,Public,31,Deaf,457
-2022,Private,32,Deaf,126
-2022,Public,32,Deaf,258
-2022,Private,33,Deaf,145
-2022,Public,33,Deaf,127
-2022,Private,34,Deaf,9
-2022,Public,34,Deaf,55
-2022,Private,1,Mentally Retarded,1884
-2022,Public,1,Mentally Retarded,2
-2022,Private,2,Mentally Retarded,12061
-2022,Public,2,Mentally Retarded,4
-2022,Private,3,Mentally Retarded,2318
-2022,Public,3,Mentally Retarded,722
-2022,Private,4,Mentally Retarded,6063
-2022,Public,4,Mentally Retarded,6
-2022,Private,5,Mentally Retarded,2086
-2022,Public,5,Mentally Retarded,884
-2022,Private,6,Mentally Retarded,8246
-2022,Public,6,Mentally Retarded,3
-2022,Private,7,Mentally Retarded,1031
-2022,Public,7,Mentally Retarded,1
-2022,Private,8,Mentally Retarded,1109
-2022,Public,8,Mentally Retarded,2
-2022,Private,9,Mentally Retarded,2753
-2022,Public,9,Mentally Retarded,1
-2022,Private,10,Mentally Retarded,796
-2022,Public,10,Mentally Retarded,909
-2022,Private,11,Mentally Retarded,234
-2022,Public,11,Mentally Retarded,433
-2022,Private,12,Mentally Retarded,100
-2022,Public,12,Mentally Retarded,1
-2022,Private,13,Mentally Retarded,561
-2022,Public,13,Mentally Retarded,1
-2022,Private,14,Mentally Retarded,123
-2022,Public,14,Mentally Retarded,565
-2022,Private,15,Mentally Retarded,88
-2022,Public,15,Mentally Retarded,814
-2022,Private,16,Mentally Retarded,392
-2022,Public,16,Mentally Retarded,781
-2022,Private,17,Mentally Retarded,240
-2022,Public,17,Mentally Retarded,456
-2022,Private,18,Mentally Retarded,34
-2022,Public,18,Mentally Retarded,546
-2022,Private,19,Mentally Retarded,43
-2022,Public,19,Mentally Retarded,1
-2022,Private,20,Mentally Retarded,386
-2022,Public,20,Mentally Retarded,724
-2022,Private,21,Mentally Retarded,0
-2022,Public,21,Mentally Retarded,280
-2022,Private,22,Mentally Retarded,582
-2022,Public,22,Mentally Retarded,179
-2022,Private,23,Mentally Retarded,0
-2022,Public,23,Mentally Retarded,588
-2022,Private,24,Mentally Retarded,315
-2022,Public,24,Mentally Retarded,498
-2022,Private,25,Mentally Retarded,1425
-2022,Public,25,Mentally Retarded,949
-2022,Private,26,Mentally Retarded,254
-2022,Public,26,Mentally Retarded,224
-2022,Private,27,Mentally Retarded,798
-2022,Public,27,Mentally Retarded,270
-2022,Private,28,Mentally Retarded,152
-2022,Public,28,Mentally Retarded,367
-2022,Private,29,Mentally Retarded,61
-2022,Public,29,Mentally Retarded,436
-2022,Private,30,Mentally Retarded,120
-2022,Public,30,Mentally Retarded,1
-2022,Private,31,Mentally Retarded,667
-2022,Public,31,Mentally Retarded,1
-2022,Private,32,Mentally Retarded,323
-2022,Public,32,Mentally Retarded,1
-2022,Private,33,Mentally Retarded,227
-2022,Public,33,Mentally Retarded,271
-2022,Private,34,Mentally Retarded,18
-2022,Public,34,Mentally Retarded,120
-2022,Private,1,Blind,53
-2022,Public,1,Blind,102
-2022,Private,2,Blind,403
-2022,Public,2,Blind,304
-2022,Private,3,Blind,102
-2022,Public,3,Blind,42
-2022,Private,4,Blind,170
-2022,Public,4,Blind,283
-2022,Private,5,Blind,86
-2022,Public,5,Blind,36
-2022,Private,6,Blind,483
-2022,Public,6,Blind,267
-2022,Private,7,Blind,71
-2022,Public,7,Blind,88
-2022,Private,8,Blind,111
-2022,Public,8,Blind,61
-2022,Private,9,Blind,57
-2022,Public,9,Blind,58
-2022,Private,10,Blind,26
-2022,Public,10,Blind,45
-2022,Private,11,Blind,13
-2022,Public,11,Blind,24
-2022,Private,12,Blind,5
-2022,Public,12,Blind,43
-2022,Private,13,Blind,32
-2022,Public,13,Blind,16
-2022,Private,14,Blind,1
-2022,Public,14,Blind,30
-2022,Private,15,Blind,9
-2022,Public,15,Blind,19
-2022,Private,16,Blind,28
-2022,Public,16,Blind,21
-2022,Private,17,Blind,3
-2022,Public,17,Blind,38
-2022,Private,18,Blind,0
-2022,Public,18,Blind,19
-2022,Private,19,Blind,0
-2022,Public,19,Blind,53
-2022,Private,20,Blind,3
-2022,Public,20,Blind,41
-2022,Private,21,Blind,0
-2022,Public,21,Blind,6
-2022,Private,22,Blind,28
-2022,Public,22,Blind,16
-2022,Private,23,Blind,0
-2022,Public,23,Blind,41
-2022,Private,24,Blind,18
-2022,Public,24,Blind,35
-2022,Private,25,Blind,162
-2022,Public,25,Blind,51
-2022,Private,26,Blind,14
-2022,Public,26,Blind,19
-2022,Private,27,Blind,61
-2022,Public,27,Blind,22
-2022,Private,28,Blind,6
-2022,Public,28,Blind,14
-2022,Private,29,Blind,4
-2022,Public,29,Blind,20
-2022,Private,30,Blind,0
-2022,Public,30,Blind,89
-2022,Private,31,Blind,126
-2022,Public,31,Blind,63
-2022,Private,32,Blind,40
-2022,Public,32,Blind,64
-2022,Private,33,Blind,59
-2022,Public,33,Blind,28
-2022,Private,34,Blind,2
-2022,Public,34,Blind,6
-2022,Private,1,Physically Handicapped,68
-2022,Public,1,Physically Handicapped,27
-2022,Private,2,Physically Handicapped,719
-2022,Public,2,Physically Handicapped,390
-2022,Private,3,Physically Handicapped,247
-2022,Public,3,Physically Handicapped,51
-2022,Private,4,Physically Handicapped,396
-2022,Public,4,Physically Handicapped,459
-2022,Private,5,Physically Handicapped,171
-2022,Public,5,Physically Handicapped,70
-2022,Private,6,Physically Handicapped,647
-2022,Public,6,Physically Handicapped,262
-2022,Private,7,Physically Handicapped,163
-2022,Public,7,Physically Handicapped,209
-2022,Private,8,Physically Handicapped,64
-2022,Public,8,Physically Handicapped,101
-2022,Private,9,Physically Handicapped,151
-2022,Public,9,Physically Handicapped,61
-2022,Private,10,Physically Handicapped,64
-2022,Public,10,Physically Handicapped,79
-2022,Private,11,Physically Handicapped,20
-2022,Public,11,Physically Handicapped,32
-2022,Private,12,Physically Handicapped,41
-2022,Public,12,Physically Handicapped,115
-2022,Private,13,Physically Handicapped,32
-2022,Public,13,Physically Handicapped,52
-2022,Private,14,Physically Handicapped,12
-2022,Public,14,Physically Handicapped,59
-2022,Private,15,Physically Handicapped,0
-2022,Public,15,Physically Handicapped,61
-2022,Private,16,Physically Handicapped,12
-2022,Public,16,Physically Handicapped,18
-2022,Private,17,Physically Handicapped,1
-2022,Public,17,Physically Handicapped,41
-2022,Private,18,Physically Handicapped,3
-2022,Public,18,Physically Handicapped,77
-2022,Private,19,Physically Handicapped,9
-2022,Public,19,Physically Handicapped,88
-2022,Private,20,Physically Handicapped,29
-2022,Public,20,Physically Handicapped,65
-2022,Private,21,Physically Handicapped,0
-2022,Public,21,Physically Handicapped,21
-2022,Private,22,Physically Handicapped,80
-2022,Public,22,Physically Handicapped,24
-2022,Private,23,Physically Handicapped,0
-2022,Public,23,Physically Handicapped,137
-2022,Private,24,Physically Handicapped,31
-2022,Public,24,Physically Handicapped,72
-2022,Private,25,Physically Handicapped,176
-2022,Public,25,Physically Handicapped,107
-2022,Private,26,Physically Handicapped,70
-2022,Public,26,Physically Handicapped,64
-2022,Private,27,Physically Handicapped,162
-2022,Public,27,Physically Handicapped,52
-2022,Private,28,Physically Handicapped,7
-2022,Public,28,Physically Handicapped,49
-2022,Private,29,Physically Handicapped,10
-2022,Public,29,Physically Handicapped,72
-2022,Private,30,Physically Handicapped,18
-2022,Public,30,Physically Handicapped,46
-2022,Private,31,Physically Handicapped,222
-2022,Public,31,Physically Handicapped,191
-2022,Private,32,Physically Handicapped,27
-2022,Public,32,Physically Handicapped,151
-2022,Private,33,Physically Handicapped,8
-2022,Public,33,Physically Handicapped,37
-2022,Private,34,Physically Handicapped,1
-2022,Public,34,Physically Handicapped,10
-2022,Private,1,Others,572
-2022,Public,1,Others,244
-2022,Private,2,Others,3432
-2022,Public,2,Others,888
-2022,Private,3,Others,1456
-2022,Public,3,Others,236
-2022,Private,4,Others,1576
-2022,Public,4,Others,1043
-2022,Private,5,Others,759
-2022,Public,5,Others,169
-2022,Private,6,Others,2977
-2022,Public,6,Others,670
-2022,Private,7,Others,446
-2022,Public,7,Others,514
-2022,Private,8,Others,521
-2022,Public,8,Others,506
-2022,Private,9,Others,1674
-2022,Public,9,Others,368
-2022,Private,10,Others,581
-2022,Public,10,Others,324
-2022,Private,11,Others,207
-2022,Public,11,Others,255
-2022,Private,12,Others,109
-2022,Public,12,Others,269
-2022,Private,13,Others,352
-2022,Public,13,Others,301
-2022,Private,14,Others,37
-2022,Public,14,Others,238
-2022,Private,15,Others,83
-2022,Public,15,Others,160
-2022,Private,16,Others,217
-2022,Public,16,Others,168
-2022,Private,17,Others,372
-2022,Public,17,Others,281
-2022,Private,18,Others,100
-2022,Public,18,Others,312
-2022,Private,19,Others,82
-2022,Public,19,Others,675
-2022,Private,20,Others,407
-2022,Public,20,Others,477
-2022,Private,21,Others,0
-2022,Public,21,Others,176
-2022,Private,22,Others,415
-2022,Public,22,Others,65
-2022,Private,23,Others,0
-2022,Public,23,Others,100
-2022,Private,24,Others,167
-2022,Public,24,Others,140
-2022,Private,25,Others,571
-2022,Public,25,Others,277
-2022,Private,26,Others,72
-2022,Public,26,Others,167
-2022,Private,27,Others,710
-2022,Public,27,Others,238
-2022,Private,28,Others,26
-2022,Public,28,Others,118
-2022,Private,29,Others,17
-2022,Public,29,Others,168
-2022,Private,30,Others,17
-2022,Public,30,Others,256
-2022,Private,31,Others,417
-2022,Public,31,Others,318
-2022,Private,32,Others,102
-2022,Public,32,Others,373
-2022,Private,33,Others,62
-2022,Public,33,Others,172
-2022,Private,34,Others,12
-2022,Public,34,Others,51
-2021,Private,1,Deaf,928
-2021,Private,1,Blind,60
-2021,Private,1,Mentally Retarded,1937
-2021,Private,1,Physically Handicapped,75
-2021,Private,1,Others,489
-2021,Public,1,Blind,118
-2021,Public,1,Mentally Retarded,1580
-2021,Public,1,Deaf,664
-2021,Public,1,Others,213
-2021,Public,1,Physically Handicapped,29
-2021,Private,2,Others,2836
-2021,Private,2,Mentally Retarded,11879
-2021,Private,2,Physically Handicapped,703
-2021,Private,2,Blind,390
-2021,Private,2,Deaf,3404
-2021,Public,2,Physically Handicapped,311
-2021,Public,2,Others,586
-2021,Public,2,Mentally Retarded,3255
-2021,Public,2,Blind,285
-2021,Public,2,Deaf,1168
-2021,Private,3,Mentally Retarded,2393
-2021,Private,3,Deaf,765
-2021,Private,3,Blind,113
-2021,Private,3,Others,1247
-2021,Private,3,Physically Handicapped,257
-2021,Public,3,Deaf,287
-2021,Public,3,Blind,39
-2021,Public,3,Mentally Retarded,726
-2021,Public,3,Others,178
-2021,Public,3,Physically Handicapped,51
-2021,Private,4,Physically Handicapped,450
-2021,Private,4,Others,1382
-2021,Private,4,Mentally Retarded,6105
-2021,Private,4,Deaf,1959
-2021,Private,4,Blind,173
-2021,Public,4,Blind,261
-2021,Public,4,Others,773
-2021,Public,4,Deaf,1838
-2021,Public,4,Mentally Retarded,5961
-2021,Public,4,Physically Handicapped,433
-2021,Private,5,Others,650
-2021,Private,5,Blind,80
-2021,Private,5,Physically Handicapped,186
-2021,Private,5,Mentally Retarded,2163
-2021,Private,5,Deaf,417
-2021,Public,5,Physically Handicapped,69
-2021,Public,5,Others,130
-2021,Public,5,Mentally Retarded,880
-2021,Public,5,Blind,36
-2021,Public,5,Deaf,280
-2021,Private,6,Physically Handicapped,739
-2021,Private,6,Others,2508
-2021,Private,6,Mentally Retarded,8516
-2021,Private,6,Blind,489
-2021,Private,6,Deaf,2953
-2021,Public,6,Deaf,1217
-2021,Public,6,Blind,251
-2021,Public,6,Physically Handicapped,275
-2021,Public,6,Mentally Retarded,3265
-2021,Public,6,Others,498
-2021,Private,7,Physically Handicapped,151
-2021,Private,7,Mentally Retarded,978
-2021,Private,7,Deaf,308
-2021,Private,7,Blind,67
-2021,Private,7,Others,430
-2021,Public,7,Others,433
-2021,Public,7,Blind,76
-2021,Public,7,Deaf,470
-2021,Public,7,Mentally Retarded,1278
-2021,Public,7,Physically Handicapped,195
-2021,Private,8,Deaf,550
-2021,Private,8,Blind,113
-2021,Private,8,Mentally Retarded,1029
-2021,Private,8,Others,407
-2021,Private,8,Physically Handicapped,62
-2021,Public,8,Blind,64
-2021,Public,8,Physically Handicapped,112
-2021,Public,8,Others,445
-2021,Public,8,Deaf,694
-2021,Public,8,Mentally Retarded,1637
-2021,Private,9,Mentally Retarded,2677
-2021,Private,9,Physically Handicapped,132
-2021,Private,9,Deaf,465
-2021,Private,9,Others,1529
-2021,Private,9,Blind,55
-2021,Public,9,Blind,54
-2021,Public,9,Physically Handicapped,72
-2021,Public,9,Others,288
-2021,Public,9,Mentally Retarded,1361
-2021,Public,9,Deaf,355
-2021,Private,10,Blind,26
-2021,Private,10,Deaf,290
-2021,Private,10,Mentally Retarded,821
-2021,Private,10,Physically Handicapped,66
-2021,Private,10,Others,512
-2021,Public,10,Blind,46
-2021,Public,10,Mentally Retarded,917
-2021,Public,10,Others,257
-2021,Public,10,Physically Handicapped,81
-2021,Public,10,Deaf,364
-2021,Private,11,Deaf,114
-2021,Private,11,Blind,9
-2021,Private,11,Others,167
-2021,Private,11,Physically Handicapped,18
-2021,Private,11,Mentally Retarded,230
-2021,Public,11,Blind,23
-2021,Public,11,Physically Handicapped,38
-2021,Public,11,Others,205
-2021,Public,11,Mentally Retarded,436
-2021,Public,11,Deaf,162
-2021,Private,12,Physically Handicapped,39
-2021,Private,12,Others,80
-2021,Private,12,Mentally Retarded,77
-2021,Private,12,Blind,5
-2021,Private,12,Deaf,34
-2021,Public,12,Physically Handicapped,106
-2021,Public,12,Others,208
-2021,Public,12,Mentally Retarded,1002
-2021,Public,12,Blind,46
-2021,Public,12,Deaf,414
-2021,Private,13,Others,279
-2021,Private,13,Physically Handicapped,32
-2021,Private,13,Mentally Retarded,551
-2021,Private,13,Deaf,201
-2021,Private,13,Blind,39
-2021,Public,13,Mentally Retarded,1008
-2021,Public,13,Blind,13
-2021,Public,13,Deaf,344
-2021,Public,13,Physically Handicapped,49
-2021,Public,13,Others,234
-2021,Private,14,Blind,2
-2021,Private,14,Physically Handicapped,11
-2021,Private,14,Mentally Retarded,124
-2021,Private,14,Deaf,37
-2021,Private,14,Others,28
-2021,Public,14,Deaf,148
-2021,Public,14,Blind,28
-2021,Public,14,Mentally Retarded,558
-2021,Public,14,Others,200
-2021,Public,14,Physically Handicapped,52
-2021,Private,15,Mentally Retarded,90
-2021,Private,15,Others,75
-2021,Private,15,Physically Handicapped,0
-2021,Private,15,Blind,11
-2021,Private,15,Deaf,10
-2021,Public,15,Mentally Retarded,851
-2021,Public,15,Deaf,184
-2021,Public,15,Blind,19
-2021,Public,15,Others,127
-2021,Public,15,Physically Handicapped,64
-2021,Private,16,Physically Handicapped,11
-2021,Private,16,Others,184
-2021,Private,16,Deaf,114
-2021,Private,16,Mentally Retarded,446
-2021,Private,16,Blind,30
-2021,Public,16,Physically Handicapped,12
-2021,Public,16,Others,117
-2021,Public,16,Mentally Retarded,796
-2021,Public,16,Blind,20
-2021,Public,16,Deaf,399
-2021,Private,17,Physically Handicapped,7
-2021,Private,17,Others,316
-2021,Private,17,Mentally Retarded,263
-2021,Private,17,Blind,4
-2021,Private,17,Deaf,142
-2021,Public,17,Physically Handicapped,45
-2021,Public,17,Others,228
-2021,Public,17,Mentally Retarded,439
-2021,Public,17,Blind,33
-2021,Public,17,Deaf,182
-2021,Private,18,Deaf,17
-2021,Private,18,Mentally Retarded,57
-2021,Private,18,Physically Handicapped,5
-2021,Private,18,Others,90
-2021,Private,18,Blind,0
-2021,Public,18,Others,257
-2021,Public,18,Deaf,188
-2021,Public,18,Mentally Retarded,522
-2021,Public,18,Physically Handicapped,69
-2021,Public,18,Blind,20
-2021,Private,19,Others,52
-2021,Private,19,Blind,0
-2021,Private,19,Physically Handicapped,9
-2021,Private,19,Deaf,20
-2021,Private,19,Mentally Retarded,38
-2021,Public,19,Blind,48
-2021,Public,19,Physically Handicapped,95
-2021,Public,19,Others,545
-2021,Public,19,Deaf,498
-2021,Public,19,Mentally Retarded,1230
-2021,Private,20,Blind,5
-2021,Private,20,Deaf,93
-2021,Private,20,Physically Handicapped,31
-2021,Private,20,Mentally Retarded,397
-2021,Private,20,Others,337
-2021,Public,20,Blind,37
-2021,Public,20,Mentally Retarded,761
-2021,Public,20,Deaf,350
-2021,Public,20,Others,409
-2021,Public,20,Physically Handicapped,72
-2021,Private,21,Deaf,0
-2021,Private,21,Mentally Retarded,0
-2021,Private,21,Physically Handicapped,0
-2021,Private,21,Blind,0
-2021,Private,21,Others,0
-2021,Public,21,Mentally Retarded,274
-2021,Public,21,Deaf,74
-2021,Public,21,Blind,5
-2021,Public,21,Others,151
-2021,Public,21,Physically Handicapped,20
-2021,Private,22,Mentally Retarded,566
-2021,Private,22,Physically Handicapped,90
-2021,Private,22,Others,386
-2021,Private,22,Deaf,214
-2021,Private,22,Blind,27
-2021,Public,22,Mentally Retarded,174
-2021,Public,22,Deaf,78
-2021,Public,22,Physically Handicapped,27
-2021,Public,22,Blind,15
-2021,Public,22,Others,64
-2021,Private,23,Others,0
-2021,Private,23,Deaf,0
-2021,Private,23,Mentally Retarded,0
-2021,Private,23,Physically Handicapped,0
-2021,Private,23,Blind,0
-2021,Public,23,Deaf,220
-2021,Public,23,Blind,38
-2021,Public,23,Physically Handicapped,126
-2021,Public,23,Mentally Retarded,560
-2021,Public,23,Others,90
-2021,Private,24,Blind,13
-2021,Private,24,Deaf,90
-2021,Private,24,Others,115
-2021,Private,24,Mentally Retarded,280
-2021,Private,24,Physically Handicapped,30
-2021,Public,24,Physically Handicapped,70
-2021,Public,24,Others,146
-2021,Public,24,Blind,37
-2021,Public,24,Mentally Retarded,497
-2021,Public,24,Deaf,188
-2021,Private,25,Others,488
-2021,Private,25,Deaf,584
-2021,Private,25,Mentally Retarded,1390
-2021,Private,25,Blind,170
-2021,Private,25,Physically Handicapped,178
-2021,Public,25,Physically Handicapped,110
-2021,Public,25,Others,233
-2021,Public,25,Mentally Retarded,941
-2021,Public,25,Blind,51
-2021,Public,25,Deaf,413
-2021,Private,26,Blind,15
-2021,Private,26,Physically Handicapped,79
-2021,Private,26,Deaf,119
-2021,Private,26,Others,77
-2021,Private,26,Mentally Retarded,253
-2021,Public,26,Physically Handicapped,70
-2021,Public,26,Others,177
-2021,Public,26,Mentally Retarded,223
-2021,Public,26,Blind,18
-2021,Public,26,Deaf,152
-2021,Private,27,Blind,71
-2021,Private,27,Others,702
-2021,Private,27,Deaf,355
-2021,Private,27,Mentally Retarded,767
-2021,Private,27,Physically Handicapped,188
-2021,Public,27,Physically Handicapped,48
-2021,Public,27,Others,219
-2021,Public,27,Deaf,79
-2021,Public,27,Mentally Retarded,260
-2021,Public,27,Blind,19
-2021,Private,28,Others,28
-2021,Private,28,Deaf,49
-2021,Private,28,Mentally Retarded,188
-2021,Private,28,Physically Handicapped,11
-2021,Private,28,Blind,7
-2021,Public,28,Mentally Retarded,375
-2021,Public,28,Others,122
-2021,Public,28,Blind,17
-2021,Public,28,Physically Handicapped,49
-2021,Public,28,Deaf,90
-2021,Private,29,Deaf,24
-2021,Private,29,Physically Handicapped,11
-2021,Private,29,Mentally Retarded,61
-2021,Private,29,Others,14
-2021,Private,29,Blind,2
-2021,Public,29,Mentally Retarded,424
-2021,Public,29,Deaf,94
-2021,Public,29,Blind,26
-2021,Public,29,Others,167
-2021,Public,29,Physically Handicapped,75
-2021,Private,30,Physically Handicapped,21
-2021,Private,30,Deaf,0
-2021,Private,30,Mentally Retarded,120
-2021,Private,30,Others,8
-2021,Private,30,Blind,0
-2021,Public,30,Physically Handicapped,43
-2021,Public,30,Others,188
-2021,Public,30,Mentally Retarded,1189
-2021,Public,30,Blind,88
-2021,Public,30,Deaf,624
-2021,Private,31,Deaf,372
-2021,Private,31,Blind,125
-2021,Private,31,Mentally Retarded,648
-2021,Private,31,Others,428
-2021,Private,31,Physically Handicapped,236
-2021,Public,31,Deaf,434
-2021,Public,31,Blind,55
-2021,Public,31,Others,272
-2021,Public,31,Physically Handicapped,163
-2021,Public,31,Mentally Retarded,982
-2021,Private,32,Deaf,129
-2021,Private,32,Blind,41
-2021,Private,32,Mentally Retarded,245
-2021,Private,32,Others,161
-2021,Private,32,Physically Handicapped,24
-2021,Public,32,Blind,73
-2021,Public,32,Physically Handicapped,139
-2021,Public,32,Others,319
-2021,Public,32,Deaf,269
-2021,Public,32,Mentally Retarded,1355
-2021,Private,33,Deaf,114
-2021,Private,33,Blind,2
-2021,Private,33,Mentally Retarded,179
-2021,Private,33,Physically Handicapped,9
-2021,Private,33,Others,23
-2021,Public,33,Physically Handicapped,34
-2021,Public,33,Mentally Retarded,289
-2021,Public,33,Blind,27
-2021,Public,33,Deaf,123
-2021,Public,33,Others,145
-2021,Private,34,Blind,2
-2021,Private,34,Mentally Retarded,10
-2021,Private,34,Physically Handicapped,0
-2021,Private,34,Deaf,7
-2021,Private,34,Others,13
-2021,Public,34,Blind,6
-2021,Public,34,Others,43
-2021,Public,34,Deaf,61
-2021,Public,34,Physically Handicapped,9
-2021,Public,34,Mentally Retarded,123
+Year,Status,No.,Province,Disability Type,Total
+2023,Private,1,DKI Jakarta,Physically Handicapped,70
+2023,Private,1,DKI Jakarta,Others,707
+2023,Private,1,DKI Jakarta,Mentally Retarded,1915
+2023,Private,1,DKI Jakarta,Blind,36
+2023,Private,1,DKI Jakarta,Deaf,741
+2022,Private,1,DKI Jakarta,Blind,53
+2022,Private,1,DKI Jakarta,Others,572
+2022,Private,1,DKI Jakarta,Deaf,795
+2022,Private,1,DKI Jakarta,Mentally Retarded,1884
+2022,Private,1,DKI Jakarta,Physically Handicapped,68
+2021,Private,1,DKI Jakarta,Deaf,928
+2021,Private,1,DKI Jakarta,Blind,60
+2021,Private,1,DKI Jakarta,Mentally Retarded,1937
+2021,Private,1,DKI Jakarta,Physically Handicapped,75
+2021,Private,1,DKI Jakarta,Others,489
+2023,Public,1,DKI Jakarta,Physically Handicapped,21
+2023,Public,1,DKI Jakarta,Others,457
+2023,Public,1,DKI Jakarta,Mentally Retarded,1594
+2023,Public,1,DKI Jakarta,Blind,102
+2023,Public,1,DKI Jakarta,Deaf,558
+2022,Public,1,DKI Jakarta,Others,244
+2022,Public,1,DKI Jakarta,Deaf,672
+2022,Public,1,DKI Jakarta,Blind,102
+2022,Public,1,DKI Jakarta,Physically Handicapped,27
+2022,Public,1,DKI Jakarta,Mentally Retarded,1581
+2021,Public,1,DKI Jakarta,Blind,118
+2021,Public,1,DKI Jakarta,Mentally Retarded,1580
+2021,Public,1,DKI Jakarta,Deaf,664
+2021,Public,1,DKI Jakarta,Others,213
+2021,Public,1,DKI Jakarta,Physically Handicapped,29
+2023,Private,2,Jawa Barat,Deaf,3084
+2023,Private,2,Jawa Barat,Mentally Retarded,12625
+2023,Private,2,Jawa Barat,Physically Handicapped,608
+2023,Private,2,Jawa Barat,Others,3880
+2023,Private,2,Jawa Barat,Blind,379
+2022,Private,2,Jawa Barat,Physically Handicapped,719
+2022,Private,2,Jawa Barat,Deaf,3301
+2022,Private,2,Jawa Barat,Mentally Retarded,12061
+2022,Private,2,Jawa Barat,Others,3432
+2022,Private,2,Jawa Barat,Blind,403
+2021,Private,2,Jawa Barat,Others,2836
+2021,Private,2,Jawa Barat,Mentally Retarded,11879
+2021,Private,2,Jawa Barat,Physically Handicapped,703
+2021,Private,2,Jawa Barat,Blind,390
+2021,Private,2,Jawa Barat,Deaf,3404
+2023,Public,2,Jawa Barat,Blind,322
+2023,Public,2,Jawa Barat,Physically Handicapped,423
+2023,Public,2,Jawa Barat,Mentally Retarded,4389
+2023,Public,2,Jawa Barat,Deaf,1422
+2023,Public,2,Jawa Barat,Others,1343
+2022,Public,2,Jawa Barat,Mentally Retarded,3789
+2022,Public,2,Jawa Barat,Physically Handicapped,390
+2022,Public,2,Jawa Barat,Deaf,1290
+2022,Public,2,Jawa Barat,Others,888
+2022,Public,2,Jawa Barat,Blind,304
+2021,Public,2,Jawa Barat,Physically Handicapped,311
+2021,Public,2,Jawa Barat,Others,586
+2021,Public,2,Jawa Barat,Mentally Retarded,3255
+2021,Public,2,Jawa Barat,Blind,285
+2021,Public,2,Jawa Barat,Deaf,1168
+2023,Private,3,Banten,Physically Handicapped,227
+2023,Private,3,Banten,Others,1726
+2023,Private,3,Banten,Mentally Retarded,2384
+2023,Private,3,Banten,Blind,103
+2023,Private,3,Banten,Deaf,687
+2022,Private,3,Banten,Deaf,751
+2022,Private,3,Banten,Blind,102
+2022,Private,3,Banten,Others,1456
+2022,Private,3,Banten,Physically Handicapped,247
+2022,Private,3,Banten,Mentally Retarded,2318
+2021,Private,3,Banten,Mentally Retarded,2393
+2021,Private,3,Banten,Deaf,765
+2021,Private,3,Banten,Blind,113
+2021,Private,3,Banten,Others,1247
+2021,Private,3,Banten,Physically Handicapped,257
+2023,Public,3,Banten,Blind,48
+2023,Public,3,Banten,Mentally Retarded,812
+2023,Public,3,Banten,Deaf,314
+2023,Public,3,Banten,Physically Handicapped,45
+2023,Public,3,Banten,Others,326
+2022,Public,3,Banten,Blind,42
+2022,Public,3,Banten,Others,236
+2022,Public,3,Banten,Deaf,314
+2022,Public,3,Banten,Physically Handicapped,51
+2022,Public,3,Banten,Mentally Retarded,722
+2021,Public,3,Banten,Deaf,287
+2021,Public,3,Banten,Blind,39
+2021,Public,3,Banten,Mentally Retarded,726
+2021,Public,3,Banten,Others,178
+2021,Public,3,Banten,Physically Handicapped,51
+2023,Private,4,Jawa Tengah,Physically Handicapped,269
+2023,Private,4,Jawa Tengah,Others,2027
+2023,Private,4,Jawa Tengah,Mentally Retarded,6308
+2023,Private,4,Jawa Tengah,Blind,159
+2023,Private,4,Jawa Tengah,Deaf,1859
+2022,Private,4,Jawa Tengah,Mentally Retarded,6063
+2022,Private,4,Jawa Tengah,Physically Handicapped,396
+2022,Private,4,Jawa Tengah,Deaf,1837
+2022,Private,4,Jawa Tengah,Blind,170
+2022,Private,4,Jawa Tengah,Others,1576
+2021,Private,4,Jawa Tengah,Physically Handicapped,450
+2021,Private,4,Jawa Tengah,Others,1382
+2021,Private,4,Jawa Tengah,Mentally Retarded,6105
+2021,Private,4,Jawa Tengah,Deaf,1959
+2021,Private,4,Jawa Tengah,Blind,173
+2023,Public,4,Jawa Tengah,Deaf,1964
+2023,Public,4,Jawa Tengah,Blind,314
+2023,Public,4,Jawa Tengah,Mentally Retarded,6353
+2023,Public,4,Jawa Tengah,Others,1271
+2023,Public,4,Jawa Tengah,Physically Handicapped,448
+2022,Public,4,Jawa Tengah,Others,1043
+2022,Public,4,Jawa Tengah,Physically Handicapped,459
+2022,Public,4,Jawa Tengah,Blind,283
+2022,Public,4,Jawa Tengah,Deaf,1893
+2022,Public,4,Jawa Tengah,Mentally Retarded,6219
+2021,Public,4,Jawa Tengah,Blind,261
+2021,Public,4,Jawa Tengah,Others,773
+2021,Public,4,Jawa Tengah,Deaf,1838
+2021,Public,4,Jawa Tengah,Mentally Retarded,5961
+2021,Public,4,Jawa Tengah,Physically Handicapped,433
+2023,Private,5,DI Yogyakarta,Deaf,282
+2023,Private,5,DI Yogyakarta,Mentally Retarded,2056
+2023,Private,5,DI Yogyakarta,Physically Handicapped,113
+2023,Private,5,DI Yogyakarta,Others,1058
+2023,Private,5,DI Yogyakarta,Blind,74
+2022,Private,5,DI Yogyakarta,Physically Handicapped,171
+2022,Private,5,DI Yogyakarta,Others,759
+2022,Private,5,DI Yogyakarta,Mentally Retarded,2086
+2022,Private,5,DI Yogyakarta,Deaf,422
+2022,Private,5,DI Yogyakarta,Blind,86
+2021,Private,5,DI Yogyakarta,Others,650
+2021,Private,5,DI Yogyakarta,Blind,80
+2021,Private,5,DI Yogyakarta,Physically Handicapped,186
+2021,Private,5,DI Yogyakarta,Mentally Retarded,2163
+2021,Private,5,DI Yogyakarta,Deaf,417
+2023,Public,5,DI Yogyakarta,Blind,34
+2023,Public,5,DI Yogyakarta,Mentally Retarded,891
+2023,Public,5,DI Yogyakarta,Deaf,214
+2023,Public,5,DI Yogyakarta,Others,256
+2023,Public,5,DI Yogyakarta,Physically Handicapped,51
+2022,Public,5,DI Yogyakarta,Mentally Retarded,884
+2022,Public,5,DI Yogyakarta,Physically Handicapped,70
+2022,Public,5,DI Yogyakarta,Deaf,257
+2022,Public,5,DI Yogyakarta,Others,169
+2022,Public,5,DI Yogyakarta,Blind,36
+2021,Public,5,DI Yogyakarta,Physically Handicapped,69
+2021,Public,5,DI Yogyakarta,Others,130
+2021,Public,5,DI Yogyakarta,Mentally Retarded,880
+2021,Public,5,DI Yogyakarta,Blind,36
+2021,Public,5,DI Yogyakarta,Deaf,280
+2023,Private,6,Jawa Timur,Deaf,2699
+2023,Private,6,Jawa Timur,Blind,520
+2023,Private,6,Jawa Timur,Mentally Retarded,8569
+2023,Private,6,Jawa Timur,Others,3637
+2023,Private,6,Jawa Timur,Physically Handicapped,608
+2022,Private,6,Jawa Timur,Mentally Retarded,8246
+2022,Private,6,Jawa Timur,Physically Handicapped,647
+2022,Private,6,Jawa Timur,Deaf,2746
+2022,Private,6,Jawa Timur,Others,2977
+2022,Private,6,Jawa Timur,Blind,483
+2021,Private,6,Jawa Timur,Physically Handicapped,739
+2021,Private,6,Jawa Timur,Others,2508
+2021,Private,6,Jawa Timur,Mentally Retarded,8516
+2021,Private,6,Jawa Timur,Blind,489
+2021,Private,6,Jawa Timur,Deaf,2953
+2023,Public,6,Jawa Timur,Others,867
+2023,Public,6,Jawa Timur,Blind,272
+2023,Public,6,Jawa Timur,Physically Handicapped,252
+2023,Public,6,Jawa Timur,Deaf,1192
+2023,Public,6,Jawa Timur,Mentally Retarded,3439
+2022,Public,6,Jawa Timur,Blind,267
+2022,Public,6,Jawa Timur,Others,670
+2022,Public,6,Jawa Timur,Mentally Retarded,3309
+2022,Public,6,Jawa Timur,Deaf,1183
+2022,Public,6,Jawa Timur,Physically Handicapped,262
+2021,Public,6,Jawa Timur,Deaf,1217
+2021,Public,6,Jawa Timur,Blind,251
+2021,Public,6,Jawa Timur,Physically Handicapped,275
+2021,Public,6,Jawa Timur,Mentally Retarded,3265
+2021,Public,6,Jawa Timur,Others,498
+2023,Private,7,Aceh,Physically Handicapped,129
+2023,Private,7,Aceh,Others,461
+2023,Private,7,Aceh,Mentally Retarded,1009
+2023,Private,7,Aceh,Blind,64
+2023,Private,7,Aceh,Deaf,299
+2022,Private,7,Aceh,Mentally Retarded,1031
+2022,Private,7,Aceh,Deaf,295
+2022,Private,7,Aceh,Blind,71
+2022,Private,7,Aceh,Others,446
+2022,Private,7,Aceh,Physically Handicapped,163
+2021,Private,7,Aceh,Physically Handicapped,151
+2021,Private,7,Aceh,Mentally Retarded,978
+2021,Private,7,Aceh,Deaf,308
+2021,Private,7,Aceh,Blind,67
+2021,Private,7,Aceh,Others,430
+2023,Public,7,Aceh,Deaf,460
+2023,Public,7,Aceh,Blind,92
+2023,Public,7,Aceh,Mentally Retarded,1486
+2023,Public,7,Aceh,Others,613
+2023,Public,7,Aceh,Physically Handicapped,195
+2022,Public,7,Aceh,Physically Handicapped,209
+2022,Public,7,Aceh,Others,514
+2022,Public,7,Aceh,Blind,88
+2022,Public,7,Aceh,Deaf,449
+2022,Public,7,Aceh,Mentally Retarded,1286
+2021,Public,7,Aceh,Others,433
+2021,Public,7,Aceh,Blind,76
+2021,Public,7,Aceh,Deaf,470
+2021,Public,7,Aceh,Mentally Retarded,1278
+2021,Public,7,Aceh,Physically Handicapped,195
+2023,Private,8,Sumatera Utara,Deaf,618
+2023,Private,8,Sumatera Utara,Blind,101
+2023,Private,8,Sumatera Utara,Others,651
+2023,Private,8,Sumatera Utara,Physically Handicapped,56
+2023,Private,8,Sumatera Utara,Mentally Retarded,1175
+2022,Private,8,Sumatera Utara,Blind,111
+2022,Private,8,Sumatera Utara,Others,521
+2022,Private,8,Sumatera Utara,Deaf,585
+2022,Private,8,Sumatera Utara,Physically Handicapped,64
+2022,Private,8,Sumatera Utara,Mentally Retarded,1109
+2021,Private,8,Sumatera Utara,Deaf,550
+2021,Private,8,Sumatera Utara,Blind,113
+2021,Private,8,Sumatera Utara,Mentally Retarded,1029
+2021,Private,8,Sumatera Utara,Others,407
+2021,Private,8,Sumatera Utara,Physically Handicapped,62
+2023,Public,8,Sumatera Utara,Physically Handicapped,88
+2023,Public,8,Sumatera Utara,Others,631
+2023,Public,8,Sumatera Utara,Mentally Retarded,1665
+2023,Public,8,Sumatera Utara,Blind,56
+2023,Public,8,Sumatera Utara,Deaf,696
+2022,Public,8,Sumatera Utara,Others,506
+2022,Public,8,Sumatera Utara,Mentally Retarded,1658
+2022,Public,8,Sumatera Utara,Physically Handicapped,101
+2022,Public,8,Sumatera Utara,Blind,61
+2022,Public,8,Sumatera Utara,Deaf,683
+2021,Public,8,Sumatera Utara,Blind,64
+2021,Public,8,Sumatera Utara,Physically Handicapped,112
+2021,Public,8,Sumatera Utara,Others,445
+2021,Public,8,Sumatera Utara,Deaf,694
+2021,Public,8,Sumatera Utara,Mentally Retarded,1637
+2023,Private,9,Sumatera Barat,Deaf,362
+2023,Private,9,Sumatera Barat,Blind,48
+2023,Private,9,Sumatera Barat,Mentally Retarded,2741
+2023,Private,9,Sumatera Barat,Others,1853
+2023,Private,9,Sumatera Barat,Physically Handicapped,107
+2022,Private,9,Sumatera Barat,Deaf,442
+2022,Private,9,Sumatera Barat,Mentally Retarded,2753
+2022,Private,9,Sumatera Barat,Blind,57
+2022,Private,9,Sumatera Barat,Physically Handicapped,151
+2022,Private,9,Sumatera Barat,Others,1674
+2021,Private,9,Sumatera Barat,Mentally Retarded,2677
+2021,Private,9,Sumatera Barat,Physically Handicapped,132
+2021,Private,9,Sumatera Barat,Deaf,465
+2021,Private,9,Sumatera Barat,Others,1529
+2021,Private,9,Sumatera Barat,Blind,55
+2023,Public,9,Sumatera Barat,Deaf,329
+2023,Public,9,Sumatera Barat,Physically Handicapped,51
+2023,Public,9,Sumatera Barat,Others,432
+2023,Public,9,Sumatera Barat,Mentally Retarded,1338
+2023,Public,9,Sumatera Barat,Blind,55
+2022,Public,9,Sumatera Barat,Others,368
+2022,Public,9,Sumatera Barat,Mentally Retarded,1318
+2022,Public,9,Sumatera Barat,Physically Handicapped,61
+2022,Public,9,Sumatera Barat,Deaf,326
+2022,Public,9,Sumatera Barat,Blind,58
+2021,Public,9,Sumatera Barat,Blind,54
+2021,Public,9,Sumatera Barat,Physically Handicapped,72
+2021,Public,9,Sumatera Barat,Others,288
+2021,Public,9,Sumatera Barat,Mentally Retarded,1361
+2021,Public,9,Sumatera Barat,Deaf,355
+2023,Private,10,Riau,Mentally Retarded,789
+2023,Private,10,Riau,Deaf,259
+2023,Private,10,Riau,Others,662
+2023,Private,10,Riau,Physically Handicapped,49
+2023,Private,10,Riau,Blind,23
+2022,Private,10,Riau,Others,581
+2022,Private,10,Riau,Blind,26
+2022,Private,10,Riau,Deaf,288
+2022,Private,10,Riau,Mentally Retarded,796
+2022,Private,10,Riau,Physically Handicapped,64
+2021,Private,10,Riau,Blind,26
+2021,Private,10,Riau,Deaf,290
+2021,Private,10,Riau,Mentally Retarded,821
+2021,Private,10,Riau,Physically Handicapped,66
+2021,Private,10,Riau,Others,512
+2023,Public,10,Riau,Mentally Retarded,986
+2023,Public,10,Riau,Deaf,401
+2023,Public,10,Riau,Physically Handicapped,77
+2023,Public,10,Riau,Blind,52
+2023,Public,10,Riau,Others,418
+2022,Public,10,Riau,Others,324
+2022,Public,10,Riau,Deaf,360
+2022,Public,10,Riau,Physically Handicapped,79
+2022,Public,10,Riau,Mentally Retarded,909
+2022,Public,10,Riau,Blind,45
+2021,Public,10,Riau,Blind,46
+2021,Public,10,Riau,Mentally Retarded,917
+2021,Public,10,Riau,Others,257
+2021,Public,10,Riau,Physically Handicapped,81
+2021,Public,10,Riau,Deaf,364
+2023,Private,11,Kepulauan Riau,Physically Handicapped,12
+2023,Private,11,Kepulauan Riau,Others,247
+2023,Private,11,Kepulauan Riau,Mentally Retarded,247
+2023,Private,11,Kepulauan Riau,Blind,16
+2023,Private,11,Kepulauan Riau,Deaf,110
+2022,Private,11,Kepulauan Riau,Blind,13
+2022,Private,11,Kepulauan Riau,Others,207
+2022,Private,11,Kepulauan Riau,Physically Handicapped,20
+2022,Private,11,Kepulauan Riau,Mentally Retarded,234
+2022,Private,11,Kepulauan Riau,Deaf,109
+2021,Private,11,Kepulauan Riau,Deaf,114
+2021,Private,11,Kepulauan Riau,Blind,9
+2021,Private,11,Kepulauan Riau,Others,167
+2021,Private,11,Kepulauan Riau,Physically Handicapped,18
+2021,Private,11,Kepulauan Riau,Mentally Retarded,230
+2023,Public,11,Kepulauan Riau,Mentally Retarded,464
+2023,Public,11,Kepulauan Riau,Deaf,177
+2023,Public,11,Kepulauan Riau,Others,298
+2023,Public,11,Kepulauan Riau,Physically Handicapped,33
+2023,Public,11,Kepulauan Riau,Blind,33
+2022,Public,11,Kepulauan Riau,Others,255
+2022,Public,11,Kepulauan Riau,Mentally Retarded,433
+2022,Public,11,Kepulauan Riau,Physically Handicapped,32
+2022,Public,11,Kepulauan Riau,Deaf,171
+2022,Public,11,Kepulauan Riau,Blind,24
+2021,Public,11,Kepulauan Riau,Blind,23
+2021,Public,11,Kepulauan Riau,Physically Handicapped,38
+2021,Public,11,Kepulauan Riau,Others,205
+2021,Public,11,Kepulauan Riau,Mentally Retarded,436
+2021,Public,11,Kepulauan Riau,Deaf,162
+2023,Private,12,Jambi,Others,146
+2023,Private,12,Jambi,Blind,5
+2023,Private,12,Jambi,Deaf,41
+2023,Private,12,Jambi,Physically Handicapped,40
+2023,Private,12,Jambi,Mentally Retarded,129
+2022,Private,12,Jambi,Mentally Retarded,100
+2022,Private,12,Jambi,Physically Handicapped,41
+2022,Private,12,Jambi,Deaf,41
+2022,Private,12,Jambi,Others,109
+2022,Private,12,Jambi,Blind,5
+2021,Private,12,Jambi,Physically Handicapped,39
+2021,Private,12,Jambi,Others,80
+2021,Private,12,Jambi,Mentally Retarded,77
+2021,Private,12,Jambi,Blind,5
+2021,Private,12,Jambi,Deaf,34
+2023,Public,12,Jambi,Others,336
+2023,Public,12,Jambi,Blind,38
+2023,Public,12,Jambi,Physically Handicapped,106
+2023,Public,12,Jambi,Deaf,417
+2023,Public,12,Jambi,Mentally Retarded,1114
+2022,Public,12,Jambi,Mentally Retarded,1061
+2022,Public,12,Jambi,Physically Handicapped,115
+2022,Public,12,Jambi,Deaf,406
+2022,Public,12,Jambi,Others,269
+2022,Public,12,Jambi,Blind,43
+2021,Public,12,Jambi,Physically Handicapped,106
+2021,Public,12,Jambi,Others,208
+2021,Public,12,Jambi,Mentally Retarded,1002
+2021,Public,12,Jambi,Blind,46
+2021,Public,12,Jambi,Deaf,414
+2023,Private,13,Sumatera Selatan,Physically Handicapped,31
+2023,Private,13,Sumatera Selatan,Others,368
+2023,Private,13,Sumatera Selatan,Deaf,198
+2023,Private,13,Sumatera Selatan,Mentally Retarded,594
+2023,Private,13,Sumatera Selatan,Blind,29
+2022,Private,13,Sumatera Selatan,Physically Handicapped,32
+2022,Private,13,Sumatera Selatan,Mentally Retarded,561
+2022,Private,13,Sumatera Selatan,Deaf,183
+2022,Private,13,Sumatera Selatan,Blind,32
+2022,Private,13,Sumatera Selatan,Others,352
+2021,Private,13,Sumatera Selatan,Others,279
+2021,Private,13,Sumatera Selatan,Physically Handicapped,32
+2021,Private,13,Sumatera Selatan,Mentally Retarded,551
+2021,Private,13,Sumatera Selatan,Deaf,201
+2021,Private,13,Sumatera Selatan,Blind,39
+2023,Public,13,Sumatera Selatan,Blind,20
+2023,Public,13,Sumatera Selatan,Deaf,329
+2023,Public,13,Sumatera Selatan,Others,383
+2023,Public,13,Sumatera Selatan,Mentally Retarded,1059
+2023,Public,13,Sumatera Selatan,Physically Handicapped,52
+2022,Public,13,Sumatera Selatan,Deaf,331
+2022,Public,13,Sumatera Selatan,Others,301
+2022,Public,13,Sumatera Selatan,Blind,16
+2022,Public,13,Sumatera Selatan,Mentally Retarded,1023
+2022,Public,13,Sumatera Selatan,Physically Handicapped,52
+2021,Public,13,Sumatera Selatan,Mentally Retarded,1008
+2021,Public,13,Sumatera Selatan,Blind,13
+2021,Public,13,Sumatera Selatan,Deaf,344
+2021,Public,13,Sumatera Selatan,Physically Handicapped,49
+2021,Public,13,Sumatera Selatan,Others,234
+2023,Private,14,Kep. Bangka Belitung,Mentally Retarded,123
+2023,Private,14,Kep. Bangka Belitung,Deaf,32
+2023,Private,14,Kep. Bangka Belitung,Physically Handicapped,19
+2023,Private,14,Kep. Bangka Belitung,Blind,1
+2023,Private,14,Kep. Bangka Belitung,Others,44
+2022,Private,14,Bangka Belitung,Others,37
+2022,Private,14,Bangka Belitung,Mentally Retarded,123
+2022,Private,14,Bangka Belitung,Deaf,34
+2022,Private,14,Bangka Belitung,Blind,1
+2022,Private,14,Bangka Belitung,Physically Handicapped,12
+2021,Private,14,Bangka Belitung,Blind,2
+2021,Private,14,Bangka Belitung,Physically Handicapped,11
+2021,Private,14,Bangka Belitung,Mentally Retarded,124
+2021,Private,14,Bangka Belitung,Deaf,37
+2021,Private,14,Bangka Belitung,Others,28
+2023,Public,14,Kep. Bangka Belitung,Blind,30
+2023,Public,14,Kep. Bangka Belitung,Mentally Retarded,583
+2023,Public,14,Kep. Bangka Belitung,Deaf,148
+2023,Public,14,Kep. Bangka Belitung,Others,275
+2023,Public,14,Kep. Bangka Belitung,Physically Handicapped,62
+2022,Public,14,Bangka Belitung,Blind,30
+2022,Public,14,Bangka Belitung,Others,238
+2022,Public,14,Bangka Belitung,Deaf,158
+2022,Public,14,Bangka Belitung,Physically Handicapped,59
+2022,Public,14,Bangka Belitung,Mentally Retarded,565
+2021,Public,14,Bangka Belitung,Deaf,148
+2021,Public,14,Bangka Belitung,Blind,28
+2021,Public,14,Bangka Belitung,Mentally Retarded,558
+2021,Public,14,Bangka Belitung,Others,200
+2021,Public,14,Bangka Belitung,Physically Handicapped,52
+2023,Private,15,Bengkulu,Blind,8
+2023,Private,15,Bengkulu,Physically Handicapped,1
+2023,Private,15,Bengkulu,Others,84
+2023,Private,15,Bengkulu,Mentally Retarded,99
+2023,Private,15,Bengkulu,Deaf,20
+2022,Private,15,Bengkulu,Deaf,11
+2022,Private,15,Bengkulu,Physically Handicapped,0
+2022,Private,15,Bengkulu,Mentally Retarded,88
+2022,Private,15,Bengkulu,Others,83
+2022,Private,15,Bengkulu,Blind,9
+2021,Private,15,Bengkulu,Mentally Retarded,90
+2021,Private,15,Bengkulu,Others,75
+2021,Private,15,Bengkulu,Physically Handicapped,0
+2021,Private,15,Bengkulu,Blind,11
+2021,Private,15,Bengkulu,Deaf,10
+2023,Public,15,Bengkulu,Blind,21
+2023,Public,15,Bengkulu,Physically Handicapped,45
+2023,Public,15,Bengkulu,Others,202
+2023,Public,15,Bengkulu,Deaf,189
+2023,Public,15,Bengkulu,Mentally Retarded,778
+2022,Public,15,Bengkulu,Deaf,185
+2022,Public,15,Bengkulu,Blind,19
+2022,Public,15,Bengkulu,Others,160
+2022,Public,15,Bengkulu,Physically Handicapped,61
+2022,Public,15,Bengkulu,Mentally Retarded,814
+2021,Public,15,Bengkulu,Mentally Retarded,851
+2021,Public,15,Bengkulu,Deaf,184
+2021,Public,15,Bengkulu,Blind,19
+2021,Public,15,Bengkulu,Others,127
+2021,Public,15,Bengkulu,Physically Handicapped,64
+2023,Private,16,Lampung,Blind,30
+2023,Private,16,Lampung,Deaf,97
+2023,Private,16,Lampung,Mentally Retarded,449
+2023,Private,16,Lampung,Others,233
+2023,Private,16,Lampung,Physically Handicapped,14
+2022,Private,16,Lampung,Mentally Retarded,392
+2022,Private,16,Lampung,Physically Handicapped,12
+2022,Private,16,Lampung,Blind,28
+2022,Private,16,Lampung,Deaf,110
+2022,Private,16,Lampung,Others,217
+2021,Private,16,Lampung,Physically Handicapped,11
+2021,Private,16,Lampung,Others,184
+2021,Private,16,Lampung,Deaf,114
+2021,Private,16,Lampung,Mentally Retarded,446
+2021,Private,16,Lampung,Blind,30
+2023,Public,16,Lampung,Physically Handicapped,13
+2023,Public,16,Lampung,Others,200
+2023,Public,16,Lampung,Mentally Retarded,742
+2023,Public,16,Lampung,Blind,20
+2023,Public,16,Lampung,Deaf,389
+2022,Public,16,Lampung,Mentally Retarded,781
+2022,Public,16,Lampung,Physically Handicapped,18
+2022,Public,16,Lampung,Deaf,406
+2022,Public,16,Lampung,Others,168
+2022,Public,16,Lampung,Blind,21
+2021,Public,16,Lampung,Physically Handicapped,12
+2021,Public,16,Lampung,Others,117
+2021,Public,16,Lampung,Mentally Retarded,796
+2021,Public,16,Lampung,Blind,20
+2021,Public,16,Lampung,Deaf,399
+2023,Private,17,Kalimantan Barat,Physically Handicapped,5
+2023,Private,17,Kalimantan Barat,Others,389
+2023,Private,17,Kalimantan Barat,Mentally Retarded,288
+2023,Private,17,Kalimantan Barat,Blind,3
+2023,Private,17,Kalimantan Barat,Deaf,150
+2022,Private,17,Kalimantan Barat,Mentally Retarded,240
+2022,Private,17,Kalimantan Barat,Physically Handicapped,1
+2022,Private,17,Kalimantan Barat,Deaf,140
+2022,Private,17,Kalimantan Barat,Others,372
+2022,Private,17,Kalimantan Barat,Blind,3
+2021,Private,17,Kalimantan Barat,Physically Handicapped,7
+2021,Private,17,Kalimantan Barat,Others,316
+2021,Private,17,Kalimantan Barat,Mentally Retarded,263
+2021,Private,17,Kalimantan Barat,Blind,4
+2021,Private,17,Kalimantan Barat,Deaf,142
+2023,Public,17,Kalimantan Barat,Deaf,217
+2023,Public,17,Kalimantan Barat,Mentally Retarded,480
+2023,Public,17,Kalimantan Barat,Physically Handicapped,42
+2023,Public,17,Kalimantan Barat,Others,355
+2023,Public,17,Kalimantan Barat,Blind,46
+2022,Public,17,Kalimantan Barat,Mentally Retarded,456
+2022,Public,17,Kalimantan Barat,Physically Handicapped,41
+2022,Public,17,Kalimantan Barat,Deaf,210
+2022,Public,17,Kalimantan Barat,Others,281
+2022,Public,17,Kalimantan Barat,Blind,38
+2021,Public,17,Kalimantan Barat,Physically Handicapped,45
+2021,Public,17,Kalimantan Barat,Others,228
+2021,Public,17,Kalimantan Barat,Mentally Retarded,439
+2021,Public,17,Kalimantan Barat,Blind,33
+2021,Public,17,Kalimantan Barat,Deaf,182
+2023,Private,18,Kalimantan Tengah,Blind,0
+2023,Private,18,Kalimantan Tengah,Physically Handicapped,3
+2023,Private,18,Kalimantan Tengah,Mentally Retarded,36
+2023,Private,18,Kalimantan Tengah,Deaf,11
+2023,Private,18,Kalimantan Tengah,Others,133
+2022,Private,18,Kalimantan Tengah,Blind,0
+2022,Private,18,Kalimantan Tengah,Deaf,12
+2022,Private,18,Kalimantan Tengah,Mentally Retarded,34
+2022,Private,18,Kalimantan Tengah,Physically Handicapped,3
+2022,Private,18,Kalimantan Tengah,Others,100
+2021,Private,18,Kalimantan Tengah,Deaf,17
+2021,Private,18,Kalimantan Tengah,Mentally Retarded,57
+2021,Private,18,Kalimantan Tengah,Physically Handicapped,5
+2021,Private,18,Kalimantan Tengah,Others,90
+2021,Private,18,Kalimantan Tengah,Blind,0
+2023,Public,18,Kalimantan Tengah,Blind,22
+2023,Public,18,Kalimantan Tengah,Others,385
+2023,Public,18,Kalimantan Tengah,Mentally Retarded,523
+2023,Public,18,Kalimantan Tengah,Deaf,198
+2023,Public,18,Kalimantan Tengah,Physically Handicapped,62
+2022,Public,18,Kalimantan Tengah,Physically Handicapped,77
+2022,Public,18,Kalimantan Tengah,Blind,19
+2022,Public,18,Kalimantan Tengah,Deaf,204
+2022,Public,18,Kalimantan Tengah,Mentally Retarded,546
+2022,Public,18,Kalimantan Tengah,Others,312
+2021,Public,18,Kalimantan Tengah,Others,257
+2021,Public,18,Kalimantan Tengah,Deaf,188
+2021,Public,18,Kalimantan Tengah,Mentally Retarded,522
+2021,Public,18,Kalimantan Tengah,Physically Handicapped,69
+2021,Public,18,Kalimantan Tengah,Blind,20
+2023,Private,19,Kalimantan Selatan,Others,78
+2023,Private,19,Kalimantan Selatan,Blind,0
+2023,Private,19,Kalimantan Selatan,Deaf,21
+2023,Private,19,Kalimantan Selatan,Mentally Retarded,44
+2023,Private,19,Kalimantan Selatan,Physically Handicapped,11
+2022,Private,19,Kalimantan Selatan,Physically Handicapped,9
+2022,Private,19,Kalimantan Selatan,Others,82
+2022,Private,19,Kalimantan Selatan,Mentally Retarded,43
+2022,Private,19,Kalimantan Selatan,Blind,0
+2022,Private,19,Kalimantan Selatan,Deaf,17
+2021,Private,19,Kalimantan Selatan,Others,52
+2021,Private,19,Kalimantan Selatan,Blind,0
+2021,Private,19,Kalimantan Selatan,Physically Handicapped,9
+2021,Private,19,Kalimantan Selatan,Deaf,20
+2021,Private,19,Kalimantan Selatan,Mentally Retarded,38
+2023,Public,19,Kalimantan Selatan,Blind,57
+2023,Public,19,Kalimantan Selatan,Deaf,507
+2023,Public,19,Kalimantan Selatan,Others,814
+2023,Public,19,Kalimantan Selatan,Physically Handicapped,84
+2023,Public,19,Kalimantan Selatan,Mentally Retarded,1204
+2022,Public,19,Kalimantan Selatan,Others,675
+2022,Public,19,Kalimantan Selatan,Mentally Retarded,1169
+2022,Public,19,Kalimantan Selatan,Physically Handicapped,88
+2022,Public,19,Kalimantan Selatan,Blind,53
+2022,Public,19,Kalimantan Selatan,Deaf,501
+2021,Public,19,Kalimantan Selatan,Blind,48
+2021,Public,19,Kalimantan Selatan,Physically Handicapped,95
+2021,Public,19,Kalimantan Selatan,Others,545
+2021,Public,19,Kalimantan Selatan,Deaf,498
+2021,Public,19,Kalimantan Selatan,Mentally Retarded,1230
+2023,Private,20,Kalimantan Timur,Deaf,70
+2023,Private,20,Kalimantan Timur,Others,533
+2023,Private,20,Kalimantan Timur,Physically Handicapped,23
+2023,Private,20,Kalimantan Timur,Mentally Retarded,408
+2023,Private,20,Kalimantan Timur,Blind,4
+2022,Private,20,Kalimantan Timur,Others,407
+2022,Private,20,Kalimantan Timur,Blind,3
+2022,Private,20,Kalimantan Timur,Mentally Retarded,386
+2022,Private,20,Kalimantan Timur,Deaf,75
+2022,Private,20,Kalimantan Timur,Physically Handicapped,29
+2021,Private,20,Kalimantan Timur,Blind,5
+2021,Private,20,Kalimantan Timur,Deaf,93
+2021,Private,20,Kalimantan Timur,Physically Handicapped,31
+2021,Private,20,Kalimantan Timur,Mentally Retarded,397
+2021,Private,20,Kalimantan Timur,Others,337
+2023,Public,20,Kalimantan Timur,Deaf,351
+2023,Public,20,Kalimantan Timur,Blind,48
+2023,Public,20,Kalimantan Timur,Mentally Retarded,762
+2023,Public,20,Kalimantan Timur,Others,569
+2023,Public,20,Kalimantan Timur,Physically Handicapped,68
+2022,Public,20,Kalimantan Timur,Others,477
+2022,Public,20,Kalimantan Timur,Deaf,359
+2022,Public,20,Kalimantan Timur,Blind,41
+2022,Public,20,Kalimantan Timur,Physically Handicapped,65
+2022,Public,20,Kalimantan Timur,Mentally Retarded,724
+2021,Public,20,Kalimantan Timur,Blind,37
+2021,Public,20,Kalimantan Timur,Mentally Retarded,761
+2021,Public,20,Kalimantan Timur,Deaf,350
+2021,Public,20,Kalimantan Timur,Others,409
+2021,Public,20,Kalimantan Timur,Physically Handicapped,72
+2023,Private,21,Kalimantan Utara,Physically Handicapped,0
+2023,Private,21,Kalimantan Utara,Others,11
+2023,Private,21,Kalimantan Utara,Mentally Retarded,2
+2023,Private,21,Kalimantan Utara,Blind,0
+2023,Private,21,Kalimantan Utara,Deaf,0
+2022,Private,21,Kalimantan Utara,Blind,0
+2022,Private,21,Kalimantan Utara,Deaf,0
+2022,Private,21,Kalimantan Utara,Mentally Retarded,0
+2022,Private,21,Kalimantan Utara,Others,0
+2022,Private,21,Kalimantan Utara,Physically Handicapped,0
+2021,Private,21,Kalimantan Utara,Deaf,0
+2021,Private,21,Kalimantan Utara,Mentally Retarded,0
+2021,Private,21,Kalimantan Utara,Physically Handicapped,0
+2021,Private,21,Kalimantan Utara,Blind,0
+2021,Private,21,Kalimantan Utara,Others,0
+2023,Public,21,Kalimantan Utara,Blind,8
+2023,Public,21,Kalimantan Utara,Mentally Retarded,294
+2023,Public,21,Kalimantan Utara,Deaf,70
+2023,Public,21,Kalimantan Utara,Others,211
+2023,Public,21,Kalimantan Utara,Physically Handicapped,15
+2022,Public,21,Kalimantan Utara,Deaf,73
+2022,Public,21,Kalimantan Utara,Blind,6
+2022,Public,21,Kalimantan Utara,Others,176
+2022,Public,21,Kalimantan Utara,Physically Handicapped,21
+2022,Public,21,Kalimantan Utara,Mentally Retarded,280
+2021,Public,21,Kalimantan Utara,Mentally Retarded,274
+2021,Public,21,Kalimantan Utara,Deaf,74
+2021,Public,21,Kalimantan Utara,Blind,5
+2021,Public,21,Kalimantan Utara,Others,151
+2021,Public,21,Kalimantan Utara,Physically Handicapped,20
+2023,Private,22,Sulawesi Utara,Others,430
+2023,Private,22,Sulawesi Utara,Mentally Retarded,586
+2023,Private,22,Sulawesi Utara,Physically Handicapped,74
+2023,Private,22,Sulawesi Utara,Blind,24
+2023,Private,22,Sulawesi Utara,Deaf,174
+2022,Private,22,Sulawesi Utara,Deaf,193
+2022,Private,22,Sulawesi Utara,Mentally Retarded,582
+2022,Private,22,Sulawesi Utara,Physically Handicapped,80
+2022,Private,22,Sulawesi Utara,Blind,28
+2022,Private,22,Sulawesi Utara,Others,415
+2021,Private,22,Sulawesi Utara,Mentally Retarded,566
+2021,Private,22,Sulawesi Utara,Physically Handicapped,90
+2021,Private,22,Sulawesi Utara,Others,386
+2021,Private,22,Sulawesi Utara,Deaf,214
+2021,Private,22,Sulawesi Utara,Blind,27
+2023,Public,22,Sulawesi Utara,Blind,16
+2023,Public,22,Sulawesi Utara,Others,65
+2023,Public,22,Sulawesi Utara,Deaf,77
+2023,Public,22,Sulawesi Utara,Mentally Retarded,178
+2023,Public,22,Sulawesi Utara,Physically Handicapped,19
+2022,Public,22,Sulawesi Utara,Deaf,71
+2022,Public,22,Sulawesi Utara,Blind,16
+2022,Public,22,Sulawesi Utara,Mentally Retarded,179
+2022,Public,22,Sulawesi Utara,Others,65
+2022,Public,22,Sulawesi Utara,Physically Handicapped,24
+2021,Public,22,Sulawesi Utara,Mentally Retarded,174
+2021,Public,22,Sulawesi Utara,Deaf,78
+2021,Public,22,Sulawesi Utara,Physically Handicapped,27
+2021,Public,22,Sulawesi Utara,Blind,15
+2021,Public,22,Sulawesi Utara,Others,64
+2023,Private,23,Gorontalo,Blind,0
+2023,Private,23,Gorontalo,Deaf,0
+2023,Private,23,Gorontalo,Physically Handicapped,0
+2023,Private,23,Gorontalo,Others,0
+2023,Private,23,Gorontalo,Mentally Retarded,0
+2022,Private,23,Gorontalo,Physically Handicapped,0
+2022,Private,23,Gorontalo,Blind,0
+2022,Private,23,Gorontalo,Deaf,0
+2022,Private,23,Gorontalo,Mentally Retarded,0
+2022,Private,23,Gorontalo,Others,0
+2021,Private,23,Gorontalo,Others,0
+2021,Private,23,Gorontalo,Deaf,0
+2021,Private,23,Gorontalo,Mentally Retarded,0
+2021,Private,23,Gorontalo,Physically Handicapped,0
+2021,Private,23,Gorontalo,Blind,0
+2023,Public,23,Gorontalo,Deaf,205
+2023,Public,23,Gorontalo,Blind,35
+2023,Public,23,Gorontalo,Others,111
+2023,Public,23,Gorontalo,Mentally Retarded,581
+2023,Public,23,Gorontalo,Physically Handicapped,128
+2022,Public,23,Gorontalo,Blind,41
+2022,Public,23,Gorontalo,Others,100
+2022,Public,23,Gorontalo,Mentally Retarded,588
+2022,Public,23,Gorontalo,Deaf,213
+2022,Public,23,Gorontalo,Physically Handicapped,137
+2021,Public,23,Gorontalo,Deaf,220
+2021,Public,23,Gorontalo,Blind,38
+2021,Public,23,Gorontalo,Physically Handicapped,126
+2021,Public,23,Gorontalo,Mentally Retarded,560
+2021,Public,23,Gorontalo,Others,90
+2023,Private,24,Sulawesi Tengah,Blind,24
+2023,Private,24,Sulawesi Tengah,Mentally Retarded,316
+2023,Private,24,Sulawesi Tengah,Deaf,82
+2023,Private,24,Sulawesi Tengah,Others,204
+2023,Private,24,Sulawesi Tengah,Physically Handicapped,43
+2022,Private,24,Sulawesi Tengah,Others,167
+2022,Private,24,Sulawesi Tengah,Blind,18
+2022,Private,24,Sulawesi Tengah,Physically Handicapped,31
+2022,Private,24,Sulawesi Tengah,Deaf,87
+2022,Private,24,Sulawesi Tengah,Mentally Retarded,315
+2021,Private,24,Sulawesi Tengah,Blind,13
+2021,Private,24,Sulawesi Tengah,Deaf,90
+2021,Private,24,Sulawesi Tengah,Others,115
+2021,Private,24,Sulawesi Tengah,Mentally Retarded,280
+2021,Private,24,Sulawesi Tengah,Physically Handicapped,30
+2023,Public,24,Sulawesi Tengah,Deaf,169
+2023,Public,24,Sulawesi Tengah,Blind,28
+2023,Public,24,Sulawesi Tengah,Mentally Retarded,480
+2023,Public,24,Sulawesi Tengah,Others,166
+2023,Public,24,Sulawesi Tengah,Physically Handicapped,81
+2022,Public,24,Sulawesi Tengah,Mentally Retarded,498
+2022,Public,24,Sulawesi Tengah,Physically Handicapped,72
+2022,Public,24,Sulawesi Tengah,Others,140
+2022,Public,24,Sulawesi Tengah,Deaf,175
+2022,Public,24,Sulawesi Tengah,Blind,35
+2021,Public,24,Sulawesi Tengah,Physically Handicapped,70
+2021,Public,24,Sulawesi Tengah,Others,146
+2021,Public,24,Sulawesi Tengah,Blind,37
+2021,Public,24,Sulawesi Tengah,Mentally Retarded,497
+2021,Public,24,Sulawesi Tengah,Deaf,188
+2023,Private,25,Sulawesi Selatan,Deaf,518
+2023,Private,25,Sulawesi Selatan,Blind,162
+2023,Private,25,Sulawesi Selatan,Mentally Retarded,1350
+2023,Private,25,Sulawesi Selatan,Others,666
+2023,Private,25,Sulawesi Selatan,Physically Handicapped,159
+2022,Private,25,Sulawesi Selatan,Physically Handicapped,176
+2022,Private,25,Sulawesi Selatan,Blind,162
+2022,Private,25,Sulawesi Selatan,Deaf,570
+2022,Private,25,Sulawesi Selatan,Others,571
+2022,Private,25,Sulawesi Selatan,Mentally Retarded,1425
+2021,Private,25,Sulawesi Selatan,Others,488
+2021,Private,25,Sulawesi Selatan,Deaf,584
+2021,Private,25,Sulawesi Selatan,Mentally Retarded,1390
+2021,Private,25,Sulawesi Selatan,Blind,170
+2021,Private,25,Sulawesi Selatan,Physically Handicapped,178
+2023,Public,25,Sulawesi Selatan,Physically Handicapped,95
+2023,Public,25,Sulawesi Selatan,Others,385
+2023,Public,25,Sulawesi Selatan,Mentally Retarded,1005
+2023,Public,25,Sulawesi Selatan,Deaf,418
+2023,Public,25,Sulawesi Selatan,Blind,51
+2022,Public,25,Sulawesi Selatan,Mentally Retarded,949
+2022,Public,25,Sulawesi Selatan,Physically Handicapped,107
+2022,Public,25,Sulawesi Selatan,Deaf,431
+2022,Public,25,Sulawesi Selatan,Others,277
+2022,Public,25,Sulawesi Selatan,Blind,51
+2021,Public,25,Sulawesi Selatan,Physically Handicapped,110
+2021,Public,25,Sulawesi Selatan,Others,233
+2021,Public,25,Sulawesi Selatan,Mentally Retarded,941
+2021,Public,25,Sulawesi Selatan,Blind,51
+2021,Public,25,Sulawesi Selatan,Deaf,413
+2023,Private,26,Sulawesi Barat,Mentally Retarded,221
+2023,Private,26,Sulawesi Barat,Deaf,98
+2023,Private,26,Sulawesi Barat,Blind,8
+2023,Private,26,Sulawesi Barat,Others,60
+2023,Private,26,Sulawesi Barat,Physically Handicapped,65
+2022,Private,26,Sulawesi Barat,Others,72
+2022,Private,26,Sulawesi Barat,Mentally Retarded,254
+2022,Private,26,Sulawesi Barat,Blind,14
+2022,Private,26,Sulawesi Barat,Physically Handicapped,70
+2022,Private,26,Sulawesi Barat,Deaf,110
+2021,Private,26,Sulawesi Barat,Blind,15
+2021,Private,26,Sulawesi Barat,Physically Handicapped,79
+2021,Private,26,Sulawesi Barat,Deaf,119
+2021,Private,26,Sulawesi Barat,Others,77
+2021,Private,26,Sulawesi Barat,Mentally Retarded,253
+2023,Public,26,Sulawesi Barat,Others,189
+2023,Public,26,Sulawesi Barat,Deaf,142
+2023,Public,26,Sulawesi Barat,Mentally Retarded,225
+2023,Public,26,Sulawesi Barat,Physically Handicapped,63
+2023,Public,26,Sulawesi Barat,Blind,18
+2022,Public,26,Sulawesi Barat,Mentally Retarded,224
+2022,Public,26,Sulawesi Barat,Physically Handicapped,64
+2022,Public,26,Sulawesi Barat,Deaf,149
+2022,Public,26,Sulawesi Barat,Others,167
+2022,Public,26,Sulawesi Barat,Blind,19
+2021,Public,26,Sulawesi Barat,Physically Handicapped,70
+2021,Public,26,Sulawesi Barat,Others,177
+2021,Public,26,Sulawesi Barat,Mentally Retarded,223
+2021,Public,26,Sulawesi Barat,Blind,18
+2021,Public,26,Sulawesi Barat,Deaf,152
+2023,Private,27,Sulawesi Tenggara,Deaf,315
+2023,Private,27,Sulawesi Tenggara,Others,666
+2023,Private,27,Sulawesi Tenggara,Physically Handicapped,142
+2023,Private,27,Sulawesi Tenggara,Mentally Retarded,738
+2023,Private,27,Sulawesi Tenggara,Blind,64
+2022,Private,27,Sulawesi Tenggara,Others,710
+2022,Private,27,Sulawesi Tenggara,Physically Handicapped,162
+2022,Private,27,Sulawesi Tenggara,Blind,61
+2022,Private,27,Sulawesi Tenggara,Deaf,325
+2022,Private,27,Sulawesi Tenggara,Mentally Retarded,798
+2021,Private,27,Sulawesi Tenggara,Blind,71
+2021,Private,27,Sulawesi Tenggara,Others,702
+2021,Private,27,Sulawesi Tenggara,Deaf,355
+2021,Private,27,Sulawesi Tenggara,Mentally Retarded,767
+2021,Private,27,Sulawesi Tenggara,Physically Handicapped,188
+2023,Public,27,Sulawesi Tenggara,Others,246
+2023,Public,27,Sulawesi Tenggara,Deaf,104
+2023,Public,27,Sulawesi Tenggara,Mentally Retarded,289
+2023,Public,27,Sulawesi Tenggara,Blind,20
+2023,Public,27,Sulawesi Tenggara,Physically Handicapped,55
+2022,Public,27,Sulawesi Tenggara,Mentally Retarded,270
+2022,Public,27,Sulawesi Tenggara,Physically Handicapped,52
+2022,Public,27,Sulawesi Tenggara,Blind,22
+2022,Public,27,Sulawesi Tenggara,Deaf,94
+2022,Public,27,Sulawesi Tenggara,Others,238
+2021,Public,27,Sulawesi Tenggara,Physically Handicapped,48
+2021,Public,27,Sulawesi Tenggara,Others,219
+2021,Public,27,Sulawesi Tenggara,Deaf,79
+2021,Public,27,Sulawesi Tenggara,Mentally Retarded,260
+2021,Public,27,Sulawesi Tenggara,Blind,19
+2023,Private,28,Maluku,Blind,4
+2023,Private,28,Maluku,Deaf,34
+2023,Private,28,Maluku,Others,35
+2023,Private,28,Maluku,Physically Handicapped,8
+2023,Private,28,Maluku,Mentally Retarded,162
+2022,Private,28,Maluku,Physically Handicapped,7
+2022,Private,28,Maluku,Blind,6
+2022,Private,28,Maluku,Deaf,40
+2022,Private,28,Maluku,Mentally Retarded,152
+2022,Private,28,Maluku,Others,26
+2021,Private,28,Maluku,Others,28
+2021,Private,28,Maluku,Deaf,49
+2021,Private,28,Maluku,Mentally Retarded,188
+2021,Private,28,Maluku,Physically Handicapped,11
+2021,Private,28,Maluku,Blind,7
+2023,Public,28,Maluku,Others,152
+2023,Public,28,Maluku,Deaf,67
+2023,Public,28,Maluku,Mentally Retarded,330
+2023,Public,28,Maluku,Blind,16
+2023,Public,28,Maluku,Physically Handicapped,43
+2022,Public,28,Maluku,Deaf,74
+2022,Public,28,Maluku,Physically Handicapped,49
+2022,Public,28,Maluku,Others,118
+2022,Public,28,Maluku,Mentally Retarded,367
+2022,Public,28,Maluku,Blind,14
+2021,Public,28,Maluku,Mentally Retarded,375
+2021,Public,28,Maluku,Others,122
+2021,Public,28,Maluku,Blind,17
+2021,Public,28,Maluku,Physically Handicapped,49
+2021,Public,28,Maluku,Deaf,90
+2023,Private,29,Maluku Utara,Physically Handicapped,14
+2023,Private,29,Maluku Utara,Others,19
+2023,Private,29,Maluku Utara,Mentally Retarded,93
+2023,Private,29,Maluku Utara,Blind,3
+2023,Private,29,Maluku Utara,Deaf,20
+2022,Private,29,Maluku Utara,Blind,4
+2022,Private,29,Maluku Utara,Mentally Retarded,61
+2022,Private,29,Maluku Utara,Deaf,17
+2022,Private,29,Maluku Utara,Physically Handicapped,10
+2022,Private,29,Maluku Utara,Others,17
+2021,Private,29,Maluku Utara,Deaf,24
+2021,Private,29,Maluku Utara,Physically Handicapped,11
+2021,Private,29,Maluku Utara,Mentally Retarded,61
+2021,Private,29,Maluku Utara,Others,14
+2021,Private,29,Maluku Utara,Blind,2
+2023,Public,29,Maluku Utara,Deaf,102
+2023,Public,29,Maluku Utara,Blind,18
+2023,Public,29,Maluku Utara,Mentally Retarded,441
+2023,Public,29,Maluku Utara,Others,133
+2023,Public,29,Maluku Utara,Physically Handicapped,56
+2022,Public,29,Maluku Utara,Deaf,94
+2022,Public,29,Maluku Utara,Blind,20
+2022,Public,29,Maluku Utara,Others,168
+2022,Public,29,Maluku Utara,Physically Handicapped,72
+2022,Public,29,Maluku Utara,Mentally Retarded,436
+2021,Public,29,Maluku Utara,Mentally Retarded,424
+2021,Public,29,Maluku Utara,Deaf,94
+2021,Public,29,Maluku Utara,Blind,26
+2021,Public,29,Maluku Utara,Others,167
+2021,Public,29,Maluku Utara,Physically Handicapped,75
+2023,Private,30,Bali,Physically Handicapped,17
+2023,Private,30,Bali,Mentally Retarded,112
+2023,Private,30,Bali,Others,18
+2023,Private,30,Bali,Blind,0
+2023,Private,30,Bali,Deaf,0
+2022,Private,30,Bali,Mentally Retarded,120
+2022,Private,30,Bali,Blind,0
+2022,Private,30,Bali,Deaf,1
+2022,Private,30,Bali,Physically Handicapped,18
+2022,Private,30,Bali,Others,17
+2021,Private,30,Bali,Physically Handicapped,21
+2021,Private,30,Bali,Deaf,0
+2021,Private,30,Bali,Mentally Retarded,120
+2021,Private,30,Bali,Others,8
+2021,Private,30,Bali,Blind,0
+2023,Public,30,Bali,Blind,87
+2023,Public,30,Bali,Deaf,567
+2023,Public,30,Bali,Mentally Retarded,1289
+2023,Public,30,Bali,Others,354
+2023,Public,30,Bali,Physically Handicapped,43
+2022,Public,30,Bali,Mentally Retarded,1263
+2022,Public,30,Bali,Physically Handicapped,46
+2022,Public,30,Bali,Deaf,584
+2022,Public,30,Bali,Others,256
+2022,Public,30,Bali,Blind,89
+2021,Public,30,Bali,Physically Handicapped,43
+2021,Public,30,Bali,Others,188
+2021,Public,30,Bali,Mentally Retarded,1189
+2021,Public,30,Bali,Blind,88
+2021,Public,30,Bali,Deaf,624
+2023,Private,31,Nusa Tenggara Barat,Blind,123
+2023,Private,31,Nusa Tenggara Barat,Others,401
+2023,Private,31,Nusa Tenggara Barat,Physically Handicapped,242
+2023,Private,31,Nusa Tenggara Barat,Deaf,359
+2023,Private,31,Nusa Tenggara Barat,Mentally Retarded,683
+2022,Private,31,Nusa Tenggara Barat,Blind,126
+2022,Private,31,Nusa Tenggara Barat,Others,417
+2022,Private,31,Nusa Tenggara Barat,Deaf,371
+2022,Private,31,Nusa Tenggara Barat,Physically Handicapped,222
+2022,Private,31,Nusa Tenggara Barat,Mentally Retarded,667
+2021,Private,31,Nusa Tenggara Barat,Deaf,372
+2021,Private,31,Nusa Tenggara Barat,Blind,125
+2021,Private,31,Nusa Tenggara Barat,Mentally Retarded,648
+2021,Private,31,Nusa Tenggara Barat,Others,428
+2021,Private,31,Nusa Tenggara Barat,Physically Handicapped,236
+2023,Public,31,Nusa Tenggara Barat,Others,372
+2023,Public,31,Nusa Tenggara Barat,Deaf,451
+2023,Public,31,Nusa Tenggara Barat,Mentally Retarded,1244
+2023,Public,31,Nusa Tenggara Barat,Physically Handicapped,193
+2023,Public,31,Nusa Tenggara Barat,Blind,66
+2022,Public,31,Nusa Tenggara Barat,Blind,63
+2022,Public,31,Nusa Tenggara Barat,Others,318
+2022,Public,31,Nusa Tenggara Barat,Physically Handicapped,191
+2022,Public,31,Nusa Tenggara Barat,Mentally Retarded,1134
+2022,Public,31,Nusa Tenggara Barat,Deaf,457
+2021,Public,31,Nusa Tenggara Barat,Deaf,434
+2021,Public,31,Nusa Tenggara Barat,Blind,55
+2021,Public,31,Nusa Tenggara Barat,Others,272
+2021,Public,31,Nusa Tenggara Barat,Physically Handicapped,163
+2021,Public,31,Nusa Tenggara Barat,Mentally Retarded,982
+2023,Private,32,Nusa Tenggara Timur,Physically Handicapped,33
+2023,Private,32,Nusa Tenggara Timur,Others,120
+2023,Private,32,Nusa Tenggara Timur,Blind,36
+2023,Private,32,Nusa Tenggara Timur,Mentally Retarded,374
+2023,Private,32,Nusa Tenggara Timur,Deaf,123
+2022,Private,32,Nusa Tenggara Timur,Blind,40
+2022,Private,32,Nusa Tenggara Timur,Others,102
+2022,Private,32,Nusa Tenggara Timur,Deaf,126
+2022,Private,32,Nusa Tenggara Timur,Physically Handicapped,27
+2022,Private,32,Nusa Tenggara Timur,Mentally Retarded,323
+2021,Private,32,Nusa Tenggara Timur,Deaf,129
+2021,Private,32,Nusa Tenggara Timur,Blind,41
+2021,Private,32,Nusa Tenggara Timur,Mentally Retarded,245
+2021,Private,32,Nusa Tenggara Timur,Others,161
+2021,Private,32,Nusa Tenggara Timur,Physically Handicapped,24
+2023,Public,32,Nusa Tenggara Timur,Mentally Retarded,1619
+2023,Public,32,Nusa Tenggara Timur,Others,406
+2023,Public,32,Nusa Tenggara Timur,Physically Handicapped,151
+2023,Public,32,Nusa Tenggara Timur,Deaf,260
+2023,Public,32,Nusa Tenggara Timur,Blind,70
+2022,Public,32,Nusa Tenggara Timur,Others,373
+2022,Public,32,Nusa Tenggara Timur,Mentally Retarded,1456
+2022,Public,32,Nusa Tenggara Timur,Physically Handicapped,151
+2022,Public,32,Nusa Tenggara Timur,Blind,64
+2022,Public,32,Nusa Tenggara Timur,Deaf,258
+2021,Public,32,Nusa Tenggara Timur,Blind,73
+2021,Public,32,Nusa Tenggara Timur,Physically Handicapped,139
+2021,Public,32,Nusa Tenggara Timur,Others,319
+2021,Public,32,Nusa Tenggara Timur,Deaf,269
+2021,Public,32,Nusa Tenggara Timur,Mentally Retarded,1355
+2023,Private,33,Papua,Mentally Retarded,35
+2023,Private,33,Papua,Physically Handicapped,5
+2023,Private,33,Papua,Deaf,12
+2023,Private,33,Papua,Others,8
+2023,Private,33,Papua,Blind,3
+2022,Private,33,Papua,Blind,59
+2022,Private,33,Papua,Others,62
+2022,Private,33,Papua,Deaf,145
+2022,Private,33,Papua,Mentally Retarded,227
+2022,Private,33,Papua,Physically Handicapped,8
+2021,Private,33,Papua,Deaf,114
+2021,Private,33,Papua,Blind,2
+2021,Private,33,Papua,Mentally Retarded,179
+2021,Private,33,Papua,Physically Handicapped,9
+2021,Private,33,Papua,Others,23
+2023,Public,33,Papua,Mentally Retarded,189
+2023,Public,33,Papua,Physically Handicapped,20
+2023,Public,33,Papua,Deaf,66
+2023,Public,33,Papua,Others,107
+2023,Public,33,Papua,Blind,15
+2022,Public,33,Papua,Mentally Retarded,271
+2022,Public,33,Papua,Deaf,127
+2022,Public,33,Papua,Others,172
+2022,Public,33,Papua,Blind,28
+2022,Public,33,Papua,Physically Handicapped,37
+2021,Public,33,Papua,Physically Handicapped,34
+2021,Public,33,Papua,Mentally Retarded,289
+2021,Public,33,Papua,Blind,27
+2021,Public,33,Papua,Deaf,123
+2021,Public,33,Papua,Others,145
+2023,Private,34,Papua Barat,Physically Handicapped,2
+2023,Private,34,Papua Barat,Mentally Retarded,33
+2023,Private,34,Papua Barat,Others,18
+2023,Private,34,Papua Barat,Blind,3
+2023,Private,34,Papua Barat,Deaf,10
+2022,Private,34,Papua Barat,Others,12
+2022,Private,34,Papua Barat,Deaf,9
+2022,Private,34,Papua Barat,Mentally Retarded,18
+2022,Private,34,Papua Barat,Blind,2
+2022,Private,34,Papua Barat,Physically Handicapped,1
+2021,Private,34,Papua Barat,Blind,2
+2021,Private,34,Papua Barat,Mentally Retarded,10
+2021,Private,34,Papua Barat,Physically Handicapped,0
+2021,Private,34,Papua Barat,Deaf,7
+2021,Private,34,Papua Barat,Others,13
+2023,Public,34,Papua Barat,Blind,0
+2023,Public,34,Papua Barat,Deaf,0
+2023,Public,34,Papua Barat,Mentally Retarded,0
+2023,Public,34,Papua Barat,Physically Handicapped,0
+2023,Public,34,Papua Barat,Others,0
+2022,Public,34,Papua Barat,Others,51
+2022,Public,34,Papua Barat,Physically Handicapped,10
+2022,Public,34,Papua Barat,Blind,6
+2022,Public,34,Papua Barat,Mentally Retarded,120
+2022,Public,34,Papua Barat,Deaf,55
+2021,Public,34,Papua Barat,Blind,6
+2021,Public,34,Papua Barat,Others,43
+2021,Public,34,Papua Barat,Deaf,61
+2021,Public,34,Papua Barat,Physically Handicapped,9
+2021,Public,34,Papua Barat,Mentally Retarded,123
+2023,Private,35,Papua Selatan,Physically Handicapped,0
+2023,Private,35,Papua Selatan,Others,0
+2023,Private,35,Papua Selatan,Mentally Retarded,0
+2023,Private,35,Papua Selatan,Blind,0
+2023,Private,35,Papua Selatan,Deaf,0
+2023,Public,35,Papua Selatan,Blind,7
+2023,Public,35,Papua Selatan,Physically Handicapped,8
+2023,Public,35,Papua Selatan,Others,18
+2023,Public,35,Papua Selatan,Deaf,30
+2023,Public,35,Papua Selatan,Mentally Retarded,77
+2023,Private,36,Papua Tengah,Others,91
+2023,Private,36,Papua Tengah,Deaf,216
+2023,Private,36,Papua Tengah,Physically Handicapped,26
+2023,Private,36,Papua Tengah,Blind,69
+2023,Private,36,Papua Tengah,Mentally Retarded,375
+2023,Public,36,Papua Tengah,Mentally Retarded,30
+2023,Public,36,Papua Tengah,Physically Handicapped,6
+2023,Public,36,Papua Tengah,Blind,2
+2023,Public,36,Papua Tengah,Deaf,12
+2023,Public,36,Papua Tengah,Others,77
+2023,Private,37,Papua Pegunungan,Mentally Retarded,0
+2023,Private,37,Papua Pegunungan,Physically Handicapped,0
+2023,Private,37,Papua Pegunungan,Blind,0
+2023,Private,37,Papua Pegunungan,Deaf,0
+2023,Private,37,Papua Pegunungan,Others,0
+2023,Public,37,Papua Pegunungan,Deaf,0
+2023,Public,37,Papua Pegunungan,Blind,0
+2023,Public,37,Papua Pegunungan,Mentally Retarded,0
+2023,Public,37,Papua Pegunungan,Others,0
+2023,Public,37,Papua Pegunungan,Physically Handicapped,0
+2023,Private,38,Papua Barat Daya,Deaf,0
+2023,Private,38,Papua Barat Daya,Blind,0
+2023,Private,38,Papua Barat Daya,Mentally Retarded,0
+2023,Private,38,Papua Barat Daya,Others,0
+2023,Private,38,Papua Barat Daya,Physically Handicapped,0
+2023,Public,38,Papua Barat Daya,Physically Handicapped,10
+2023,Public,38,Papua Barat Daya,Others,48
+2023,Public,38,Papua Barat Daya,Mentally Retarded,100
+2023,Public,38,Papua Barat Daya,Blind,5
+2023,Public,38,Papua Barat Daya,Deaf,44
