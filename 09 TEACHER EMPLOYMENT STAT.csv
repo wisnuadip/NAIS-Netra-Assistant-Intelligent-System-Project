@@ -1,817 +1,1027 @@
-Year,Status,No.,Work Stat,Work Role,Total
-2022,Public,3,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,4,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,5,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,7,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,8,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,9,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,10,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,11,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,12,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,13,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,14,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,15,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,16,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,17,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,18,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,19,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,20,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,21,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,22,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,23,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,24,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,25,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,26,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,27,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,28,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,29,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,30,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,31,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,32,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,33,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Public,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,1,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,2,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,3,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,4,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,5,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,6,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,7,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,8,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,9,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,10,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,11,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,12,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,13,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,14,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,15,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,16,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,17,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,18,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,19,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,20,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,21,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,22,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,23,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,24,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,25,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,26,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,27,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,28,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,29,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,30,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,31,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,32,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,33,Part Time,Auxiliary Teachers Paid by Central Government,0
-2022,Private,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,1,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,3,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,4,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,5,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,6,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,7,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,8,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,9,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,10,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,11,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,12,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,13,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,14,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,15,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,16,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,17,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,18,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,19,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,20,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,21,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,22,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,23,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,24,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,25,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,26,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,27,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,28,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,29,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,30,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,31,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,32,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,33,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Public,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,1,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,2,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,3,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,4,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,5,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,6,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,7,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,8,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,9,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,10,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,11,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,12,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,13,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,14,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,15,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,16,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,17,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,18,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,19,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,20,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,21,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,22,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,23,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,24,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,25,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,26,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,27,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,28,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,29,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,30,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,31,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,32,Part Time,Auxiliary Teachers Paid by Central Government,0
-2021,Private,33,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,1,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,3,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,4,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,5,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,7,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,8,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,9,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,10,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,11,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,12,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,13,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,14,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,15,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,16,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,17,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,18,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,19,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,20,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,21,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,22,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,23,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,24,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,25,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,26,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,27,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,28,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,29,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,30,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,31,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,32,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,33,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,23,Full Time,Private,0
-2022,Private,11,Full Time,Civillian Servant,0
-2022,Private,11,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,12,Full Time,Civillian Servant,0
-2022,Private,12,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,14,Full Time,Civillian Servant,0
-2022,Private,14,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,15,Full Time,Civillian Servant,0
-2022,Private,16,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,19,Full Time,Civillian Servant,0
-2022,Private,21,Full Time,Civillian Servant,0
-2022,Private,21,Full Time,Private,0
-2022,Private,21,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,21,Part Time,Part Time Teacher,0
-2022,Private,23,Full Time,Civillian Servant,0
-2022,Private,23,Full Time,Private,0
-2022,Private,23,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,23,Part Time,Part Time Teacher,0
-2022,Private,26,Full Time,Civillian Servant,0
-2022,Private,30,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,33,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,34,Full Time,Civillian Servant,0
-2022,Private,34,Part Time,Auxiliary Teachers Paid by Local Government,0
-2022,Private,34,Part Time,Part Time Teacher,0
-2021,Public,1,Full Time,Private,0
-2021,Public,2,Full Time,Private,0
-2021,Public,3,Full Time,Private,0
-2021,Public,4,Full Time,Private,0
-2021,Public,5,Full Time,Private,0
-2021,Public,6,Full Time,Private,0
-2021,Public,7,Full Time,Private,0
-2021,Public,8,Full Time,Private,0
-2021,Public,9,Full Time,Private,0
-2021,Public,10,Full Time,Private,0
-2021,Public,11,Full Time,Private,0
-2021,Public,12,Full Time,Private,0
-2021,Public,13,Full Time,Private,0
-2021,Public,14,Full Time,Private,0
-2021,Public,15,Full Time,Private,0
-2021,Public,16,Full Time,Private,0
-2021,Public,17,Full Time,Private,0
-2021,Public,18,Full Time,Private,0
-2021,Public,19,Full Time,Private,0
-2021,Public,20,Full Time,Private,0
-2021,Public,21,Full Time,Private,0
-2021,Public,22,Full Time,Private,0
-2021,Public,23,Full Time,Private,0
-2021,Public,24,Full Time,Private,0
-2021,Public,25,Full Time,Private,0
-2021,Public,26,Full Time,Private,0
-2021,Public,27,Full Time,Private,0
-2021,Public,28,Full Time,Private,0
-2021,Public,29,Full Time,Private,0
-2021,Public,30,Full Time,Private,0
-2021,Public,31,Full Time,Private,0
-2021,Public,32,Full Time,Private,0
-2021,Public,33,Full Time,Private,0
-2021,Public,34,Full Time,Private,0
-2021,Private,8,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,11,Full Time,Civillian Servant,0
-2021,Private,11,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,12,Full Time,Civillian Servant,0
-2021,Private,12,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,14,Full Time,Civillian Servant,0
-2021,Private,14,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,15,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,16,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,21,Full Time,Civillian Servant,0
-2021,Private,21,Full Time,Private,0
-2021,Private,21,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,21,Part Time,Part Time Teacher,0
-2021,Private,22,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,23,Full Time,Civillian Servant,0
-2021,Private,23,Full Time,Private,0
-2021,Private,23,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,23,Part Time,Part Time Teacher,0
-2021,Private,26,Full Time,Civillian Servant,0
-2021,Private,30,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,33,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,34,Full Time,Civillian Servant,0
-2021,Private,34,Part Time,Auxiliary Teachers Paid by Local Government,0
-2021,Private,34,Part Time,Part Time Teacher,0
-2023,Public,2,Part Time,Auxiliary Teachers Paid by Central Government,1
-2023,Public,6,Part Time,Auxiliary Teachers Paid by Central Government,2
-2022,Public,1,Part Time,Auxiliary Teachers Paid by Central Government,1
-2022,Public,2,Part Time,Auxiliary Teachers Paid by Central Government,10
-2022,Public,6,Part Time,Auxiliary Teachers Paid by Central Government,1
-2021,Public,2,Part Time,Auxiliary Teachers Paid by Central Government,25
-2021,Private,34,Part Time,Auxiliary Teachers Paid by Central Government,1
-2023,Public,1,Full Time,Private,454
-2023,Public,2,Full Time,Private,2146
-2023,Public,3,Full Time,Private,746
-2023,Public,4,Full Time,Private,1129
-2023,Public,5,Full Time,Private,522
-2023,Public,6,Full Time,Private,2165
-2023,Public,7,Full Time,Private,131
-2023,Public,8,Full Time,Private,228
-2023,Public,9,Full Time,Private,831
-2023,Public,10,Full Time,Private,185
-2023,Public,11,Full Time,Private,100
-2023,Public,12,Full Time,Private,51
-2023,Public,13,Full Time,Private,109
-2023,Public,14,Full Time,Private,6
-2023,Public,15,Full Time,Private,34
-2023,Public,16,Full Time,Private,112
-2023,Public,17,Full Time,Private,88
-2023,Public,18,Full Time,Private,14
-2023,Public,19,Full Time,Private,33
-2023,Public,20,Full Time,Private,130
-2023,Public,21,Full Time,Private,3
-2023,Public,22,Full Time,Private,98
-2023,Public,24,Full Time,Private,63
-2023,Public,25,Full Time,Private,407
-2023,Public,26,Full Time,Private,25
-2023,Public,27,Full Time,Private,347
-2023,Public,28,Full Time,Private,10
-2023,Public,29,Full Time,Private,11
-2023,Public,30,Full Time,Private,12
-2023,Public,31,Full Time,Private,260
-2023,Public,32,Full Time,Private,29
-2023,Public,33,Full Time,Private,2
-2023,Public,34,Full Time,Private,15
-2022,Private,1,Full Time,Private,505
-2022,Private,2,Full Time,Private,2162
-2022,Private,3,Full Time,Private,705
-2022,Private,4,Full Time,Private,1076
-2022,Private,5,Full Time,Private,510
-2022,Private,6,Full Time,Private,2120
-2022,Private,7,Full Time,Private,139
-2022,Private,8,Full Time,Private,236
-2022,Private,9,Full Time,Private,861
-2022,Private,10,Full Time,Private,220
-2022,Private,11,Full Time,Private,99
-2022,Private,12,Full Time,Private,43
-2022,Private,13,Full Time,Private,114
-2022,Private,14,Full Time,Private,7
-2022,Private,15,Full Time,Private,36
-2022,Private,16,Full Time,Private,110
-2022,Private,17,Full Time,Private,79
-2022,Private,18,Full Time,Private,11
-2022,Private,19,Full Time,Private,36
-2022,Private,20,Full Time,Private,129
-2022,Private,22,Full Time,Private,109
-2022,Private,24,Full Time,Private,59
-2022,Private,25,Full Time,Private,443
-2022,Private,26,Full Time,Private,26
-2022,Private,27,Full Time,Private,377
-2022,Private,28,Full Time,Private,15
-2022,Private,29,Full Time,Private,8
-2022,Private,30,Full Time,Private,12
-2022,Private,31,Full Time,Private,283
-2022,Private,32,Full Time,Private,29
-2022,Private,33,Full Time,Private,9
-2022,Private,34,Full Time,Private,8
-2021,Private,1,Full Time,Private,487
-2021,Private,2,Full Time,Private,2219
-2021,Private,3,Full Time,Private,704
-2021,Private,4,Full Time,Private,1135
-2021,Private,5,Full Time,Private,500
-2021,Private,6,Full Time,Private,2055
-2021,Private,7,Full Time,Private,106
-2021,Private,8,Full Time,Private,214
-2021,Private,9,Full Time,Private,742
-2021,Private,10,Full Time,Private,209
-2021,Private,11,Full Time,Private,85
-2021,Private,12,Full Time,Private,38
-2021,Private,13,Full Time,Private,114
-2021,Private,14,Full Time,Private,4
-2021,Private,15,Full Time,Private,24
-2021,Private,16,Full Time,Private,99
-2021,Private,17,Full Time,Private,64
-2021,Private,18,Full Time,Private,20
-2021,Private,19,Full Time,Private,31
-2021,Private,20,Full Time,Private,130
-2021,Private,22,Full Time,Private,111
-2021,Private,24,Full Time,Private,31
-2021,Private,25,Full Time,Private,417
-2021,Private,26,Full Time,Private,17
-2021,Private,27,Full Time,Private,361
-2021,Private,28,Full Time,Private,15
-2021,Private,29,Full Time,Private,8
-2021,Private,30,Full Time,Private,9
-2021,Private,31,Full Time,Private,286
-2021,Private,32,Full Time,Private,21
-2021,Private,33,Full Time,Private,12
-2021,Private,34,Full Time,Private,8
-2023,Public,1,Part Time,Auxiliary Teachers Paid by Local Government,102
-2023,Public,2,Part Time,Auxiliary Teachers Paid by Local Government,195
-2023,Public,3,Part Time,Auxiliary Teachers Paid by Local Government,110
-2023,Public,4,Part Time,Auxiliary Teachers Paid by Local Government,305
-2023,Public,5,Part Time,Auxiliary Teachers Paid by Local Government,27
-2023,Public,6,Part Time,Auxiliary Teachers Paid by Local Government,214
-2023,Public,7,Part Time,Auxiliary Teachers Paid by Local Government,448
-2023,Public,8,Part Time,Auxiliary Teachers Paid by Local Government,229
-2023,Public,9,Part Time,Auxiliary Teachers Paid by Local Government,77
-2023,Public,10,Part Time,Auxiliary Teachers Paid by Local Government,131
-2023,Public,11,Part Time,Auxiliary Teachers Paid by Local Government,55
-2023,Public,12,Part Time,Auxiliary Teachers Paid by Local Government,182
-2023,Public,13,Part Time,Auxiliary Teachers Paid by Local Government,57
-2023,Public,14,Part Time,Auxiliary Teachers Paid by Local Government,38
-2023,Public,15,Part Time,Auxiliary Teachers Paid by Local Government,139
-2023,Public,16,Part Time,Auxiliary Teachers Paid by Local Government,6
-2023,Public,17,Part Time,Auxiliary Teachers Paid by Local Government,16
-2023,Public,18,Part Time,Auxiliary Teachers Paid by Local Government,100
-2023,Public,19,Part Time,Auxiliary Teachers Paid by Local Government,210
-2023,Public,20,Part Time,Auxiliary Teachers Paid by Local Government,114
-2023,Public,21,Part Time,Auxiliary Teachers Paid by Local Government,23
-2023,Public,22,Part Time,Auxiliary Teachers Paid by Local Government,11
-2023,Public,23,Part Time,Auxiliary Teachers Paid by Local Government,137
-2023,Public,24,Part Time,Auxiliary Teachers Paid by Local Government,23
-2023,Public,25,Part Time,Auxiliary Teachers Paid by Local Government,117
-2023,Public,26,Part Time,Auxiliary Teachers Paid by Local Government,93
-2023,Public,27,Part Time,Auxiliary Teachers Paid by Local Government,74
-2023,Public,28,Part Time,Auxiliary Teachers Paid by Local Government,20
-2023,Public,29,Part Time,Auxiliary Teachers Paid by Local Government,43
-2023,Public,30,Part Time,Auxiliary Teachers Paid by Local Government,45
-2023,Public,31,Part Time,Auxiliary Teachers Paid by Local Government,94
-2023,Public,32,Part Time,Auxiliary Teachers Paid by Local Government,163
-2023,Public,33,Part Time,Auxiliary Teachers Paid by Local Government,8
-2023,Public,34,Part Time,Auxiliary Teachers Paid by Local Government,16
-2022,Public,1,Part Time,Auxiliary Teachers Paid by Local Government,172
-2022,Public,2,Part Time,Auxiliary Teachers Paid by Local Government,311
-2022,Public,3,Part Time,Auxiliary Teachers Paid by Local Government,112
-2022,Public,4,Part Time,Auxiliary Teachers Paid by Local Government,400
-2022,Public,5,Part Time,Auxiliary Teachers Paid by Local Government,80
-2022,Public,6,Part Time,Auxiliary Teachers Paid by Local Government,175
-2022,Public,7,Part Time,Auxiliary Teachers Paid by Local Government,279
-2022,Public,8,Part Time,Auxiliary Teachers Paid by Local Government,229
-2022,Public,9,Part Time,Auxiliary Teachers Paid by Local Government,103
-2022,Public,10,Part Time,Auxiliary Teachers Paid by Local Government,139
-2022,Public,11,Part Time,Auxiliary Teachers Paid by Local Government,71
-2022,Public,12,Part Time,Auxiliary Teachers Paid by Local Government,183
-2022,Public,13,Part Time,Auxiliary Teachers Paid by Local Government,77
-2022,Public,14,Part Time,Auxiliary Teachers Paid by Local Government,45
-2022,Public,15,Part Time,Auxiliary Teachers Paid by Local Government,125
-2022,Public,16,Part Time,Auxiliary Teachers Paid by Local Government,7
-2022,Public,17,Part Time,Auxiliary Teachers Paid by Local Government,36
-2022,Public,18,Part Time,Auxiliary Teachers Paid by Local Government,96
-2022,Public,19,Part Time,Auxiliary Teachers Paid by Local Government,220
-2022,Public,20,Part Time,Auxiliary Teachers Paid by Local Government,92
-2022,Public,21,Part Time,Auxiliary Teachers Paid by Local Government,18
-2022,Public,22,Part Time,Auxiliary Teachers Paid by Local Government,16
-2022,Public,23,Part Time,Auxiliary Teachers Paid by Local Government,159
-2022,Public,24,Part Time,Auxiliary Teachers Paid by Local Government,31
-2022,Public,25,Part Time,Auxiliary Teachers Paid by Local Government,173
-2022,Public,26,Part Time,Auxiliary Teachers Paid by Local Government,83
-2022,Public,27,Part Time,Auxiliary Teachers Paid by Local Government,63
-2022,Public,28,Part Time,Auxiliary Teachers Paid by Local Government,16
-2022,Public,29,Part Time,Auxiliary Teachers Paid by Local Government,94
-2022,Public,30,Part Time,Auxiliary Teachers Paid by Local Government,55
-2022,Public,31,Part Time,Auxiliary Teachers Paid by Local Government,115
-2022,Public,32,Part Time,Auxiliary Teachers Paid by Local Government,162
-2022,Public,33,Part Time,Auxiliary Teachers Paid by Local Government,18
-2022,Public,34,Part Time,Auxiliary Teachers Paid by Local Government,20
-2022,Private,1,Part Time,Auxiliary Teachers Paid by Local Government,2
-2022,Private,2,Part Time,Auxiliary Teachers Paid by Local Government,9
-2022,Private,3,Part Time,Auxiliary Teachers Paid by Local Government,3
-2022,Private,4,Part Time,Auxiliary Teachers Paid by Local Government,4
-2022,Private,5,Part Time,Auxiliary Teachers Paid by Local Government,3
-2022,Private,6,Part Time,Auxiliary Teachers Paid by Local Government,5
-2022,Private,7,Part Time,Auxiliary Teachers Paid by Local Government,220
-2022,Private,8,Part Time,Auxiliary Teachers Paid by Local Government,3
-2022,Private,9,Part Time,Auxiliary Teachers Paid by Local Government,13
-2022,Private,10,Part Time,Auxiliary Teachers Paid by Local Government,2
-2022,Private,13,Part Time,Auxiliary Teachers Paid by Local Government,3
-2022,Private,15,Part Time,Auxiliary Teachers Paid by Local Government,1
-2022,Private,17,Part Time,Auxiliary Teachers Paid by Local Government,1
-2022,Private,18,Part Time,Auxiliary Teachers Paid by Local Government,6
-2022,Private,19,Part Time,Auxiliary Teachers Paid by Local Government,3
-2022,Private,20,Part Time,Auxiliary Teachers Paid by Local Government,4
-2022,Private,22,Part Time,Auxiliary Teachers Paid by Local Government,1
-2022,Private,24,Part Time,Auxiliary Teachers Paid by Local Government,5
-2022,Private,25,Part Time,Auxiliary Teachers Paid by Local Government,15
-2022,Private,26,Part Time,Auxiliary Teachers Paid by Local Government,20
-2022,Private,27,Part Time,Auxiliary Teachers Paid by Local Government,46
-2022,Private,28,Part Time,Auxiliary Teachers Paid by Local Government,7
-2022,Private,29,Part Time,Auxiliary Teachers Paid by Local Government,7
-2022,Private,31,Part Time,Auxiliary Teachers Paid by Local Government,29
-2022,Private,32,Part Time,Auxiliary Teachers Paid by Local Government,27
-2021,Public,1,Part Time,Auxiliary Teachers Paid by Local Government,208
-2021,Public,2,Part Time,Auxiliary Teachers Paid by Local Government,44
-2021,Public,3,Part Time,Auxiliary Teachers Paid by Local Government,96
-2021,Public,4,Part Time,Auxiliary Teachers Paid by Local Government,576
-2021,Public,5,Part Time,Auxiliary Teachers Paid by Local Government,78
-2021,Public,6,Part Time,Auxiliary Teachers Paid by Local Government,39
-2021,Public,7,Part Time,Auxiliary Teachers Paid by Local Government,339
-2021,Public,8,Part Time,Auxiliary Teachers Paid by Local Government,147
-2021,Public,9,Part Time,Auxiliary Teachers Paid by Local Government,52
-2021,Public,10,Part Time,Auxiliary Teachers Paid by Local Government,124
-2021,Public,11,Part Time,Auxiliary Teachers Paid by Local Government,81
-2021,Public,12,Part Time,Auxiliary Teachers Paid by Local Government,101
-2021,Public,13,Part Time,Auxiliary Teachers Paid by Local Government,69
-2021,Public,14,Part Time,Auxiliary Teachers Paid by Local Government,41
-2021,Public,15,Part Time,Auxiliary Teachers Paid by Local Government,72
-2021,Public,16,Part Time,Auxiliary Teachers Paid by Local Government,3
-2021,Public,17,Part Time,Auxiliary Teachers Paid by Local Government,44
-2021,Public,18,Part Time,Auxiliary Teachers Paid by Local Government,101
-2021,Public,19,Part Time,Auxiliary Teachers Paid by Local Government,293
-2021,Public,20,Part Time,Auxiliary Teachers Paid by Local Government,103
-2021,Public,21,Part Time,Auxiliary Teachers Paid by Local Government,23
-2021,Public,22,Part Time,Auxiliary Teachers Paid by Local Government,19
-2021,Public,23,Part Time,Auxiliary Teachers Paid by Local Government,142
-2021,Public,24,Part Time,Auxiliary Teachers Paid by Local Government,26
-2021,Public,25,Part Time,Auxiliary Teachers Paid by Local Government,137
-2021,Public,26,Part Time,Auxiliary Teachers Paid by Local Government,94
-2021,Public,27,Part Time,Auxiliary Teachers Paid by Local Government,38
-2021,Public,28,Part Time,Auxiliary Teachers Paid by Local Government,14
-2021,Public,29,Part Time,Auxiliary Teachers Paid by Local Government,72
-2021,Public,30,Part Time,Auxiliary Teachers Paid by Local Government,56
-2021,Public,31,Part Time,Auxiliary Teachers Paid by Local Government,99
-2021,Public,32,Part Time,Auxiliary Teachers Paid by Local Government,189
-2021,Public,33,Part Time,Auxiliary Teachers Paid by Local Government,15
-2021,Public,34,Part Time,Auxiliary Teachers Paid by Local Government,9
-2021,Private,1,Part Time,Auxiliary Teachers Paid by Local Government,3
-2021,Private,2,Part Time,Auxiliary Teachers Paid by Local Government,8
-2021,Private,3,Part Time,Auxiliary Teachers Paid by Local Government,4
-2021,Private,4,Part Time,Auxiliary Teachers Paid by Local Government,5
-2021,Private,5,Part Time,Auxiliary Teachers Paid by Local Government,2
-2021,Private,6,Part Time,Auxiliary Teachers Paid by Local Government,5
-2021,Private,7,Part Time,Auxiliary Teachers Paid by Local Government,245
-2021,Private,9,Part Time,Auxiliary Teachers Paid by Local Government,4
-2021,Private,10,Part Time,Auxiliary Teachers Paid by Local Government,3
-2021,Private,13,Part Time,Auxiliary Teachers Paid by Local Government,1
-2021,Private,17,Part Time,Auxiliary Teachers Paid by Local Government,1
-2021,Private,18,Part Time,Auxiliary Teachers Paid by Local Government,10
-2021,Private,19,Part Time,Auxiliary Teachers Paid by Local Government,6
-2021,Private,20,Part Time,Auxiliary Teachers Paid by Local Government,7
-2021,Private,24,Part Time,Auxiliary Teachers Paid by Local Government,3
-2021,Private,25,Part Time,Auxiliary Teachers Paid by Local Government,15
-2021,Private,26,Part Time,Auxiliary Teachers Paid by Local Government,25
-2021,Private,27,Part Time,Auxiliary Teachers Paid by Local Government,36
-2021,Private,28,Part Time,Auxiliary Teachers Paid by Local Government,6
-2021,Private,29,Part Time,Auxiliary Teachers Paid by Local Government,2
-2021,Private,31,Part Time,Auxiliary Teachers Paid by Local Government,17
-2021,Private,32,Part Time,Auxiliary Teachers Paid by Local Government,27
-2023,Public,1,Full Time,Civillian Servant,415
-2023,Public,2,Full Time,Civillian Servant,1078
-2023,Public,3,Full Time,Civillian Servant,230
-2023,Public,4,Full Time,Civillian Servant,786
-2023,Public,5,Full Time,Civillian Servant,436
-2023,Public,6,Full Time,Civillian Servant,916
-2023,Public,7,Full Time,Civillian Servant,132
-2023,Public,8,Full Time,Civillian Servant,216
-2023,Public,9,Full Time,Civillian Servant,404
-2023,Public,10,Full Time,Civillian Servant,121
-2023,Public,11,Full Time,Civillian Servant,46
-2023,Public,12,Full Time,Civillian Servant,80
-2023,Public,13,Full Time,Civillian Servant,109
-2023,Public,14,Full Time,Civillian Servant,78
-2023,Public,15,Full Time,Civillian Servant,81
-2023,Public,16,Full Time,Civillian Servant,102
-2023,Public,17,Full Time,Civillian Servant,48
-2023,Public,18,Full Time,Civillian Servant,79
-2023,Public,19,Full Time,Civillian Servant,230
-2023,Public,20,Full Time,Civillian Servant,101
-2023,Public,21,Full Time,Civillian Servant,46
-2023,Public,22,Full Time,Civillian Servant,109
-2023,Public,23,Full Time,Civillian Servant,54
-2023,Public,24,Full Time,Civillian Servant,81
-2023,Public,25,Full Time,Civillian Servant,402
-2023,Public,26,Full Time,Civillian Servant,78
-2023,Public,27,Full Time,Civillian Servant,103
-2023,Public,28,Full Time,Civillian Servant,51
-2023,Public,29,Full Time,Civillian Servant,69
-2023,Public,30,Full Time,Civillian Servant,261
-2023,Public,31,Full Time,Civillian Servant,191
-2023,Public,32,Full Time,Civillian Servant,194
-2023,Public,33,Full Time,Civillian Servant,32
-2023,Public,34,Full Time,Civillian Servant,31
-2022,Public,1,Full Time,Civillian Servant,319
-2022,Public,2,Full Time,Civillian Servant,571
-2022,Public,3,Full Time,Civillian Servant,247
-2022,Public,4,Full Time,Civillian Servant,535
-2022,Public,5,Full Time,Civillian Servant,270
-2022,Public,6,Full Time,Civillian Servant,561
-2022,Public,7,Full Time,Civillian Servant,121
-2022,Public,8,Full Time,Civillian Servant,203
-2022,Public,9,Full Time,Civillian Servant,297
-2022,Public,10,Full Time,Civillian Servant,129
-2022,Public,11,Full Time,Civillian Servant,48
-2022,Public,12,Full Time,Civillian Servant,90
-2022,Public,13,Full Time,Civillian Servant,78
-2022,Public,14,Full Time,Civillian Servant,79
-2022,Public,15,Full Time,Civillian Servant,85
-2022,Public,16,Full Time,Civillian Servant,85
-2022,Public,17,Full Time,Civillian Servant,47
-2022,Public,18,Full Time,Civillian Servant,85
-2022,Public,19,Full Time,Civillian Servant,243
-2022,Public,20,Full Time,Civillian Servant,104
-2022,Public,21,Full Time,Civillian Servant,54
-2022,Public,22,Full Time,Civillian Servant,50
-2022,Public,23,Full Time,Civillian Servant,60
-2022,Public,24,Full Time,Civillian Servant,72
-2022,Public,25,Full Time,Civillian Servant,346
-2022,Public,26,Full Time,Civillian Servant,89
-2022,Public,27,Full Time,Civillian Servant,55
-2022,Public,28,Full Time,Civillian Servant,50
-2022,Public,29,Full Time,Civillian Servant,69
-2022,Public,30,Full Time,Civillian Servant,270
-2022,Public,31,Full Time,Civillian Servant,182
-2022,Public,32,Full Time,Civillian Servant,202
-2022,Public,33,Full Time,Civillian Servant,55
-2022,Public,34,Full Time,Civillian Servant,4
-2022,Private,1,Full Time,Civillian Servant,138
-2022,Private,2,Full Time,Civillian Servant,636
-2022,Private,3,Full Time,Civillian Servant,1
-2022,Private,4,Full Time,Civillian Servant,358
-2022,Private,5,Full Time,Civillian Servant,205
-2022,Private,6,Full Time,Civillian Servant,498
-2022,Private,7,Full Time,Civillian Servant,29
-2022,Private,8,Full Time,Civillian Servant,34
-2022,Private,9,Full Time,Civillian Servant,147
-2022,Private,10,Full Time,Civillian Servant,8
-2022,Private,13,Full Time,Civillian Servant,41
-2022,Private,16,Full Time,Civillian Servant,39
-2022,Private,17,Full Time,Civillian Servant,6
-2022,Private,18,Full Time,Civillian Servant,3
-2022,Private,20,Full Time,Civillian Servant,8
-2022,Private,22,Full Time,Civillian Servant,65
-2022,Private,24,Full Time,Civillian Servant,17
-2022,Private,25,Full Time,Civillian Servant,129
-2022,Private,27,Full Time,Civillian Servant,74
-2022,Private,28,Full Time,Civillian Servant,7
-2022,Private,29,Full Time,Civillian Servant,11
-2022,Private,30,Full Time,Civillian Servant,3
-2022,Private,31,Full Time,Civillian Servant,30
-2022,Private,32,Full Time,Civillian Servant,19
-2022,Private,33,Full Time,Civillian Servant,10
-2021,Public,1,Full Time,Civillian Servant,302
-2021,Public,2,Full Time,Civillian Servant,588
-2021,Public,3,Full Time,Civillian Servant,252
-2021,Public,4,Full Time,Civillian Servant,560
-2021,Public,5,Full Time,Civillian Servant,279
-2021,Public,6,Full Time,Civillian Servant,575
-2021,Public,7,Full Time,Civillian Servant,128
-2021,Public,8,Full Time,Civillian Servant,214
-2021,Public,9,Full Time,Civillian Servant,310
-2021,Public,10,Full Time,Civillian Servant,132
-2021,Public,11,Full Time,Civillian Servant,53
-2021,Public,12,Full Time,Civillian Servant,98
-2021,Public,13,Full Time,Civillian Servant,84
-2021,Public,14,Full Time,Civillian Servant,78
-2021,Public,15,Full Time,Civillian Servant,92
-2021,Public,16,Full Time,Civillian Servant,96
-2021,Public,17,Full Time,Civillian Servant,41
-2021,Public,18,Full Time,Civillian Servant,84
-2021,Public,19,Full Time,Civillian Servant,239
-2021,Public,20,Full Time,Civillian Servant,107
-2021,Public,21,Full Time,Civillian Servant,57
-2021,Public,22,Full Time,Civillian Servant,39
-2021,Public,23,Full Time,Civillian Servant,65
-2021,Public,24,Full Time,Civillian Servant,78
-2021,Public,25,Full Time,Civillian Servant,336
-2021,Public,26,Full Time,Civillian Servant,68
-2021,Public,27,Full Time,Civillian Servant,52
-2021,Public,28,Full Time,Civillian Servant,54
-2021,Public,29,Full Time,Civillian Servant,80
-2021,Public,30,Full Time,Civillian Servant,262
-2021,Public,31,Full Time,Civillian Servant,157
-2021,Public,32,Full Time,Civillian Servant,204
-2021,Public,33,Full Time,Civillian Servant,52
-2021,Public,34,Full Time,Civillian Servant,5
-2021,Private,1,Full Time,Civillian Servant,162
-2021,Private,2,Full Time,Civillian Servant,713
-2021,Private,3,Full Time,Civillian Servant,3
-2021,Private,4,Full Time,Civillian Servant,404
-2021,Private,5,Full Time,Civillian Servant,232
-2021,Private,6,Full Time,Civillian Servant,559
-2021,Private,7,Full Time,Civillian Servant,38
-2021,Private,8,Full Time,Civillian Servant,37
-2021,Private,9,Full Time,Civillian Servant,153
-2021,Private,10,Full Time,Civillian Servant,9
-2021,Private,13,Full Time,Civillian Servant,44
-2021,Private,15,Full Time,Civillian Servant,1
-2021,Private,16,Full Time,Civillian Servant,42
-2021,Private,17,Full Time,Civillian Servant,16
-2021,Private,18,Full Time,Civillian Servant,5
-2021,Private,19,Full Time,Civillian Servant,1
-2021,Private,20,Full Time,Civillian Servant,10
-2021,Private,22,Full Time,Civillian Servant,66
-2021,Private,24,Full Time,Civillian Servant,17
-2021,Private,25,Full Time,Civillian Servant,166
-2021,Private,27,Full Time,Civillian Servant,71
-2021,Private,28,Full Time,Civillian Servant,8
-2021,Private,29,Full Time,Civillian Servant,13
-2021,Private,30,Full Time,Civillian Servant,3
-2021,Private,31,Full Time,Civillian Servant,38
-2021,Private,32,Full Time,Civillian Servant,23
-2021,Private,33,Full Time,Civillian Servant,5
-2023,Public,1,Part Time,Part Time Teacher,294
-2023,Public,2,Part Time,Part Time Teacher,808
-2023,Public,3,Part Time,Part Time Teacher,66
-2023,Public,4,Part Time,Part Time Teacher,490
-2023,Public,5,Part Time,Part Time Teacher,80
-2023,Public,6,Part Time,Part Time Teacher,419
-2023,Public,7,Part Time,Part Time Teacher,394
-2023,Public,8,Part Time,Part Time Teacher,153
-2023,Public,9,Part Time,Part Time Teacher,188
-2023,Public,10,Part Time,Part Time Teacher,126
-2023,Public,11,Part Time,Part Time Teacher,60
-2023,Public,12,Part Time,Part Time Teacher,124
-2023,Public,13,Part Time,Part Time Teacher,207
-2023,Public,14,Part Time,Part Time Teacher,48
-2023,Public,15,Part Time,Part Time Teacher,69
-2023,Public,16,Part Time,Part Time Teacher,155
-2023,Public,17,Part Time,Part Time Teacher,93
-2023,Public,18,Part Time,Part Time Teacher,149
-2023,Public,19,Part Time,Part Time Teacher,230
-2023,Public,20,Part Time,Part Time Teacher,64
-2023,Public,21,Part Time,Part Time Teacher,18
-2023,Public,22,Part Time,Part Time Teacher,73
-2023,Public,23,Part Time,Part Time Teacher,22
-2023,Public,24,Part Time,Part Time Teacher,95
-2023,Public,25,Part Time,Part Time Teacher,197
-2023,Public,26,Part Time,Part Time Teacher,66
-2023,Public,27,Part Time,Part Time Teacher,85
-2023,Public,28,Part Time,Part Time Teacher,85
-2023,Public,29,Part Time,Part Time Teacher,91
-2023,Public,30,Part Time,Part Time Teacher,48
-2023,Public,31,Part Time,Part Time Teacher,195
-2023,Public,32,Part Time,Part Time Teacher,334
-2023,Public,33,Part Time,Part Time Teacher,24
-2023,Public,34,Part Time,Part Time Teacher,16
-2021,Public,1,Part Time,Part Time Teacher,79
-2021,Public,2,Part Time,Part Time Teacher,560
-2021,Public,3,Part Time,Part Time Teacher,3
-2021,Public,4,Part Time,Part Time Teacher,53
-2021,Public,5,Part Time,Part Time Teacher,9
-2021,Public,6,Part Time,Part Time Teacher,392
-2021,Public,7,Part Time,Part Time Teacher,103
-2021,Public,8,Part Time,Part Time Teacher,127
-2021,Public,9,Part Time,Part Time Teacher,118
-2021,Public,10,Part Time,Part Time Teacher,42
-2021,Public,11,Part Time,Part Time Teacher,10
-2021,Public,12,Part Time,Part Time Teacher,147
-2021,Public,13,Part Time,Part Time Teacher,77
-2021,Public,14,Part Time,Part Time Teacher,29
-2021,Public,15,Part Time,Part Time Teacher,91
-2021,Public,16,Part Time,Part Time Teacher,170
-2021,Public,17,Part Time,Part Time Teacher,43
-2021,Public,18,Part Time,Part Time Teacher,114
-2021,Public,19,Part Time,Part Time Teacher,83
-2021,Public,20,Part Time,Part Time Teacher,45
-2021,Public,21,Part Time,Part Time Teacher,1
-2021,Public,22,Part Time,Part Time Teacher,29
-2021,Public,23,Part Time,Part Time Teacher,20
-2021,Public,24,Part Time,Part Time Teacher,69
-2021,Public,25,Part Time,Part Time Teacher,87
-2021,Public,26,Part Time,Part Time Teacher,61
-2021,Public,27,Part Time,Part Time Teacher,55
-2021,Public,28,Part Time,Part Time Teacher,56
-2021,Public,29,Part Time,Part Time Teacher,63
-2021,Public,30,Part Time,Part Time Teacher,44
-2021,Public,31,Part Time,Part Time Teacher,93
-2021,Public,32,Part Time,Part Time Teacher,197
-2021,Public,33,Part Time,Part Time Teacher,29
-2021,Public,34,Part Time,Part Time Teacher,16
-2021,Private,1,Part Time,Part Time Teacher,88
-2021,Private,2,Part Time,Part Time Teacher,102
-2021,Private,3,Part Time,Part Time Teacher,86
-2021,Private,4,Part Time,Part Time Teacher,118
-2021,Private,5,Part Time,Part Time Teacher,44
-2021,Private,6,Part Time,Part Time Teacher,102
-2021,Private,7,Part Time,Part Time Teacher,63
-2021,Private,8,Part Time,Part Time Teacher,41
-2021,Private,9,Part Time,Part Time Teacher,60
-2021,Private,10,Part Time,Part Time Teacher,35
-2021,Private,11,Part Time,Part Time Teacher,21
-2021,Private,12,Part Time,Part Time Teacher,9
-2021,Private,13,Part Time,Part Time Teacher,57
-2021,Private,14,Part Time,Part Time Teacher,19
-2021,Private,15,Part Time,Part Time Teacher,19
-2021,Private,16,Part Time,Part Time Teacher,43
-2021,Private,17,Part Time,Part Time Teacher,22
-2021,Private,18,Part Time,Part Time Teacher,11
-2021,Private,19,Part Time,Part Time Teacher,5
-2021,Private,20,Part Time,Part Time Teacher,37
-2021,Private,22,Part Time,Part Time Teacher,41
-2021,Private,24,Part Time,Part Time Teacher,36
-2021,Private,25,Part Time,Part Time Teacher,46
-2021,Private,26,Part Time,Part Time Teacher,25
-2021,Private,27,Part Time,Part Time Teacher,44
-2021,Private,28,Part Time,Part Time Teacher,15
-2021,Private,29,Part Time,Part Time Teacher,7
-2021,Private,30,Part Time,Part Time Teacher,11
-2021,Private,31,Part Time,Part Time Teacher,68
-2021,Private,32,Part Time,Part Time Teacher,46
-2021,Private,33,Part Time,Part Time Teacher,5
-2022,Public,1,Part Time,Part Time Teacher,79
-2022,Public,2,Part Time,Part Time Teacher,442
-2022,Public,3,Part Time,Part Time Teacher,4
-2022,Public,4,Part Time,Part Time Teacher,320
-2022,Public,5,Part Time,Part Time Teacher,2
-2022,Public,6,Part Time,Part Time Teacher,352
-2022,Public,7,Part Time,Part Time Teacher,256
-2022,Public,8,Part Time,Part Time Teacher,75
-2022,Public,9,Part Time,Part Time Teacher,89
-2022,Public,10,Part Time,Part Time Teacher,75
-2022,Public,11,Part Time,Part Time Teacher,10
-2022,Public,12,Part Time,Part Time Teacher,86
-2022,Public,13,Part Time,Part Time Teacher,109
-2022,Public,14,Part Time,Part Time Teacher,20
-2022,Public,15,Part Time,Part Time Teacher,66
-2022,Public,16,Part Time,Part Time Teacher,164
-2022,Public,17,Part Time,Part Time Teacher,54
-2022,Public,18,Part Time,Part Time Teacher,149
-2022,Public,19,Part Time,Part Time Teacher,167
-2022,Public,20,Part Time,Part Time Teacher,50
-2022,Public,21,Part Time,Part Time Teacher,17
-2022,Public,22,Part Time,Part Time Teacher,33
-2022,Public,23,Part Time,Part Time Teacher,10
-2022,Public,24,Part Time,Part Time Teacher,66
-2022,Public,25,Part Time,Part Time Teacher,69
-2022,Public,26,Part Time,Part Time Teacher,41
-2022,Public,27,Part Time,Part Time Teacher,52
-2022,Public,28,Part Time,Part Time Teacher,61
-2022,Public,29,Part Time,Part Time Teacher,54
-2022,Public,30,Part Time,Part Time Teacher,26
-2022,Public,31,Part Time,Part Time Teacher,107
-2022,Public,32,Part Time,Part Time Teacher,232
-2022,Public,33,Part Time,Part Time Teacher,22
-2022,Public,34,Part Time,Part Time Teacher,2
-2022,Private,1,Part Time,Part Time Teacher,70
-2022,Private,2,Part Time,Part Time Teacher,101
-2022,Private,3,Part Time,Part Time Teacher,63
-2022,Private,4,Part Time,Part Time Teacher,84
-2022,Private,5,Part Time,Part Time Teacher,30
-2022,Private,6,Part Time,Part Time Teacher,72
-2022,Private,7,Part Time,Part Time Teacher,56
-2022,Private,8,Part Time,Part Time Teacher,44
-2022,Private,9,Part Time,Part Time Teacher,35
-2022,Private,10,Part Time,Part Time Teacher,35
-2022,Private,11,Part Time,Part Time Teacher,16
-2022,Private,12,Part Time,Part Time Teacher,8
-2022,Private,13,Part Time,Part Time Teacher,82
-2022,Private,14,Part Time,Part Time Teacher,14
-2022,Private,15,Part Time,Part Time Teacher,6
-2022,Private,16,Part Time,Part Time Teacher,34
-2022,Private,17,Part Time,Part Time Teacher,15
-2022,Private,18,Part Time,Part Time Teacher,9
-2022,Private,19,Part Time,Part Time Teacher,6
-2022,Private,20,Part Time,Part Time Teacher,22
-2022,Private,22,Part Time,Part Time Teacher,34
-2022,Private,24,Part Time,Part Time Teacher,30
-2022,Private,25,Part Time,Part Time Teacher,38
-2022,Private,26,Part Time,Part Time Teacher,22
-2022,Private,27,Part Time,Part Time Teacher,41
-2022,Private,28,Part Time,Part Time Teacher,15
-2022,Private,29,Part Time,Part Time Teacher,7
-2022,Private,30,Part Time,Part Time Teacher,7
-2022,Private,31,Part Time,Part Time Teacher,61
-2022,Private,32,Part Time,Part Time Teacher,43
-2022,Private,33,Part Time,Part Time Teacher,11
+Year,Status,No.,Province a,Work Stat,Work Role,Value
+2023,Public,1,DKI Jakarta,Full Time,Civillian Servant,111
+2023,Public,1,DKI Jakarta,Full Time,Private,454
+2023,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,2
+2023,Public,1,DKI Jakarta,Part Time,Part Time Teacher,85
+2023,Public,2,Jawa Barat,Full Time,Civillian Servant,530
+2023,Public,2,Jawa Barat,Full Time,Private,2146
+2023,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Public,2,Jawa Barat,Part Time,Part Time Teacher,80
+2023,Public,3,Banten,Full Time,Civillian Servant,1
+2023,Public,3,Banten,Full Time,Private,746
+2023,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,2
+2023,Public,3,Banten,Part Time,Part Time Teacher,54
+2023,Public,4,Jawa Tengah,Full Time,Civillian Servant,219
+2023,Public,4,Jawa Tengah,Full Time,Private,1129
+2023,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,4,Jawa Tengah,Part Time,Part Time Teacher,72
+2023,Public,5,DI Yogyakarta,Full Time,Civillian Servant,165
+2023,Public,5,DI Yogyakarta,Full Time,Private,522
+2023,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,2
+2023,Public,5,DI Yogyakarta,Part Time,Part Time Teacher,27
+2023,Public,6,Jawa Timur,Full Time,Civillian Servant,406
+2023,Public,6,Jawa Timur,Full Time,Private,2165
+2023,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,1
+2023,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,2
+2023,Public,6,Jawa Timur,Part Time,Part Time Teacher,60
+2023,Public,7,Aceh,Full Time,Civillian Servant,24
+2023,Public,7,Aceh,Full Time,Private,131
+2023,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,183
+2023,Public,7,Aceh,Part Time,Part Time Teacher,44
+2023,Public,8,Sumatera Utara,Full Time,Civillian Servant,28
+2023,Public,8,Sumatera Utara,Full Time,Private,228
+2023,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,8,Sumatera Utara,Part Time,Part Time Teacher,41
+2023,Public,9,Sumatera Barat,Full Time,Civillian Servant,130
+2023,Public,9,Sumatera Barat,Full Time,Private,831
+2023,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,5
+2023,Public,9,Sumatera Barat,Part Time,Part Time Teacher,33
+2023,Public,10,Riau,Full Time,Civillian Servant,0
+2023,Public,10,Riau,Full Time,Private,185
+2023,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,2
+2023,Public,10,Riau,Part Time,Part Time Teacher,35
+2023,Public,11,Kepulauan Riau,Full Time,Civillian Servant,0
+2023,Public,11,Kepulauan Riau,Full Time,Private,100
+2023,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,11,Kepulauan Riau,Part Time,Part Time Teacher,16
+2023,Public,12,Jambi,Full Time,Civillian Servant,0
+2023,Public,12,Jambi,Full Time,Private,51
+2023,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,12,Jambi,Part Time,Part Time Teacher,6
+2023,Public,13,Sumatera Selatan,Full Time,Civillian Servant,3
+2023,Public,13,Sumatera Selatan,Full Time,Private,109
+2023,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Public,13,Sumatera Selatan,Part Time,Part Time Teacher,80
+2023,Public,14,Kep. Bangka Belitung,Full Time,Civillian Servant,0
+2023,Public,14,Kep. Bangka Belitung,Full Time,Private,6
+2023,Public,14,Kep. Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,14,Kep. Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,14,Kep. Bangka Belitung,Part Time,Part Time Teacher,17
+2023,Public,15,Bengkulu,Full Time,Civillian Servant,0
+2023,Public,15,Bengkulu,Full Time,Private,34
+2023,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Public,15,Bengkulu,Part Time,Part Time Teacher,9
+2023,Public,16,Lampung,Full Time,Civillian Servant,21
+2023,Public,16,Lampung,Full Time,Private,112
+2023,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,16,Lampung,Part Time,Part Time Teacher,17
+2023,Public,17,Kalimantan Barat,Full Time,Civillian Servant,4
+2023,Public,17,Kalimantan Barat,Full Time,Private,88
+2023,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,17,Kalimantan Barat,Part Time,Part Time Teacher,17
+2023,Public,18,Kalimantan Tengah,Full Time,Civillian Servant,2
+2023,Public,18,Kalimantan Tengah,Full Time,Private,14
+2023,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,18,Kalimantan Tengah,Part Time,Part Time Teacher,11
+2023,Public,19,Kalimantan Selatan,Full Time,Civillian Servant,0
+2023,Public,19,Kalimantan Selatan,Full Time,Private,33
+2023,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,19,Kalimantan Selatan,Part Time,Part Time Teacher,7
+2023,Public,20,Kalimantan Timur,Full Time,Civillian Servant,1
+2023,Public,20,Kalimantan Timur,Full Time,Private,130
+2023,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Public,20,Kalimantan Timur,Part Time,Part Time Teacher,16
+2023,Public,21,Kalimantan Utara,Full Time,Civillian Servant,0
+2023,Public,21,Kalimantan Utara,Full Time,Private,3
+2023,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,21,Kalimantan Utara,Part Time,Part Time Teacher,0
+2023,Public,22,Sulawesi Utara,Full Time,Civillian Servant,61
+2023,Public,22,Sulawesi Utara,Full Time,Private,98
+2023,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,22,Sulawesi Utara,Part Time,Part Time Teacher,34
+2023,Public,23,Gorontalo,Full Time,Civillian Servant,0
+2023,Public,23,Gorontalo,Full Time,Private,0
+2023,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,23,Gorontalo,Part Time,Part Time Teacher,0
+2023,Public,24,Sulawesi Tengah,Full Time,Civillian Servant,14
+2023,Public,24,Sulawesi Tengah,Full Time,Private,63
+2023,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,24,Sulawesi Tengah,Part Time,Part Time Teacher,33
+2023,Public,25,Sulawesi Selatan,Full Time,Civillian Servant,87
+2023,Public,25,Sulawesi Selatan,Full Time,Private,407
+2023,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,25,Sulawesi Selatan,Part Time,Part Time Teacher,31
+2023,Public,26,Sulawesi Barat,Full Time,Civillian Servant,0
+2023,Public,26,Sulawesi Barat,Full Time,Private,25
+2023,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,14
+2023,Public,26,Sulawesi Barat,Part Time,Part Time Teacher,17
+2023,Public,27,Sulawesi Tenggara,Full Time,Civillian Servant,54
+2023,Public,27,Sulawesi Tenggara,Full Time,Private,347
+2023,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,14
+2023,Public,27,Sulawesi Tenggara,Part Time,Part Time Teacher,14
+2023,Public,28,Maluku,Full Time,Civillian Servant,4
+2023,Public,28,Maluku,Full Time,Private,10
+2023,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,6
+2023,Public,28,Maluku,Part Time,Part Time Teacher,17
+2023,Public,29,Maluku Utara,Full Time,Civillian Servant,3
+2023,Public,29,Maluku Utara,Full Time,Private,11
+2023,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,29,Maluku Utara,Part Time,Part Time Teacher,5
+2023,Public,30,Bali,Full Time,Civillian Servant,2
+2023,Public,30,Bali,Full Time,Private,12
+2023,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,30,Bali,Part Time,Part Time Teacher,7
+2023,Public,31,Nusa Tenggara Barat,Full Time,Civillian Servant,15
+2023,Public,31,Nusa Tenggara Barat,Full Time,Private,260
+2023,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,4
+2023,Public,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,33
+2023,Public,32,Nusa Tenggara Timur,Full Time,Civillian Servant,18
+2023,Public,32,Nusa Tenggara Timur,Full Time,Private,29
+2023,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,16
+2023,Public,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,48
+2023,Public,33,Papua,Full Time,Civillian Servant,0
+2023,Public,33,Papua,Full Time,Private,2
+2023,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,33,Papua,Part Time,Part Time Teacher,8
+2023,Public,34,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,34,Papua Barat,Full Time,Private,8
+2023,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,34,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,35,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,35,Papua Barat,Full Time,Private,0
+2023,Public,35,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,35,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,35,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,36,Papua Barat,Full Time,Civillian Servant,8
+2023,Public,36,Papua Barat,Full Time,Private,7
+2023,Public,36,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,36,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Public,36,Papua Barat,Part Time,Part Time Teacher,1
+2023,Public,37,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,37,Papua Barat,Full Time,Private,0
+2023,Public,37,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,37,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,37,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,38,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,38,Papua Barat,Full Time,Private,0
+2023,Public,38,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,38,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,38,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,1,DKI Jakarta,Full Time,Civillian Servant,304
+2023,Public,1,DKI Jakarta,Full Time,Private,0
+2023,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,100
+2023,Public,1,DKI Jakarta,Part Time,Part Time Teacher,209
+2023,Public,2,Jawa Barat,Full Time,Civillian Servant,548
+2023,Public,2,Jawa Barat,Full Time,Private,0
+2023,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,1
+2023,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,194
+2023,Public,2,Jawa Barat,Part Time,Part Time Teacher,728
+2023,Public,3,Banten,Full Time,Civillian Servant,229
+2023,Public,3,Banten,Full Time,Private,0
+2023,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,108
+2023,Public,3,Banten,Part Time,Part Time Teacher,12
+2023,Public,4,Jawa Tengah,Full Time,Civillian Servant,567
+2023,Public,4,Jawa Tengah,Full Time,Private,0
+2023,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,301
+2023,Public,4,Jawa Tengah,Part Time,Part Time Teacher,418
+2023,Public,5,DI Yogyakarta,Full Time,Civillian Servant,271
+2023,Public,5,DI Yogyakarta,Full Time,Private,0
+2023,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,25
+2023,Public,5,DI Yogyakarta,Part Time,Part Time Teacher,53
+2023,Public,6,Jawa Timur,Full Time,Civillian Servant,510
+2023,Public,6,Jawa Timur,Full Time,Private,0
+2023,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,1
+2023,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,212
+2023,Public,6,Jawa Timur,Part Time,Part Time Teacher,359
+2023,Public,7,Aceh,Full Time,Civillian Servant,108
+2023,Public,7,Aceh,Full Time,Private,0
+2023,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,265
+2023,Public,7,Aceh,Part Time,Part Time Teacher,350
+2023,Public,8,Sumatera Utara,Full Time,Civillian Servant,188
+2023,Public,8,Sumatera Utara,Full Time,Private,0
+2023,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,229
+2023,Public,8,Sumatera Utara,Part Time,Part Time Teacher,112
+2023,Public,9,Sumatera Barat,Full Time,Civillian Servant,274
+2023,Public,9,Sumatera Barat,Full Time,Private,0
+2023,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,72
+2023,Public,9,Sumatera Barat,Part Time,Part Time Teacher,155
+2023,Public,10,Riau,Full Time,Civillian Servant,121
+2023,Public,10,Riau,Full Time,Private,0
+2023,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,129
+2023,Public,10,Riau,Part Time,Part Time Teacher,91
+2023,Public,11,Kepulauan Riau,Full Time,Civillian Servant,46
+2023,Public,11,Kepulauan Riau,Full Time,Private,0
+2023,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,55
+2023,Public,11,Kepulauan Riau,Part Time,Part Time Teacher,44
+2023,Public,12,Jambi,Full Time,Civillian Servant,80
+2023,Public,12,Jambi,Full Time,Private,0
+2023,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,182
+2023,Public,12,Jambi,Part Time,Part Time Teacher,118
+2023,Public,13,Sumatera Selatan,Full Time,Civillian Servant,106
+2023,Public,13,Sumatera Selatan,Full Time,Private,0
+2023,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,56
+2023,Public,13,Sumatera Selatan,Part Time,Part Time Teacher,127
+2023,Public,14,Kep. Bangka Belitung,Full Time,Civillian Servant,78
+2023,Public,14,Kep. Bangka Belitung,Full Time,Private,0
+2023,Public,14,Kep. Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,14,Kep. Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,38
+2023,Public,14,Kep. Bangka Belitung,Part Time,Part Time Teacher,31
+2023,Public,15,Bengkulu,Full Time,Civillian Servant,81
+2023,Public,15,Bengkulu,Full Time,Private,0
+2023,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,138
+2023,Public,15,Bengkulu,Part Time,Part Time Teacher,60
+2023,Public,16,Lampung,Full Time,Civillian Servant,81
+2023,Public,16,Lampung,Full Time,Private,0
+2023,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,6
+2023,Public,16,Lampung,Part Time,Part Time Teacher,138
+2023,Public,17,Kalimantan Barat,Full Time,Civillian Servant,44
+2023,Public,17,Kalimantan Barat,Full Time,Private,0
+2023,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,16
+2023,Public,17,Kalimantan Barat,Part Time,Part Time Teacher,76
+2023,Public,18,Kalimantan Tengah,Full Time,Civillian Servant,77
+2023,Public,18,Kalimantan Tengah,Full Time,Private,0
+2023,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,96
+2023,Public,18,Kalimantan Tengah,Part Time,Part Time Teacher,138
+2023,Public,19,Kalimantan Selatan,Full Time,Civillian Servant,230
+2023,Public,19,Kalimantan Selatan,Full Time,Private,0
+2023,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,210
+2023,Public,19,Kalimantan Selatan,Part Time,Part Time Teacher,223
+2023,Public,20,Kalimantan Timur,Full Time,Civillian Servant,100
+2023,Public,20,Kalimantan Timur,Full Time,Private,0
+2023,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,113
+2023,Public,20,Kalimantan Timur,Part Time,Part Time Teacher,48
+2023,Public,21,Kalimantan Utara,Full Time,Civillian Servant,46
+2023,Public,21,Kalimantan Utara,Full Time,Private,0
+2023,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,23
+2023,Public,21,Kalimantan Utara,Part Time,Part Time Teacher,18
+2023,Public,22,Sulawesi Utara,Full Time,Civillian Servant,48
+2023,Public,22,Sulawesi Utara,Full Time,Private,0
+2023,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,11
+2023,Public,22,Sulawesi Utara,Part Time,Part Time Teacher,39
+2023,Public,23,Gorontalo,Full Time,Civillian Servant,54
+2023,Public,23,Gorontalo,Full Time,Private,0
+2023,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,137
+2023,Public,23,Gorontalo,Part Time,Part Time Teacher,22
+2023,Public,24,Sulawesi Tengah,Full Time,Civillian Servant,67
+2023,Public,24,Sulawesi Tengah,Full Time,Private,0
+2023,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,19
+2023,Public,24,Sulawesi Tengah,Part Time,Part Time Teacher,62
+2023,Public,25,Sulawesi Selatan,Full Time,Civillian Servant,315
+2023,Public,25,Sulawesi Selatan,Full Time,Private,0
+2023,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,113
+2023,Public,25,Sulawesi Selatan,Part Time,Part Time Teacher,166
+2023,Public,26,Sulawesi Barat,Full Time,Civillian Servant,78
+2023,Public,26,Sulawesi Barat,Full Time,Private,0
+2023,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,79
+2023,Public,26,Sulawesi Barat,Part Time,Part Time Teacher,49
+2023,Public,27,Sulawesi Tenggara,Full Time,Civillian Servant,49
+2023,Public,27,Sulawesi Tenggara,Full Time,Private,0
+2023,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,60
+2023,Public,27,Sulawesi Tenggara,Part Time,Part Time Teacher,71
+2023,Public,28,Maluku,Full Time,Civillian Servant,47
+2023,Public,28,Maluku,Full Time,Private,0
+2023,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,14
+2023,Public,28,Maluku,Part Time,Part Time Teacher,68
+2023,Public,29,Maluku Utara,Full Time,Civillian Servant,66
+2023,Public,29,Maluku Utara,Full Time,Private,0
+2023,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,39
+2023,Public,29,Maluku Utara,Part Time,Part Time Teacher,86
+2023,Public,30,Bali,Full Time,Civillian Servant,259
+2023,Public,30,Bali,Full Time,Private,0
+2023,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,45
+2023,Public,30,Bali,Part Time,Part Time Teacher,41
+2023,Public,31,Nusa Tenggara Barat,Full Time,Civillian Servant,176
+2023,Public,31,Nusa Tenggara Barat,Full Time,Private,0
+2023,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,90
+2023,Public,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,162
+2023,Public,32,Nusa Tenggara Timur,Full Time,Civillian Servant,176
+2023,Public,32,Nusa Tenggara Timur,Full Time,Private,0
+2023,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,147
+2023,Public,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,286
+2023,Public,33,Papua,Full Time,Civillian Servant,32
+2023,Public,33,Papua,Full Time,Private,0
+2023,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,8
+2023,Public,33,Papua,Part Time,Part Time Teacher,16
+2023,Public,34,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,34,Papua Barat,Full Time,Private,0
+2023,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,34,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,35,Papua Barat,Full Time,Civillian Servant,19
+2023,Public,35,Papua Barat,Full Time,Private,0
+2023,Public,35,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,35,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,6
+2023,Public,35,Papua Barat,Part Time,Part Time Teacher,2
+2023,Public,36,Papua Barat,Full Time,Civillian Servant,1
+2023,Public,36,Papua Barat,Full Time,Private,0
+2023,Public,36,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,36,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,36,Papua Barat,Part Time,Part Time Teacher,9
+2023,Public,37,Papua Barat,Full Time,Civillian Servant,0
+2023,Public,37,Papua Barat,Full Time,Private,0
+2023,Public,37,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,37,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2023,Public,37,Papua Barat,Part Time,Part Time Teacher,0
+2023,Public,38,Papua Barat,Full Time,Civillian Servant,3
+2023,Public,38,Papua Barat,Full Time,Private,0
+2023,Public,38,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2023,Public,38,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,9
+2023,Public,38,Papua Barat,Part Time,Part Time Teacher,4
+2022,Public,1,DKI Jakarta,Full Time,Civillian Servant,319
+2022,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,1
+2022,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,172
+2022,Public,1,DKI Jakarta,Part Time,Part Time Teacher,79
+2022,Public,2,Jawa Barat,Full Time,Civillian Servant,571
+2022,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,10
+2022,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,311
+2022,Public,2,Jawa Barat,Part Time,Part Time Teacher,442
+2022,Public,3,Banten,Full Time,Civillian Servant,247
+2022,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,112
+2022,Public,3,Banten,Part Time,Part Time Teacher,4
+2022,Public,4,Jawa Tengah,Full Time,Civillian Servant,535
+2022,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,400
+2022,Public,4,Jawa Tengah,Part Time,Part Time Teacher,320
+2022,Public,5,DI Yogyakarta,Full Time,Civillian Servant,270
+2022,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,80
+2022,Public,5,DI Yogyakarta,Part Time,Part Time Teacher,2
+2022,Public,6,Jawa Timur,Full Time,Civillian Servant,561
+2022,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,1
+2022,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,175
+2022,Public,6,Jawa Timur,Part Time,Part Time Teacher,352
+2022,Public,7,Aceh,Full Time,Civillian Servant,121
+2022,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,279
+2022,Public,7,Aceh,Part Time,Part Time Teacher,256
+2022,Public,8,Sumatera Utara,Full Time,Civillian Servant,203
+2022,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,229
+2022,Public,8,Sumatera Utara,Part Time,Part Time Teacher,75
+2022,Public,9,Sumatera Barat,Full Time,Civillian Servant,297
+2022,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,103
+2022,Public,9,Sumatera Barat,Part Time,Part Time Teacher,89
+2022,Public,10,Riau,Full Time,Civillian Servant,129
+2022,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,139
+2022,Public,10,Riau,Part Time,Part Time Teacher,75
+2022,Public,11,Kepulauan Riau,Full Time,Civillian Servant,48
+2022,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,71
+2022,Public,11,Kepulauan Riau,Part Time,Part Time Teacher,10
+2022,Public,12,Jambi,Full Time,Civillian Servant,90
+2022,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,183
+2022,Public,12,Jambi,Part Time,Part Time Teacher,86
+2022,Public,13,Sumatera Selatan,Full Time,Civillian Servant,78
+2022,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,77
+2022,Public,13,Sumatera Selatan,Part Time,Part Time Teacher,109
+2022,Public,14,Bangka Belitung,Full Time,Civillian Servant,79
+2022,Public,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,45
+2022,Public,14,Bangka Belitung,Part Time,Part Time Teacher,20
+2022,Public,15,Bengkulu,Full Time,Civillian Servant,85
+2022,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,125
+2022,Public,15,Bengkulu,Part Time,Part Time Teacher,66
+2022,Public,16,Lampung,Full Time,Civillian Servant,85
+2022,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,7
+2022,Public,16,Lampung,Part Time,Part Time Teacher,164
+2022,Public,17,Kalimantan Barat,Full Time,Civillian Servant,47
+2022,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,36
+2022,Public,17,Kalimantan Barat,Part Time,Part Time Teacher,54
+2022,Public,18,Kalimantan Tengah,Full Time,Civillian Servant,85
+2022,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,96
+2022,Public,18,Kalimantan Tengah,Part Time,Part Time Teacher,149
+2022,Public,19,Kalimantan Selatan,Full Time,Civillian Servant,243
+2022,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,220
+2022,Public,19,Kalimantan Selatan,Part Time,Part Time Teacher,167
+2022,Public,20,Kalimantan Timur,Full Time,Civillian Servant,104
+2022,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,92
+2022,Public,20,Kalimantan Timur,Part Time,Part Time Teacher,50
+2022,Public,21,Kalimantan Utara,Full Time,Civillian Servant,54
+2022,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,18
+2022,Public,21,Kalimantan Utara,Part Time,Part Time Teacher,17
+2022,Public,22,Sulawesi Utara,Full Time,Civillian Servant,50
+2022,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,16
+2022,Public,22,Sulawesi Utara,Part Time,Part Time Teacher,33
+2022,Public,23,Gorontalo,Full Time,Civillian Servant,60
+2022,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,159
+2022,Public,23,Gorontalo,Part Time,Part Time Teacher,10
+2022,Public,24,Sulawesi Tengah,Full Time,Civillian Servant,72
+2022,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,31
+2022,Public,24,Sulawesi Tengah,Part Time,Part Time Teacher,66
+2022,Public,25,Sulawesi Selatan,Full Time,Civillian Servant,346
+2022,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,173
+2022,Public,25,Sulawesi Selatan,Part Time,Part Time Teacher,69
+2022,Public,26,Sulawesi Barat,Full Time,Civillian Servant,89
+2022,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,83
+2022,Public,26,Sulawesi Barat,Part Time,Part Time Teacher,41
+2022,Public,27,Sulawesi Tenggara,Full Time,Civillian Servant,55
+2022,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,63
+2022,Public,27,Sulawesi Tenggara,Part Time,Part Time Teacher,52
+2022,Public,28,Maluku,Full Time,Civillian Servant,50
+2022,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,16
+2022,Public,28,Maluku,Part Time,Part Time Teacher,61
+2022,Public,29,Maluku Utara,Full Time,Civillian Servant,69
+2022,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,94
+2022,Public,29,Maluku Utara,Part Time,Part Time Teacher,54
+2022,Public,30,Bali,Full Time,Civillian Servant,270
+2022,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,55
+2022,Public,30,Bali,Part Time,Part Time Teacher,26
+2022,Public,31,Nusa Tenggara Barat,Full Time,Civillian Servant,182
+2022,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,115
+2022,Public,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,107
+2022,Public,32,Nusa Tenggara Timur,Full Time,Civillian Servant,202
+2022,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,162
+2022,Public,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,232
+2022,Public,33,Papua,Full Time,Civillian Servant,55
+2022,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,18
+2022,Public,33,Papua,Part Time,Part Time Teacher,22
+2022,Public,34,Papua Barat,Full Time,Civillian Servant,4
+2022,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,20
+2022,Public,34,Papua Barat,Part Time,Part Time Teacher,2
+2022,Private,1,DKI Jakarta,Full Time,Civillian Servant,138
+2022,Private,1,DKI Jakarta,Full Time,Private,505
+2022,Private,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,2
+2022,Private,1,DKI Jakarta,Part Time,Part Time Teacher,70
+2022,Private,2,Jawa Barat,Full Time,Civillian Servant,636
+2022,Private,2,Jawa Barat,Full Time,Private,2162
+2022,Private,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,9
+2022,Private,2,Jawa Barat,Part Time,Part Time Teacher,101
+2022,Private,3,Banten,Full Time,Civillian Servant,1
+2022,Private,3,Banten,Full Time,Private,705
+2022,Private,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,3
+2022,Private,3,Banten,Part Time,Part Time Teacher,63
+2022,Private,4,Jawa Tengah,Full Time,Civillian Servant,358
+2022,Private,4,Jawa Tengah,Full Time,Private,1076
+2022,Private,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,4
+2022,Private,4,Jawa Tengah,Part Time,Part Time Teacher,84
+2022,Private,5,DI Yogyakarta,Full Time,Civillian Servant,205
+2022,Private,5,DI Yogyakarta,Full Time,Private,510
+2022,Private,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,3
+2022,Private,5,DI Yogyakarta,Part Time,Part Time Teacher,30
+2022,Private,6,Jawa Timur,Full Time,Civillian Servant,498
+2022,Private,6,Jawa Timur,Full Time,Private,2120
+2022,Private,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,5
+2022,Private,6,Jawa Timur,Part Time,Part Time Teacher,72
+2022,Private,7,Aceh,Full Time,Civillian Servant,29
+2022,Private,7,Aceh,Full Time,Private,139
+2022,Private,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,220
+2022,Private,7,Aceh,Part Time,Part Time Teacher,56
+2022,Private,8,Sumatera Utara,Full Time,Civillian Servant,34
+2022,Private,8,Sumatera Utara,Full Time,Private,236
+2022,Private,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,3
+2022,Private,8,Sumatera Utara,Part Time,Part Time Teacher,44
+2022,Private,9,Sumatera Barat,Full Time,Civillian Servant,147
+2022,Private,9,Sumatera Barat,Full Time,Private,861
+2022,Private,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,13
+2022,Private,9,Sumatera Barat,Part Time,Part Time Teacher,35
+2022,Private,10,Riau,Full Time,Civillian Servant,8
+2022,Private,10,Riau,Full Time,Private,220
+2022,Private,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,2
+2022,Private,10,Riau,Part Time,Part Time Teacher,35
+2022,Private,11,Kepulauan Riau,Full Time,Civillian Servant,0
+2022,Private,11,Kepulauan Riau,Full Time,Private,99
+2022,Private,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,11,Kepulauan Riau,Part Time,Part Time Teacher,16
+2022,Private,12,Jambi,Full Time,Civillian Servant,0
+2022,Private,12,Jambi,Full Time,Private,43
+2022,Private,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,12,Jambi,Part Time,Part Time Teacher,8
+2022,Private,13,Sumatera Selatan,Full Time,Civillian Servant,41
+2022,Private,13,Sumatera Selatan,Full Time,Private,114
+2022,Private,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,3
+2022,Private,13,Sumatera Selatan,Part Time,Part Time Teacher,82
+2022,Private,14,Bangka Belitung,Full Time,Civillian Servant,0
+2022,Private,14,Bangka Belitung,Full Time,Private,7
+2022,Private,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,14,Bangka Belitung,Part Time,Part Time Teacher,14
+2022,Private,15,Bengkulu,Full Time,Civillian Servant,0
+2022,Private,15,Bengkulu,Full Time,Private,36
+2022,Private,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,1
+2022,Private,15,Bengkulu,Part Time,Part Time Teacher,6
+2022,Private,16,Lampung,Full Time,Civillian Servant,39
+2022,Private,16,Lampung,Full Time,Private,110
+2022,Private,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,16,Lampung,Part Time,Part Time Teacher,34
+2022,Private,17,Kalimantan Barat,Full Time,Civillian Servant,6
+2022,Private,17,Kalimantan Barat,Full Time,Private,79
+2022,Private,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,1
+2022,Private,17,Kalimantan Barat,Part Time,Part Time Teacher,15
+2022,Private,18,Kalimantan Tengah,Full Time,Civillian Servant,3
+2022,Private,18,Kalimantan Tengah,Full Time,Private,11
+2022,Private,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,6
+2022,Private,18,Kalimantan Tengah,Part Time,Part Time Teacher,9
+2022,Private,19,Kalimantan Selatan,Full Time,Civillian Servant,0
+2022,Private,19,Kalimantan Selatan,Full Time,Private,36
+2022,Private,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,3
+2022,Private,19,Kalimantan Selatan,Part Time,Part Time Teacher,6
+2022,Private,20,Kalimantan Timur,Full Time,Civillian Servant,8
+2022,Private,20,Kalimantan Timur,Full Time,Private,129
+2022,Private,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,4
+2022,Private,20,Kalimantan Timur,Part Time,Part Time Teacher,22
+2022,Private,21,Kalimantan Utara,Full Time,Civillian Servant,0
+2022,Private,21,Kalimantan Utara,Full Time,Private,0
+2022,Private,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,21,Kalimantan Utara,Part Time,Part Time Teacher,0
+2022,Private,22,Sulawesi Utara,Full Time,Civillian Servant,65
+2022,Private,22,Sulawesi Utara,Full Time,Private,109
+2022,Private,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,1
+2022,Private,22,Sulawesi Utara,Part Time,Part Time Teacher,34
+2022,Private,23,Gorontalo,Full Time,Civillian Servant,0
+2022,Private,23,Gorontalo,Full Time,Private,0
+2022,Private,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,23,Gorontalo,Part Time,Part Time Teacher,0
+2022,Private,24,Sulawesi Tengah,Full Time,Civillian Servant,17
+2022,Private,24,Sulawesi Tengah,Full Time,Private,59
+2022,Private,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,5
+2022,Private,24,Sulawesi Tengah,Part Time,Part Time Teacher,30
+2022,Private,25,Sulawesi Selatan,Full Time,Civillian Servant,129
+2022,Private,25,Sulawesi Selatan,Full Time,Private,443
+2022,Private,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,15
+2022,Private,25,Sulawesi Selatan,Part Time,Part Time Teacher,38
+2022,Private,26,Sulawesi Barat,Full Time,Civillian Servant,0
+2022,Private,26,Sulawesi Barat,Full Time,Private,26
+2022,Private,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,20
+2022,Private,26,Sulawesi Barat,Part Time,Part Time Teacher,22
+2022,Private,27,Sulawesi Tenggara,Full Time,Civillian Servant,74
+2022,Private,27,Sulawesi Tenggara,Full Time,Private,377
+2022,Private,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,46
+2022,Private,27,Sulawesi Tenggara,Part Time,Part Time Teacher,41
+2022,Private,28,Maluku,Full Time,Civillian Servant,7
+2022,Private,28,Maluku,Full Time,Private,15
+2022,Private,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,7
+2022,Private,28,Maluku,Part Time,Part Time Teacher,15
+2022,Private,29,Maluku Utara,Full Time,Civillian Servant,11
+2022,Private,29,Maluku Utara,Full Time,Private,8
+2022,Private,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,7
+2022,Private,29,Maluku Utara,Part Time,Part Time Teacher,7
+2022,Private,30,Bali,Full Time,Civillian Servant,3
+2022,Private,30,Bali,Full Time,Private,12
+2022,Private,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,30,Bali,Part Time,Part Time Teacher,7
+2022,Private,31,Nusa Tenggara Barat,Full Time,Civillian Servant,30
+2022,Private,31,Nusa Tenggara Barat,Full Time,Private,283
+2022,Private,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,29
+2022,Private,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,61
+2022,Private,32,Nusa Tenggara Timur,Full Time,Civillian Servant,19
+2022,Private,32,Nusa Tenggara Timur,Full Time,Private,29
+2022,Private,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,27
+2022,Private,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,43
+2022,Private,33,Papua,Full Time,Civillian Servant,10
+2022,Private,33,Papua,Full Time,Private,9
+2022,Private,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,33,Papua,Part Time,Part Time Teacher,11
+2022,Private,34,Papua Barat,Full Time,Civillian Servant,0
+2022,Private,34,Papua Barat,Full Time,Private,8
+2022,Private,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2022,Private,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2022,Private,34,Papua Barat,Part Time,Part Time Teacher,0
+2021,Public,1,DKI Jakarta,Full Time,Civillian Servant,302
+2021,Public,1,DKI Jakarta,Full Time,Private,0
+2021,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,208
+2021,Public,1,DKI Jakarta,Part Time,Part Time Teacher,79
+2021,Public,2,Jawa Barat,Full Time,Civillian Servant,588
+2021,Public,2,Jawa Barat,Full Time,Private,0
+2021,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,25
+2021,Public,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,44
+2021,Public,2,Jawa Barat,Part Time,Part Time Teacher,560
+2021,Public,3,Banten,Full Time,Civillian Servant,252
+2021,Public,3,Banten,Full Time,Private,0
+2021,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,96
+2021,Public,3,Banten,Part Time,Part Time Teacher,3
+2021,Public,4,Jawa Tengah,Full Time,Civillian Servant,560
+2021,Public,4,Jawa Tengah,Full Time,Private,0
+2021,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,576
+2021,Public,4,Jawa Tengah,Part Time,Part Time Teacher,53
+2021,Public,5,DI Yogyakarta,Full Time,Civillian Servant,279
+2021,Public,5,DI Yogyakarta,Full Time,Private,0
+2021,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,78
+2021,Public,5,DI Yogyakarta,Part Time,Part Time Teacher,9
+2021,Public,6,Jawa Timur,Full Time,Civillian Servant,575
+2021,Public,6,Jawa Timur,Full Time,Private,0
+2021,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,39
+2021,Public,6,Jawa Timur,Part Time,Part Time Teacher,392
+2021,Public,7,Aceh,Full Time,Civillian Servant,128
+2021,Public,7,Aceh,Full Time,Private,0
+2021,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,339
+2021,Public,7,Aceh,Part Time,Part Time Teacher,103
+2021,Public,8,Sumatera Utara,Full Time,Civillian Servant,214
+2021,Public,8,Sumatera Utara,Full Time,Private,0
+2021,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,147
+2021,Public,8,Sumatera Utara,Part Time,Part Time Teacher,127
+2021,Public,9,Sumatera Barat,Full Time,Civillian Servant,310
+2021,Public,9,Sumatera Barat,Full Time,Private,0
+2021,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,52
+2021,Public,9,Sumatera Barat,Part Time,Part Time Teacher,118
+2021,Public,10,Riau,Full Time,Civillian Servant,132
+2021,Public,10,Riau,Full Time,Private,0
+2021,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,124
+2021,Public,10,Riau,Part Time,Part Time Teacher,42
+2021,Public,11,Kepulauan Riau,Full Time,Civillian Servant,53
+2021,Public,11,Kepulauan Riau,Full Time,Private,0
+2021,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,81
+2021,Public,11,Kepulauan Riau,Part Time,Part Time Teacher,10
+2021,Public,12,Jambi,Full Time,Civillian Servant,98
+2021,Public,12,Jambi,Full Time,Private,0
+2021,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,101
+2021,Public,12,Jambi,Part Time,Part Time Teacher,147
+2021,Public,13,Sumatera Selatan,Full Time,Civillian Servant,84
+2021,Public,13,Sumatera Selatan,Full Time,Private,0
+2021,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,69
+2021,Public,13,Sumatera Selatan,Part Time,Part Time Teacher,77
+2021,Public,14,Bangka Belitung,Full Time,Civillian Servant,78
+2021,Public,14,Bangka Belitung,Full Time,Private,0
+2021,Public,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,41
+2021,Public,14,Bangka Belitung,Part Time,Part Time Teacher,29
+2021,Public,15,Bengkulu,Full Time,Civillian Servant,92
+2021,Public,15,Bengkulu,Full Time,Private,0
+2021,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,72
+2021,Public,15,Bengkulu,Part Time,Part Time Teacher,91
+2021,Public,16,Lampung,Full Time,Civillian Servant,96
+2021,Public,16,Lampung,Full Time,Private,0
+2021,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,3
+2021,Public,16,Lampung,Part Time,Part Time Teacher,170
+2021,Public,17,Kalimantan Barat,Full Time,Civillian Servant,41
+2021,Public,17,Kalimantan Barat,Full Time,Private,0
+2021,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,44
+2021,Public,17,Kalimantan Barat,Part Time,Part Time Teacher,43
+2021,Public,18,Kalimantan Tengah,Full Time,Civillian Servant,84
+2021,Public,18,Kalimantan Tengah,Full Time,Private,0
+2021,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,101
+2021,Public,18,Kalimantan Tengah,Part Time,Part Time Teacher,114
+2021,Public,19,Kalimantan Selatan,Full Time,Civillian Servant,239
+2021,Public,19,Kalimantan Selatan,Full Time,Private,0
+2021,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,293
+2021,Public,19,Kalimantan Selatan,Part Time,Part Time Teacher,83
+2021,Public,20,Kalimantan Timur,Full Time,Civillian Servant,107
+2021,Public,20,Kalimantan Timur,Full Time,Private,0
+2021,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,103
+2021,Public,20,Kalimantan Timur,Part Time,Part Time Teacher,45
+2021,Public,21,Kalimantan Utara,Full Time,Civillian Servant,57
+2021,Public,21,Kalimantan Utara,Full Time,Private,0
+2021,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,23
+2021,Public,21,Kalimantan Utara,Part Time,Part Time Teacher,1
+2021,Public,22,Sulawesi Utara,Full Time,Civillian Servant,39
+2021,Public,22,Sulawesi Utara,Full Time,Private,0
+2021,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,19
+2021,Public,22,Sulawesi Utara,Part Time,Part Time Teacher,29
+2021,Public,23,Gorontalo,Full Time,Civillian Servant,65
+2021,Public,23,Gorontalo,Full Time,Private,0
+2021,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,142
+2021,Public,23,Gorontalo,Part Time,Part Time Teacher,20
+2021,Public,24,Sulawesi Tengah,Full Time,Civillian Servant,78
+2021,Public,24,Sulawesi Tengah,Full Time,Private,0
+2021,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,26
+2021,Public,24,Sulawesi Tengah,Part Time,Part Time Teacher,69
+2021,Public,25,Sulawesi Selatan,Full Time,Civillian Servant,336
+2021,Public,25,Sulawesi Selatan,Full Time,Private,0
+2021,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,137
+2021,Public,25,Sulawesi Selatan,Part Time,Part Time Teacher,87
+2021,Public,26,Sulawesi Barat,Full Time,Civillian Servant,68
+2021,Public,26,Sulawesi Barat,Full Time,Private,0
+2021,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,94
+2021,Public,26,Sulawesi Barat,Part Time,Part Time Teacher,61
+2021,Public,27,Sulawesi Tenggara,Full Time,Civillian Servant,52
+2021,Public,27,Sulawesi Tenggara,Full Time,Private,0
+2021,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,38
+2021,Public,27,Sulawesi Tenggara,Part Time,Part Time Teacher,-55
+2021,Public,28,Maluku,Full Time,Civillian Servant,54
+2021,Public,28,Maluku,Full Time,Private,0
+2021,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,14
+2021,Public,28,Maluku,Part Time,Part Time Teacher,56
+2021,Public,29,Maluku Utara,Full Time,Civillian Servant,80
+2021,Public,29,Maluku Utara,Full Time,Private,0
+2021,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,72
+2021,Public,29,Maluku Utara,Part Time,Part Time Teacher,63
+2021,Public,30,Bali,Full Time,Civillian Servant,262
+2021,Public,30,Bali,Full Time,Private,0
+2021,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,56
+2021,Public,30,Bali,Part Time,Part Time Teacher,44
+2021,Public,31,Nusa Tenggara Barat,Full Time,Civillian Servant,157
+2021,Public,31,Nusa Tenggara Barat,Full Time,Private,0
+2021,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,99
+2021,Public,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,93
+2021,Public,32,Nusa Tenggara Timur,Full Time,Civillian Servant,204
+2021,Public,32,Nusa Tenggara Timur,Full Time,Private,0
+2021,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,189
+2021,Public,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,197
+2021,Public,33,Papua,Full Time,Civillian Servant,52
+2021,Public,33,Papua,Full Time,Private,0
+2021,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,15
+2021,Public,33,Papua,Part Time,Part Time Teacher,29
+2021,Public,34,Papua Barat,Full Time,Civillian Servant,5
+2021,Public,34,Papua Barat,Full Time,Private,0
+2021,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Public,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,9
+2021,Public,34,Papua Barat,Part Time,Part Time Teacher,16
+2021,Private,1,DKI Jakarta,Full Time,Civillian Servant,162
+2021,Private,1,DKI Jakarta,Full Time,Private,487
+2021,Private,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,1,DKI Jakarta,Part Time,Auxiliary Teachers Paid by Local Government,3
+2021,Private,1,DKI Jakarta,Part Time,Part Time Teacher,88
+2021,Private,2,Jawa Barat,Full Time,Civillian Servant,713
+2021,Private,2,Jawa Barat,Full Time,Private,2219
+2021,Private,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,2,Jawa Barat,Part Time,Auxiliary Teachers Paid by Local Government,8
+2021,Private,2,Jawa Barat,Part Time,Part Time Teacher,102
+2021,Private,3,Banten,Full Time,Civillian Servant,3
+2021,Private,3,Banten,Full Time,Private,704
+2021,Private,3,Banten,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,3,Banten,Part Time,Auxiliary Teachers Paid by Local Government,4
+2021,Private,3,Banten,Part Time,Part Time Teacher,86
+2021,Private,4,Jawa Tengah,Full Time,Civillian Servant,404
+2021,Private,4,Jawa Tengah,Full Time,Private,1135
+2021,Private,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,4,Jawa Tengah,Part Time,Auxiliary Teachers Paid by Local Government,5
+2021,Private,4,Jawa Tengah,Part Time,Part Time Teacher,118
+2021,Private,5,DI Yogyakarta,Full Time,Civillian Servant,232
+2021,Private,5,DI Yogyakarta,Full Time,Private,500
+2021,Private,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,5,DI Yogyakarta,Part Time,Auxiliary Teachers Paid by Local Government,2
+2021,Private,5,DI Yogyakarta,Part Time,Part Time Teacher,44
+2021,Private,6,Jawa Timur,Full Time,Civillian Servant,559
+2021,Private,6,Jawa Timur,Full Time,Private,2055
+2021,Private,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,6,Jawa Timur,Part Time,Auxiliary Teachers Paid by Local Government,5
+2021,Private,6,Jawa Timur,Part Time,Part Time Teacher,102
+2021,Private,7,Aceh,Full Time,Civillian Servant,38
+2021,Private,7,Aceh,Full Time,Private,106
+2021,Private,7,Aceh,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,7,Aceh,Part Time,Auxiliary Teachers Paid by Local Government,245
+2021,Private,7,Aceh,Part Time,Part Time Teacher,63
+2021,Private,8,Sumatera Utara,Full Time,Civillian Servant,37
+2021,Private,8,Sumatera Utara,Full Time,Private,214
+2021,Private,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,8,Sumatera Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,8,Sumatera Utara,Part Time,Part Time Teacher,41
+2021,Private,9,Sumatera Barat,Full Time,Civillian Servant,153
+2021,Private,9,Sumatera Barat,Full Time,Private,742
+2021,Private,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,9,Sumatera Barat,Part Time,Auxiliary Teachers Paid by Local Government,4
+2021,Private,9,Sumatera Barat,Part Time,Part Time Teacher,60
+2021,Private,10,Riau,Full Time,Civillian Servant,9
+2021,Private,10,Riau,Full Time,Private,209
+2021,Private,10,Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,10,Riau,Part Time,Auxiliary Teachers Paid by Local Government,3
+2021,Private,10,Riau,Part Time,Part Time Teacher,35
+2021,Private,11,Kepulauan Riau,Full Time,Civillian Servant,0
+2021,Private,11,Kepulauan Riau,Full Time,Private,85
+2021,Private,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,11,Kepulauan Riau,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,11,Kepulauan Riau,Part Time,Part Time Teacher,21
+2021,Private,12,Jambi,Full Time,Civillian Servant,0
+2021,Private,12,Jambi,Full Time,Private,38
+2021,Private,12,Jambi,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,12,Jambi,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,12,Jambi,Part Time,Part Time Teacher,9
+2021,Private,13,Sumatera Selatan,Full Time,Civillian Servant,44
+2021,Private,13,Sumatera Selatan,Full Time,Private,114
+2021,Private,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,13,Sumatera Selatan,Part Time,Auxiliary Teachers Paid by Local Government,1
+2021,Private,13,Sumatera Selatan,Part Time,Part Time Teacher,57
+2021,Private,14,Bangka Belitung,Full Time,Civillian Servant,0
+2021,Private,14,Bangka Belitung,Full Time,Private,4
+2021,Private,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,14,Bangka Belitung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,14,Bangka Belitung,Part Time,Part Time Teacher,19
+2021,Private,15,Bengkulu,Full Time,Civillian Servant,1
+2021,Private,15,Bengkulu,Full Time,Private,24
+2021,Private,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,15,Bengkulu,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,15,Bengkulu,Part Time,Part Time Teacher,19
+2021,Private,16,Lampung,Full Time,Civillian Servant,42
+2021,Private,16,Lampung,Full Time,Private,99
+2021,Private,16,Lampung,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,16,Lampung,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,16,Lampung,Part Time,Part Time Teacher,43
+2021,Private,17,Kalimantan Barat,Full Time,Civillian Servant,16
+2021,Private,17,Kalimantan Barat,Full Time,Private,64
+2021,Private,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,17,Kalimantan Barat,Part Time,Auxiliary Teachers Paid by Local Government,1
+2021,Private,17,Kalimantan Barat,Part Time,Part Time Teacher,22
+2021,Private,18,Kalimantan Tengah,Full Time,Civillian Servant,5
+2021,Private,18,Kalimantan Tengah,Full Time,Private,20
+2021,Private,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,18,Kalimantan Tengah,Part Time,Auxiliary Teachers Paid by Local Government,10
+2021,Private,18,Kalimantan Tengah,Part Time,Part Time Teacher,11
+2021,Private,19,Kalimantan Selatan,Full Time,Civillian Servant,1
+2021,Private,19,Kalimantan Selatan,Full Time,Private,31
+2021,Private,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,19,Kalimantan Selatan,Part Time,Auxiliary Teachers Paid by Local Government,6
+2021,Private,19,Kalimantan Selatan,Part Time,Part Time Teacher,5
+2021,Private,20,Kalimantan Timur,Full Time,Civillian Servant,10
+2021,Private,20,Kalimantan Timur,Full Time,Private,130
+2021,Private,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,20,Kalimantan Timur,Part Time,Auxiliary Teachers Paid by Local Government,7
+2021,Private,20,Kalimantan Timur,Part Time,Part Time Teacher,37
+2021,Private,21,Kalimantan Utara,Full Time,Civillian Servant,0
+2021,Private,21,Kalimantan Utara,Full Time,Private,0
+2021,Private,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,21,Kalimantan Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,21,Kalimantan Utara,Part Time,Part Time Teacher,0
+2021,Private,22,Sulawesi Utara,Full Time,Civillian Servant,66
+2021,Private,22,Sulawesi Utara,Full Time,Private,111
+2021,Private,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,22,Sulawesi Utara,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,22,Sulawesi Utara,Part Time,Part Time Teacher,41
+2021,Private,23,Gorontalo,Full Time,Civillian Servant,0
+2021,Private,23,Gorontalo,Full Time,Private,0
+2021,Private,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,23,Gorontalo,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,23,Gorontalo,Part Time,Part Time Teacher,0
+2021,Private,24,Sulawesi Tengah,Full Time,Civillian Servant,17
+2021,Private,24,Sulawesi Tengah,Full Time,Private,31
+2021,Private,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,24,Sulawesi Tengah,Part Time,Auxiliary Teachers Paid by Local Government,3
+2021,Private,24,Sulawesi Tengah,Part Time,Part Time Teacher,36
+2021,Private,25,Sulawesi Selatan,Full Time,Civillian Servant,166
+2021,Private,25,Sulawesi Selatan,Full Time,Private,417
+2021,Private,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,25,Sulawesi Selatan,Part Time,Auxiliary Teachers Paid by Local Government,15
+2021,Private,25,Sulawesi Selatan,Part Time,Part Time Teacher,46
+2021,Private,26,Sulawesi Barat,Full Time,Civillian Servant,0
+2021,Private,26,Sulawesi Barat,Full Time,Private,17
+2021,Private,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,26,Sulawesi Barat,Part Time,Auxiliary Teachers Paid by Local Government,25
+2021,Private,26,Sulawesi Barat,Part Time,Part Time Teacher,25
+2021,Private,27,Sulawesi Tenggara,Full Time,Civillian Servant,71
+2021,Private,27,Sulawesi Tenggara,Full Time,Private,361
+2021,Private,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,27,Sulawesi Tenggara,Part Time,Auxiliary Teachers Paid by Local Government,36
+2021,Private,27,Sulawesi Tenggara,Part Time,Part Time Teacher,44
+2021,Private,28,Maluku,Full Time,Civillian Servant,8
+2021,Private,28,Maluku,Full Time,Private,15
+2021,Private,28,Maluku,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,28,Maluku,Part Time,Auxiliary Teachers Paid by Local Government,6
+2021,Private,28,Maluku,Part Time,Part Time Teacher,15
+2021,Private,29,Maluku Utara,Full Time,Civillian Servant,13
+2021,Private,29,Maluku Utara,Full Time,Private,8
+2021,Private,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,29,Maluku Utara,Part Time,Auxiliary Teachers Paid by Local Government,2
+2021,Private,29,Maluku Utara,Part Time,Part Time Teacher,7
+2021,Private,30,Bali,Full Time,Civillian Servant,3
+2021,Private,30,Bali,Full Time,Private,9
+2021,Private,30,Bali,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,30,Bali,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,30,Bali,Part Time,Part Time Teacher,11
+2021,Private,31,Nusa Tenggara Barat,Full Time,Civillian Servant,38
+2021,Private,31,Nusa Tenggara Barat,Full Time,Private,286
+2021,Private,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,31,Nusa Tenggara Barat,Part Time,Auxiliary Teachers Paid by Local Government,17
+2021,Private,31,Nusa Tenggara Barat,Part Time,Part Time Teacher,68
+2021,Private,32,Nusa Tenggara Timur,Full Time,Civillian Servant,23
+2021,Private,32,Nusa Tenggara Timur,Full Time,Private,21
+2021,Private,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,32,Nusa Tenggara Timur,Part Time,Auxiliary Teachers Paid by Local Government,27
+2021,Private,32,Nusa Tenggara Timur,Part Time,Part Time Teacher,46
+2021,Private,33,Papua,Full Time,Civillian Servant,5
+2021,Private,33,Papua,Full Time,Private,12
+2021,Private,33,Papua,Part Time,Auxiliary Teachers Paid by Central Government,0
+2021,Private,33,Papua,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,33,Papua,Part Time,Part Time Teacher,5
+2021,Private,34,Papua Barat,Full Time,Civillian Servant,0
+2021,Private,34,Papua Barat,Full Time,Private,8
+2021,Private,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Central Government,1
+2021,Private,34,Papua Barat,Part Time,Auxiliary Teachers Paid by Local Government,0
+2021,Private,34,Papua Barat,Part Time,Part Time Teacher,0
