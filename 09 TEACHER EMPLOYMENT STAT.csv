@@ -164,31 +164,11 @@ Year,Status,No.,Work Stat,Work Role,Total
 2023,Private,33,Part Time,Auxiliary Teachers Paid by Central Government,0
 2023,Private,33,Part Time,Auxiliary Teachers Paid by Local Government,0
 2023,Private,33,Part Time,Part Time Teacher,8
-2023,Private,34,Full Time,Civillian Servant,0
-2023,Private,34,Full Time,Private,8
+2023,Private,34,Full Time,Civillian Servant,8
+2023,Private,34,Full Time,Private,15
 2023,Private,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Private,34,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Private,34,Part Time,Part Time Teacher,0
-2023,Private,35,Full Time,Civillian Servant,0
-2023,Private,35,Full Time,Private,0
-2023,Private,35,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Private,35,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Private,35,Part Time,Part Time Teacher,0
-2023,Private,36,Full Time,Civillian Servant,8
-2023,Private,36,Full Time,Private,7
-2023,Private,36,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Private,36,Part Time,Auxiliary Teachers Paid by Local Government,1
-2023,Private,36,Part Time,Part Time Teacher,1
-2023,Private,37,Full Time,Civillian Servant,0
-2023,Private,37,Full Time,Private,0
-2023,Private,37,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Private,37,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Private,37,Part Time,Part Time Teacher,0
-2023,Private,38,Full Time,Civillian Servant,0
-2023,Private,38,Full Time,Private,0
-2023,Private,38,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Private,38,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Private,38,Part Time,Part Time Teacher,0
+2023,Private,34,Part Time,Auxiliary Teachers Paid by Local Government,1
+2023,Private,34,Part Time,Part Time Teacher,1
 2023,Public,1,Full Time,Civillian Servant,304
 2023,Public,1,Full Time,Private,0
 2023,Public,1,Part Time,Auxiliary Teachers Paid by Central Government,0
@@ -354,31 +334,11 @@ Year,Status,No.,Work Stat,Work Role,Total
 2023,Public,33,Part Time,Auxiliary Teachers Paid by Central Government,0
 2023,Public,33,Part Time,Auxiliary Teachers Paid by Local Government,8
 2023,Public,33,Part Time,Part Time Teacher,16
-2023,Public,34,Full Time,Civillian Servant,0
+2023,Public,34,Full Time,Civillian Servant,23
 2023,Public,34,Full Time,Private,0
 2023,Public,34,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,34,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Public,34,Part Time,Part Time Teacher,0
-2023,Public,35,Full Time,Civillian Servant,19
-2023,Public,35,Full Time,Private,0
-2023,Public,35,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,35,Part Time,Auxiliary Teachers Paid by Local Government,6
-2023,Public,35,Part Time,Part Time Teacher,2
-2023,Public,36,Full Time,Civillian Servant,1
-2023,Public,36,Full Time,Private,0
-2023,Public,36,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,36,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Public,36,Part Time,Part Time Teacher,9
-2023,Public,37,Full Time,Civillian Servant,0
-2023,Public,37,Full Time,Private,0
-2023,Public,37,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,37,Part Time,Auxiliary Teachers Paid by Local Government,0
-2023,Public,37,Part Time,Part Time Teacher,0
-2023,Public,38,Full Time,Civillian Servant,3
-2023,Public,38,Full Time,Private,0
-2023,Public,38,Part Time,Auxiliary Teachers Paid by Central Government,0
-2023,Public,38,Part Time,Auxiliary Teachers Paid by Local Government,9
-2023,Public,38,Part Time,Part Time Teacher,4
+2023,Public,34,Part Time,Auxiliary Teachers Paid by Local Government,15
+2023,Public,34,Part Time,Part Time Teacher,15
 2022,Public,1,Full Time,Civillian Servant,319
 2022,Public,1,Part Time,Auxiliary Teachers Paid by Central Government,1
 2022,Public,1,Part Time,Auxiliary Teachers Paid by Local Government,172
